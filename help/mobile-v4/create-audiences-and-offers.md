@@ -9,7 +9,7 @@ audience: developer
 doc-type: tutorial
 activity-type: implement
 translation-type: tm+mt
-source-git-commit: b331bb29c099bd91df27300ebe199cafa12516db
+source-git-commit: 199fbde58696a0511623c5500cc6afbbcfdd67a3
 workflow-type: tm+mt
 source-wordcount: '1049'
 ht-degree: 1%
@@ -78,13 +78,17 @@ Adobe Target受众用于标识特定的访客组。 优惠随后可以定位到�
 
    ![创建返回用户受众](assets/audience_returning_mobile_app_users.jpg)
 
->[!NOTE] 在移动SDK中收集的所 [!DNL Target] 有生命周期指标和维都以“a”（例如，a.Launches）为前缀，并且在下拉菜单的“自定义”选项中可用，可用于构建受众。
+>[!NOTE]
+>
+>在移动SDK中收集的所 [!DNL Target] 有生命周期指标和维都以“a”（例如，a.Launches）为前缀，并且在下拉菜单的“自定义”选项中可用，可用于构建受众。
 
 ### 为预订圣地亚哥之旅的用户创建受众
 
 接下来，我们将为We.Travel应用程序提供的一些目标创建一些受众。 在上一课中，我们将目标作为位置参数在wetravel_context_dest位置请求中传递。 该参数在下拉菜单的“自定义”选项中可用。
 
->[!NOTE] 如果界面中未显示您期望在“自定义”下拉框中看到的 [!DNL Target] 参数，请多次检查该参数是否确实在请求中传递。 如果已验证请求中的参数，但未延迟加载到接口中，则只需键入参 [!DNL Target] 数名称并按Enter键，即可继续定义受众
+>[!NOTE]
+>
+>如果界面中未显示您期望在“自定义”下拉框中看到的 [!DNL Target] 参数，请多次检查该参数是否确实在请求中传递。 如果已验证请求中的参数，但未延迟加载到接口中，则只需键入参 [!DNL Target] 数名称并按Enter键，即可继续定义受众
 
 1. 命名受众 _目标： 圣地亚哥_。
 1. 对此定义使用自定义规则： _locationDest包含圣地亚哥_。
