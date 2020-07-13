@@ -9,7 +9,7 @@ audience: developer
 doc-type: tutorial
 activity-type: implement
 translation-type: tm+mt
-source-git-commit: b331bb29c099bd91df27300ebe199cafa12516db
+source-git-commit: 199fbde58696a0511623c5500cc6afbbcfdd67a3
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 1%
@@ -35,7 +35,9 @@ ht-degree: 1%
 
 在我们先前课程的演示应用程序中，我们将在“主页”活动的预回迁请求中添加一个名为“wetravel_feature_flag_recs”的新位置，并使用新的Java方法将其加载到屏幕。
 
->[!NOTE] 使用预回迁请求的好处之一是，添加新请求不会增加任何额外的网络开销或导致额外的负载工作，因为该请求被打包在预回迁请求中
+>[!NOTE]
+>
+>使用预回迁请求的好处之一是，添加新请求不会增加任何额外的网络开销或导致额外的负载工作，因为该请求被打包在预回迁请求中
 
 首先，验证wetravel_feature_flag_recs常数是否添加在Constant.java文件中：
 
