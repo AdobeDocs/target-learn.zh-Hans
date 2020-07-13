@@ -7,7 +7,7 @@ audience: developer
 doc-type: tutorial
 activity-type: implement
 translation-type: tm+mt
-source-git-commit: b331bb29c099bd91df27300ebe199cafa12516db
+source-git-commit: 199fbde58696a0511623c5500cc6afbbcfdd67a3
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 0%
@@ -47,7 +47,9 @@ ht-degree: 0%
 
 Adobe Target属性在界面中 [!DNL Target] 定义，用于为个性化应用程序和网站建立界限。 at_property参数标识访问和维护优惠和活动的特定属性。 我们将向预回迁和实时位置请求添加属性。
 
->[!NOTE] 根据许可证的不同，您可能会在界面中看 [!DNL Target] 到“属性”选项。 如果您没有这些选项，或者您没有在公司中使用属性，只需跳到本课的下一节。
+>[!NOTE]
+>
+>根据许可证的不同，您可能会在界面中看 [!DNL Target] 到“属性”选项。 如果您没有这些选项，或者您没有在公司中使用属性，只需跳到本课的下一节。
 
 您可以在“设置”>“属性”下的界 [!DNL Target] 面中检 [!UICONTROL 索at] _property [!UICONTROL 值]。  将鼠标悬停在属性上，选择代码片段图标并复制 `at_property` 值：
 
@@ -140,9 +142,13 @@ public void targetLoadRequest(final ArrayList<Recommandation> recommandations) {
 运行模拟器并打开日志。 筛选某个参数以验证请求是否包含所需的参数：
 ![验证实时位置请求中的自定义参数](assets/parameters_live_location_validation.jpg)
 
->[!NOTE] 订单确认请求和参数： 虽然此演示项目中未使用，但订单详细信息通常在实际实施中捕获，因 [!DNL Target] 此可以将订单详细信息用作度量／维。 有关如何实施订单确认请 [求和参数的说明](https://docs.adobe.com/content/help/en/mobile-services/android/target-android/c-target-methods.html)。
+>[!NOTE]
+>
+>订单确认请求和参数： 虽然此演示项目中未使用，但订单详细信息通常在实际实施中捕获，因 [!DNL Target] 此可以将订单详细信息用作度量／维。 有关如何实施订单确认请 [求和参数的说明](https://docs.adobe.com/content/help/en/mobile-services/android/target-android/c-target-methods.html)。
 
->[!NOTE] Analytics目标(A4T): AdobeAnalytics可以配置为报告源 [!DNL Target]。 这允许在AdobeAnalytics查看由目标SDK收集的所有指标／维度。 有关更 [多详细信息](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) ，请参阅A4T概述。
+>[!NOTE]
+>
+>Analytics目标(A4T): AdobeAnalytics可以配置为报告源 [!DNL Target]。 这允许在AdobeAnalytics查看由目标SDK收集的所有指标／维度。 有关更 [多详细信息](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) ，请参阅A4T概述。
 
 干得好！ 现在参数就位了，我们可以使用这些参数创建Adobe Target受众和优惠。
 
