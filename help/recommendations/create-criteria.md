@@ -1,6 +1,6 @@
 ---
-title: 在推荐中创建标准
-seo-title: 在Adobe Target建议中创建标准
+title: 在Recommendations创建标准
+seo-title: 在Adobe TargetRecommendations创建标准
 audience: marketer
 difficulty: 3
 author: Daniel Wright
@@ -15,7 +15,7 @@ ht-degree: 13%
 ---
 
 
-# 在推荐中创建标准
+# 在Recommendations创建标准
 
 >[!VIDEO](https://video.tv.adobe.com/v/27694?quality=12)
 
@@ -26,4 +26,4 @@ ht-degree: 13%
 * [创建“推荐”活动](create-a-recommendations-activity.md)
 * [了解源](understanding-feeds.md)
 * [创建源](create-a-feed.md)
-* [推荐文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
