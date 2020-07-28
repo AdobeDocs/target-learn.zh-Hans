@@ -1,6 +1,6 @@
 ---
-title: 了解推荐中的源
-seo-title: 了解Adobe Target建议中的源
+title: 了解Recommendations的源
+seo-title: 了解Adobe TargetRecommendations
 audience: marketer
 difficulty: 3
 author: Daniel Wright
@@ -15,7 +15,7 @@ ht-degree: 18%
 ---
 
 
-# 了解推荐中的源
+# 了解Recommendations的源
 
 >[!VIDEO](https://video.tv.adobe.com/v/27695?quality=12)
 
@@ -26,4 +26,4 @@ ht-degree: 18%
 * [创建自定义设计](create-custom-designs.md)
 * [创建集合和排除](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
-* [推荐文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
