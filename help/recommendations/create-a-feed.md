@@ -1,6 +1,6 @@
 ---
-title: 在推荐中创建源
-seo-title: 在Adobe Target推荐中创建源
+title: 在Recommendations创建源
+seo-title: 在Adobe TargetRecommendations创建源
 audience: marketer
 difficulty: 3
 author: Daniel Wright
@@ -15,7 +15,7 @@ ht-degree: 17%
 ---
 
 
-# 在推荐中创建源
+# 在Recommendations创建源
 
 >[!VIDEO](https://video.tv.adobe.com/v/27696?quality=12)
 
@@ -26,4 +26,4 @@ ht-degree: 17%
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
 * [创建集合和排除](create-collections-and-exclusions.md)
-* [推荐文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
