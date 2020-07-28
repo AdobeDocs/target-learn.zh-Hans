@@ -121,7 +121,7 @@ ht-degree: 1%
 
 ![体验B受众](assets/activity_create_13.jpg)
 
-我们的第一个活动现已开始生效，可以进行测试！
+我们的第一个活动现已实时，可以进行测试！
 
 ### 第二活动-“情境优惠”
 
@@ -142,7 +142,7 @@ ht-degree: 1%
 
 ![情境优惠-体验B](assets/activity_contextual_b_final.jpg)
 
-在“目标和设置”(Goals &amp; Settings)步骤中，我们将“主要目标”(Primary Gaol)更改为预订确认屏幕上的位置：
+在“目标和设置”(Goals &amp; Settings)步骤中，我们将“主要目标”(Primary Goal)更改为预订确认屏幕上的位置：
 
 1. 在“ **[!UICONTROL 报告设置]**”下，将“ **[!UICONTROL 主要目标]** ”设 **[!UICONTROL 置为Conversion]**。
 1. 将操作设 **[!UICONTROL 置为“已查]** 看的mbox _” >_ wetravel_context_dest(在此活动中，此度量基本上没有意义，因为这也是提供体验的同一位置)。
