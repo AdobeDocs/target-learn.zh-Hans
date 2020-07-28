@@ -1,6 +1,6 @@
 ---
 title: 添加Adobe Target请求
-description: 'Adobe Mobile Services SDK(v4)提供Adobe Target方法和功能，使您能够为不同的用户提供不同的体验来个性化您的应用程序。   '
+description: 'AdobeMobile Services SDK(v4)提供Adobe Target方法和功能，使您能够为不同的用户提供不同的体验来个性化您的应用程序。   '
 feature: mobile
 kt: 3040
 audience: developer
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 添加Adobe Target请求
 
-Adobe Mobile Services SDK(v4)提供Adobe Target方法和功能，使您能够为不同的用户提供不同的体验来个性化您的应用程序。 通常，从应用程序向Adobe Target发出一个或多个请求，以检索个性化内容并衡量该内容的影响。
+AdobeMobile Services SDK(v4)提供Adobe Target方法和功能，使您能够为不同的用户提供不同的体验来个性化您的应用程序。 通常，从应用程序向Adobe Target发出一个或多个请求，以检索个性化内容并衡量该内容的影响。
 
 在本课中，您将通过实施请求来准备We.Travel应用程序以实现个 [!DNL Target] 性化。
 
@@ -45,7 +45,7 @@ Adobe Mobile Services SDK(v4)提供Adobe Target方法和功能，使您能够为
 * **批请求：**  包含多个位置的单个请求
 * **预回迁请求：**  一个请求，它检索优惠并将其缓存到内存中以供将来在应用程序中使用
 * **批预取请求：**  预取多个位置优惠的单个请求
-* **受众:**  界面中定义或从其 [!DNL Target] 他Adobe应用程 [!DNL Target] 序(例如， “iPhone X访客”、“加利福尼亚州的访客”、“首个应用程序打开”)
+* **受众:**  在界面中定义或从其 [!DNL Target] 他访客应用程 [!DNL Target] 序(例如， “iPhone X访客”、“加利福尼亚州的访客”、“首个应用程序打开”)
 * **活动:**  在用 [!DNL Target] 户界面(或通过 [!DNL Target] API)中定义的构建，它链接位置、优惠和受众以创建个性化体验
 
 ## 添加批预回迁请求
