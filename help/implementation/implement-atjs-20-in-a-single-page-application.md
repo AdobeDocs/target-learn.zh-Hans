@@ -28,7 +28,7 @@ The newest version of `at.js` provides rich feature sets that equip your busines
 * 在SPA `adobe.target.triggerView()` 中视图发生更改时实施该功能。 可采用各种技术来实现此目的，如监听URL哈希更改、监听SPA触发的自定义事件，或将代码直接嵌 `triggerView()` 入到应用程序中。 您应选择最适合特定单页应用程序的选项。
 * 视图名是函数的第一个参 `triggerView()` 数。 使用简单、清晰和唯一的名称，在目标的视觉体验书写器中轻松进行选择。
 * 您可以在较小的视图更改以及非SPA上下文（如向下半个无限滚动页面）中触发视图。
-* `at.js` 2.0并可 `triggerView()` 以通过标签管理解决方案(如Adobe Experience Platform启动)来实施。
+* `at.js` 2.0并 `triggerView()` 可通过标签管理解决方案实现，如Adobe Experience Platform Launch。
 
 ## at.js 2.0限制
 
