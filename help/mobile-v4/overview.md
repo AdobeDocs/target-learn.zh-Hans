@@ -1,6 +1,6 @@
 ---
-title: Adobe TargetAdobe Mobile Services SDK v4 for Android
-description: 对于已经使用Adobe Mobile Services SDK v4并希望通过Adobe Target开始个性化应用程序体验的Android开发人员来说，使用Adobe Mobile Services SDK v4是完美的起点。
+title: Adobe TargetAndroidAdobeMobile Services SDK v4
+description: Adobe TargetAndroid的AdobeMobile Services SDK v4对于已经使用AdobeMobile Services SDK v4并希望开始具有Adobe Target的个性化应用程序体验的Android开发人员来说是一个完美的起点。
 feature: mobile
 kt: 3040
 audience: developer
@@ -17,13 +17,13 @@ ht-degree: 2%
 
 # 概述
 
-_对于已经使用Adobe Mobile Services SDK v4并希望通过Adobe Target开始个性化应用程序体验的Android开发人员_ ，使用Adobe Mobile Services SDK v4是一个完美的起点。
+_Adobe TargetAndroid版Mobile Services SDK v4_ ，对于已经使用AdobeMobile Services SDK v4并希望开始具有Adobe Target的个性化应用程序体验的Android开发人员来说，这是一个完美的起点。
 
 您可以使用演示版Android应用程序完成课程。 完成本教程后，您应准备好在自己的Android应 [!DNL Target] 用程序中开始实施！
 
 完成此教程后，您将能够：
 
-* 验证 [Adobe Mobile Services SDK设置](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)
+* 验证 [AdobeMobile Services SDK设置](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)
 * 实施以下类型的 [!DNL Target] 请求：
    * 内容预取 [!DNL Target]
    * 在单个 [!DNL Target] 请求中批处理多个位置(mbox)
@@ -40,7 +40,7 @@ _对于已经使用Adobe Mobile Services SDK v4并希望通过Adobe Target开始
 
 在这些教训中，我们假定您：
 
-* 拥有Adobe Id和审批者级别的Adobe Target界面访问权限（请参阅下面的验证步骤）
+* 具有AdobeID和审批者级别的Adobe Target界面访问权限（请参阅下面的验证步骤）
 * 了解Adobe Target客户代码，以便向您自己的帐户发出请求。 “设置”>“实施”>“编辑at.js”设置屏幕的Adobe Target界面中显示客户代码
 * 有权访问并熟悉Mobile [Services用户界面](https://mobilemarketing.adobe.com)
 * 拥有用于Android移动应用程序开发的IDE。 本教程通过 [各种步骤](https://developer.android.com/studio/install) 、以及截屏方式提供Android Studio
@@ -58,7 +58,7 @@ _对于已经使用Adobe Mobile Services SDK v4并希望通过Adobe Target开始
    ![Experience Cloud主屏幕](assets/aec_homeScreen_clickTarget.png)
 1. 您应当按Adobe Target进入活动列表，如下图所示，并且您应当看到您的用户具有审批者级别的访问权限。 如果您无法访问或 [!DNL Target] 无法验证审批者级别的访问权限，请与公司的Experience Cloud管理员之一联系，请求此访问权限，并在授予后继续本教程：
 
-   ![Adobe UI](assets/targetUI_approver.png)
+   ![AdobeUI](assets/targetUI_approver.png)
 
 ## 关于课程
 
