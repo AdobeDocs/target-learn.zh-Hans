@@ -1,8 +1,8 @@
 ---
 title: 下载和更新We.Travel范例应用程序
 seo-title: 下载范例应用程序并验证移动服务SDK
-description: 'We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预先实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。   '
-seo-description: We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预先实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。
+description: 'We.Travel范例应用程序是通过AdobeMobile Services SDK v4预实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。   '
+seo-description: We.Travel范例应用程序是通过AdobeMobile Services SDK v4预实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。
 feature: mobile
 kt: 3040
 audience: developer
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 下载和更新We.Travel范例应用程序
 
-We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预先实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。
+We.Travel范例应用程序是通过AdobeMobile Services SDK v4预实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。
 
 ## 学习目标
 
@@ -40,7 +40,7 @@ We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预先实施的�
 
 ## 验证和更新Mobile Services SDK设置 [!DNL Target]
 
-根据文档，Adobe Mobile Services SDK已预装在We.Travel应 [用程序中](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)。 现在，您将更新安装以指向您自己的 [!DNL Target] 帐户。
+AdobeMobile Services SDK已根据文档预装在We.Travel应 [用程序中](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)。 现在，您将更新安装以指向您自己的 [!DNL Target] 帐户。
 
 首先，在Mobile Services用户界面中创建新的应用程序：
 
@@ -57,7 +57,7 @@ We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预先实施的�
 
 1. 替换Android `ADBMobileConfig.json` Studio项目资源文件夹（应用程序> src >主>资源）中的文件。
 
-1. 现在打开文 `ADBMobileConfig.json` 件，确保它包含预期的更改，如您的客户 [!DNL Target] 端代码和您的Analytics详细信息：
+1. 现在打开文 `ADBMobileConfig.json` 件，确保它包含预期的更改，如客户 [!DNL Target] 端代码和Analytics详细信息：
    ![下载配置文件](assets/client_code.jpg)
 
 如果看不到设置，请确认您单击了Mobile Services界 **[!UICONTROL 面中]** “保存” [!UICONTROL 按钮] ，并将文件复制到正确的位置。
