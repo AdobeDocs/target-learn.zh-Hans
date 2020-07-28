@@ -23,7 +23,7 @@ ht-degree: 17%
 
 ## 其他资源
 
-* [Chrome Store中的Adobe Experience Cloud调试器](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Adobe Experience Cloud调试器在Chrome商店中的应用](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
 * [目标帮助疑难解答文档](https://docs.adobe.com/content/help/en/target/using/troubleshoot/troubleshooting-target.html)
-* [使用目标调试器视频对Experience Cloud进行疑难解答](troubleshoot-with-the-experience-cloud-debugger.md)
-* [如何使用Experience Cloud调试器视频](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/debugger/use-the-experience-cloud-debugger.html)
+* [目标视频疑难解答](troubleshoot-with-the-experience-cloud-debugger.md)
+* [如何使用Experience Cloud Debugger视频](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/debugger/use-the-experience-cloud-debugger.html)
