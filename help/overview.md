@@ -1,6 +1,6 @@
 ---
-title: Adobe Target教程概述
-seo-title: Adobe Target教程概述
+title: Adobe TargetTutorials概述
+seo-title: Adobe TargetTutorials概述
 description: 使您成为Adobe Target高级用户的操作方法视频和教程集合
 translation-type: tm+mt
 source-git-commit: 0ef2d3c853aa85fef8c9f524588b29b02c7aceda
@@ -17,13 +17,13 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 ## 新增功能
 
-* **[使用推荐优惠（视频）](recommendations/use-recommendations-offers.md)**   <br>
+* **[使用Recommendations优惠（视频）](recommendations/use-recommendations-offers.md)**   <br>
    *在A/B测试和体验定位活动中使用产品推荐。*
 
 * **[在Android™应用程序中实施目标的可视体验书写器（教程）](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)**   <br>
    *在本机Android应用程序中实施目标的营销人员友好型可视体验书写器(VEC)。*
 
-* **[创建推荐活动（视频）](recommendations/create-a-recommendations-activity.md)**   <br>
+* **[创建Recommendations活动（视频）](recommendations/create-a-recommendations-activity.md)**   <br>
    *利用此Premium功能，大规模地向客户推荐产品。*
 
 ## 员工挑选
@@ -32,11 +32,11 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 <tr>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html">
-      <img alt="通过Adobe Experience Platform启动实施目标" src="assets/launch_referencearchitectureguides.png" />
+      <img alt="实施与Adobe Experience Platform Launch的目标" src="assets/launch_referencearchitectureguides.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html">
-    <strong>通过Adobe Experience Platform启动实施目标</strong>
+    <strong>实施与Adobe Experience Platform Launch的目标</strong>
     </a>
     </div>
     <p>
@@ -58,11 +58,11 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
   </td>
   <td>
     <a href="troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md">
-      <img alt="使用目标调试器对Experience Cloud进行疑难解答" src="assets/using_the_experienceclouddebuggerwithadobetarget.png" />
+      <img alt="目标与Experience Cloud Debugger疑难解答" src="assets/using_the_experienceclouddebuggerwithadobetarget.png" />
     </a>
     <div>
       <a href="troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md">
-    <strong>使用目标调试器对Experience Cloud进行疑难解答</strong>
+    <strong>目标与Experience Cloud Debugger疑难解答</strong>
     </a>
     </div>
     <p>
