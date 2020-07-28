@@ -1,6 +1,6 @@
 ---
 title: 创建集合和排除
-seo-title: 在Adobe Target推荐中创建集合和排除
+seo-title: 在Adobe TargetRecommendations创建集合和排除
 description: null
 audience: marketer
 difficulty: 3
@@ -16,7 +16,7 @@ ht-degree: 17%
 ---
 
 
-# 在推荐中创建收藏集和排除
+# 在Recommendations创建集合和排除
 
 >[!VIDEO](https://video.tv.adobe.com/v/27689?quality=12)
 
@@ -27,4 +27,4 @@ ht-degree: 17%
 * [创建源](create-a-feed.md)
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
-* [推荐文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
