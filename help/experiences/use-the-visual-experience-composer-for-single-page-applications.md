@@ -25,7 +25,7 @@ SPA VEC使营销人员能以自己动手的方式在SPA中创建测试和个性�
 ## 概述
 
 * SPA VEC可用于创建A/B和自动分配测试和体验定位(XT)活动
-* SPA VEC不支持自动目标、自动个性化或推荐活动
+* SPA VEC不支持自动目标、Automated Personalization或Recommendations活动
 * SPA VEC支持A4T、 [!UICONTROL Experience Cloud受众]和客 [!UICONTROL 户属性集成]
 * 单页应用程序支持所有VEC操作，包括自定义代码
 * VEC操作可应用于单个视图或页面加载事件
