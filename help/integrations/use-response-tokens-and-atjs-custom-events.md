@@ -33,7 +33,7 @@ ht-degree: 2%
 
 ## 其他资源
 
-* [将Experience Cloud调试器与Adobe Target结合使用](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
+* [将Experience Cloud Debugger与Adobe Target结合使用](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
 * [响应令牌文档](https://docs.adobe.com/help/en/target/using/administer/response-tokens.html)
 * [At.js自定义事件文档](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/functions-overview/atjs-custom-events.html)
 * [在 Adobe Target 中使用数据提供程序](use-data-providers-to-integrate-third-party-data.md)
