@@ -1,6 +1,6 @@
 ---
-title: 在推荐中创建自定义设计
-seo-title: 在Adobe Target推荐中创建自定义设计
+title: 在Recommendations创建自定义设计
+seo-title: 在Adobe TargetRecommendations创建自定义设计
 audience: marketer
 difficulty: 3
 author: Daniel Wright
@@ -15,7 +15,7 @@ ht-degree: 17%
 ---
 
 
-# 在推荐中创建自定义设计
+# 在Recommendations创建自定义设计
 
 >[!VIDEO](https://video.tv.adobe.com/v/27687?quality=12)
 
@@ -26,4 +26,4 @@ ht-degree: 17%
 * [了解源](understanding-feeds.md)
 * [创建源](create-a-feed.md)
 * [创建标准](create-criteria.md)
-* [推荐文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
