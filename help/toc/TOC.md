@@ -40,15 +40,15 @@ ht-degree: 8%
    + [使用视觉体验书写器](../experiences/use-the-visual-experience-composer.md)
    + [对单页应用程序(SPA VEC)使用Visual Experience Composer](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)
    + [使用基于表单的体验书写器](../experiences/use-the-form-based-experience-composer.md)
-   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 报表{#reports}
    + [使用个性化洞察报告](../reports/use-the-personalization-insights-reports.md)
 + 集成{#integrations}
-   + [将Analytics用作目标(A4T)的数据源](../integrations/use-analytics-as-a-data-source-a4t.md)
+   + [将Analytics用作目标的数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
    + [数据输入： 使用数据提供者集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
    + [数据输入： 实施数据提供商以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
    + [数据输出： 使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
-   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 管理{#administration}。
    + [设置帐户首选项](../administration/set-up-account-preferences.md)
    + [了解企业用户权限](../administration/understanding-enterprise-user-permissions.md)
@@ -56,12 +56,12 @@ ht-degree: 8%
    + [设置属性](../administration/set-up-properties.md)
 + 推荐{#recommendations}
    + [创建“推荐”活动](../recommendations/create-a-recommendations-activity.md)
-   + [使用推荐优惠](../recommendations/use-recommendations-offers.md)
+   + [使用Recommendations优惠](../recommendations/use-recommendations-offers.md)
    + [了解源](../recommendations/understanding-feeds.md)
    + [创建源](../recommendations/create-a-feed.md)
    + [创建标准](../recommendations/create-criteria.md)
    + [创建自定义设计](../recommendations/create-custom-designs.md)
    + [创建集合和排除](../recommendations/create-collections-and-exclusions.md)
 + 疑难解答{#troubleshooting}
-   + [使用Experience Cloud调试器进行疑难解答](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
+   + [Experience Cloud Debugger疑难解答](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
    + [目标跟踪疑难解答](../troubleshooting/troubleshoot-with-target-traces.md)
