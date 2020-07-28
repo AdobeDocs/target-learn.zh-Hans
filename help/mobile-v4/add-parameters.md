@@ -1,6 +1,6 @@
 ---
 title: 向请求中添加参数
-description: 在本课中，我们将在上一课中添加的目标请求中添加Adobe生命周期指标和自定义参数。 这些指标和参数将在教程的稍后部分用于创建个性化受众。
+description: 在本课中，我们将在上一课中添加Adobe生命周期指标和自定义参数到目标请求中。 这些指标和参数将在教程的稍后部分用于创建个性化受众。
 feature: mobile
 kt: 3040
 audience: developer
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 向请求中添加参数
 
-在本课中，我们将在上一课添加的请求中添加Adobe [!DNL Target] 生命周期指标和自定义参数。 这些指标和参数将在教程的稍后部分用于创建个性化受众。
+在本课中，我们将在上一课中添加的请求中添加Adobe [!DNL Target] 生命周期指标和自定义参数。 这些指标和参数将在教程的稍后部分用于创建个性化受众。
 
 ## 学习目标
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 添加生命周期参数
 
-让我们启用Adobe移 [动生命周期指标](https://docs.adobe.com/content/help/en/mobile-services/android/metrics.html)。 这将向位置请求添加参数，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课中使用生命周期请求提供的数据构建受众。
+让我们启用Adobe [移动生命周期指标](https://docs.adobe.com/content/help/en/mobile-services/android/metrics.html)。 这将向位置请求添加参数，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课中使用生命周期请求提供的数据构建受众。
 
 要启用生命周期指标，请再次打开HomeActivity控制器， `Config.collectLifecycleData(this);` 并添加到onResume()函数：
 
@@ -148,7 +148,7 @@ public void targetLoadRequest(final ArrayList<Recommandation> recommandations) {
 
 >[!NOTE]
 >
->Analytics目标(A4T): AdobeAnalytics可以配置为报告源 [!DNL Target]。 这允许在AdobeAnalytics查看由目标SDK收集的所有指标／维度。 有关更 [多详细信息](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) ，请参阅A4T概述。
+>Analytics目标(A4T): Adobe Analytics可以配置为报告源 [!DNL Target]。 这允许在Adobe Analytics查看由目标SDK收集的所有指标／维度。 有关更 [多详细信息](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) ，请参阅A4T概述。
 
 干得好！ 现在参数就位了，我们可以使用这些参数创建Adobe Target受众和优惠。
 
