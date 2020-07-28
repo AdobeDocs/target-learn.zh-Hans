@@ -1,6 +1,6 @@
 ---
-title: 将Analytics用作目标(A4T)的数据源
-seo-title: 将Analytics用作目标(A4T)的数据源
+title: 将Analytics用作目标的数据源(A4T)
+seo-title: 将Analytics用作目标的数据源(A4T)
 description: 'null'
 audience: marketer
 difficulty: 2
@@ -16,6 +16,6 @@ ht-degree: 3%
 ---
 
 
-# 将AdobeAnalytics用作Adobe Target数据源(A4T)
+# 将Adobe Analytics用作Adobe Target(A4T)的数据源
 
 >[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12)
