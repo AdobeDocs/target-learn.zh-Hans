@@ -4,9 +4,9 @@ user-guide-url: /content/help/en/target-learn/tutorials/overview.html
 audience: end-user
 solution: Target
 translation-type: tm+mt
-source-git-commit: 9b9b03e8c3ea837f345a8535e7147450bf55b6ad
+source-git-commit: b1f825112e7a8ae2af3f94bca9b4a86cf5ec7856
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '304'
 ht-degree: 8%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 8%
    + [使用视觉体验书写器](../experiences/use-the-visual-experience-composer.md)
    + [对单页应用程序(SPA VEC)使用Visual Experience Composer](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)
    + [使用基于表单的体验书写器](../experiences/use-the-form-based-experience-composer.md)
-   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 报表{#reports}
    + [使用个性化洞察报告](../reports/use-the-personalization-insights-reports.md)
 + 集成{#integrations}
@@ -48,7 +48,7 @@ ht-degree: 8%
    + [数据输入： 使用数据提供者集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
    + [数据输入： 实施数据提供商以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
    + [数据输出： 使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
-   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 管理{#administration}。
    + [设置帐户首选项](../administration/set-up-account-preferences.md)
    + [了解企业用户权限](../administration/understanding-enterprise-user-permissions.md)
@@ -65,3 +65,7 @@ ht-degree: 8%
 + 疑难解答{#troubleshooting}
    + [Experience Cloud Debugger疑难解答](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
    + [目标跟踪疑难解答](../troubleshooting/troubleshoot-with-target-traces.md)
++ API{#apis}
+   + [了解目标API](../apis/api-overview.md)
+   + [配置AdobeAPI身份验证](../apis/configure-io-target-integration.md)
+   + [使用RecommendationsAPI](https://docs.adobe.com/content/help/en/target-learn/recommendations-api-tutorial/recs-api-overview.html)
