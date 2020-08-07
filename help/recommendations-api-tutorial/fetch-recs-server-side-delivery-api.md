@@ -11,7 +11,7 @@ topics: recommendations;adobe recommendations;premium;api;apis
 solution: Adobe Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 18a9b664fe935fd5c52682b2bd798cafd75b6591
+source-git-commit: 7265fd8611aacc94d1a66c10cd641c0644f2d43f
 workflow-type: tm+mt
 source-wordcount: '1473'
 ht-degree: 0%
@@ -23,7 +23,8 @@ ht-degree: 0%
 
 Adobe Target和Adobe Target [!DNL Recommendations] 州API可用于提供对网页的响应，但也可用于非基于HTML的体验，包括应用程序、屏幕、控制台、电子邮件、报亭和其他显示设备。 换言之，当无法 [!DNL Target] 使用库和JavaScript时，投放 **[!DNL Target]API **仍允许我们访问各种功能，[!DNL Target]以提供个性化体验。
 
-> [!NOTE]
+>[!NOTE]
+>
 > 请求包含实际推荐（推荐产品或项目）的内容时，请使用 [!DNL Target] 投放API。
 
 要检索推荐，请发送包含相应上下文信息的Adobe Target投放APIPOST调用，该信息可能包括用户ID(用于用户档案特定的推荐，如用户最近查看的项目)、相关mbox名称、mbox参数、用户档案参数或其他属性。 响应将包括JSON或HTML格式的推荐entity.id（并可能包括其他实体数据），随后可在设备中显示。
