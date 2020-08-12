@@ -4,9 +4,9 @@ user-guide-url: /content/help/en/target-learn/tutorials/overview.html
 audience: end-user
 solution: Target
 translation-type: tm+mt
-source-git-commit: b1f825112e7a8ae2af3f94bca9b4a86cf5ec7856
+source-git-commit: 51c9942aba45fbe7a28dec18ae6cd2a6979bacfc
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '368'
 ht-degree: 8%
 
 ---
@@ -15,14 +15,39 @@ ht-degree: 8%
 # Adobe Target 教程 {#tutorials}
 
 + [概述](../overview.md)
++ 管理{#administration}。
+   + [实施战略与制度治理](../dev101/1.1-implementation-strategy-sys-governance.md)
+   + [设置帐户首选项](../administration/set-up-account-preferences.md)
+   + [了解企业用户权限](../administration/understanding-enterprise-user-permissions.md)
+   + [配置企业用户权限](../dev101/1.2-configure-ent-user-permissions.md)
+   + [设置工作区](../administration/set-up-workspaces.md)
+   + [管理设置简介](../dev101/1.3-intro-to-admin-setup.md)
+   + [设置属性](../administration/set-up-properties.md)
 + 实施{#implementation}
+   + [目标实施简介](../dev101/2.1-intro-to-target-implementation.md)
+   + [将目标与Launch集成](../dev101/3.1-target-launch.md)
    + [在Launch网站中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
-   + [在iOS Swift应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-   + [在iOS Objective-C应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-   + [在Android应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
-   + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
+   + [使用位置的优势](../dev101/2.2-benefits-of-locations.md)
+   + [目标请求简介](../dev101/2.3-intro-to-target-requests.md)
+   + [目标参数简介](../dev101/2.4-intro-to-target-params.md)
    + [了解at.js 2.0的工作原理](../implementation/understanding-how-atjs-20-works.md)
+   + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
+   + [设计目标实施](../dev101/2.5-design-target-implementation.md)
+   + [设计目标实施的后续步骤](../dev101/2.6-next-steps-design-target-implementation.md)
    + [根据用户同意使用选择加入控制Experience Cloud解决方案](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)
++ 集成{#integrations}
+   + [将目标与Analytics集成](../dev101/3.2-target-analytics.md)
+   + [将Analytics用作目标的数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
+   + [将目标与Audience Manager集成](../dev101/3.3-target-dmp.md)
+   + [将目标与Experience Cloud受众集成](../dev101/3.4-target-exc-audiences.md)
+   + [将 Target 与 Campaign 集成](../dev101/3.6-target-campaign.md)
+   + [将目标与AdobeI/O集成](../dev101/3.7-target-io.md)
+   + [将目标与Scene7](../dev101/3.8-target-scene7.md)
+   + [将目标与Adobe Experience Manager](../dev101/3.5-target-aem.md)
+   + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [数据输入：使用数据提供者集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
+   + [数据输入：实施数据提供商以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
+   + [数据输出：使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
 + 活动{#activities}
    + [了解活动类型](../activities/understanding-the-types-of-activities.md)
    + [使用人工智能和自动化功能应对个性化的挑战](../activities/use-the-artificial-intelligence-and-automation-capabilities-to-meet-the-challenges-of-personalization.md)
@@ -43,17 +68,6 @@ ht-degree: 8%
    + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 报表{#reports}
    + [使用个性化洞察报告](../reports/use-the-personalization-insights-reports.md)
-+ 集成{#integrations}
-   + [将Analytics用作目标的数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
-   + [数据输入： 使用数据提供者集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
-   + [数据输入： 实施数据提供商以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
-   + [数据输出： 使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
-   + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
-+ 管理{#administration}。
-   + [设置帐户首选项](../administration/set-up-account-preferences.md)
-   + [了解企业用户权限](../administration/understanding-enterprise-user-permissions.md)
-   + [设置工作区](../administration/set-up-workspaces.md)
-   + [设置属性](../administration/set-up-properties.md)
 + 推荐{#recommendations}
    + [创建“推荐”活动](../recommendations/create-a-recommendations-activity.md)
    + [使用Recommendations优惠](../recommendations/use-recommendations-offers.md)
@@ -65,6 +79,11 @@ ht-degree: 8%
 + 疑难解答{#troubleshooting}
    + [Experience Cloud Debugger疑难解答](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
    + [目标跟踪疑难解答](../troubleshooting/troubleshoot-with-target-traces.md)
+   + [Mbox错误疑难解答](../dev101/4.1-troubleshoot-mbox-errors.md)
+   + [活动错误疑难解答](../dev101/4.2-troubleshoot-activity-errors.md)
+   + [A4T集成错误疑难解答](../dev101/4.3-troubleshoot-integration-errors.md)
++ 移动设备{#mobile}
+   + [使用适用于Android的AdobeMobile Services SDK v4实施Adobe Target](../mobile-v4/overview.md)
 + API{#apis}
    + [了解目标API](../apis/api-overview.md)
    + [配置AdobeAPI身份验证](../apis/configure-io-target-integration.md)
