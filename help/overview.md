@@ -3,10 +3,10 @@ title: Adobe TargetTutorials概述
 seo-title: Adobe TargetTutorials概述
 description: 使您成为Adobe Target高级用户的操作方法视频和教程集合
 translation-type: tm+mt
-source-git-commit: 0ef2d3c853aa85fef8c9f524588b29b02c7aceda
+source-git-commit: 49b21a85ca776f9da12f14cab85772395ba4ce16
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 18%
+source-wordcount: '242'
+ht-degree: 16%
 
 ---
 
@@ -17,14 +17,19 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 ## 新增功能
 
+* **[使用RecommendationsAPI（教程）](recommendations-api-tutorial/recs-api-overview.md)**   <br>
+   *对于开发人员：使用API配置和管理目[!DNL Recommendations]录和自定义标[!DNL Recommendations]准等进行实践。*
+
+* **[使用AdobeMobile Services SDK v4 for Android实施Adobe Target（教程）](mobile-v4/overview.md)**   <br>
+   *对于已在使用AdobeMobile Services SDK v4的开发人员：了解如何与Adobe Target开始个性化应用体验。 这些步骤作为传统用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
+
 * **[使用Recommendations优惠（视频）](recommendations/use-recommendations-offers.md)**   <br>
-   *在A/B测试和体验定位活动中使用产品推荐。*
+   *对于所有目标用户：了解如何在A/B和体验定位活动中使用产品推荐。*
 
-* **[在Android™应用程序中实施目标的可视体验书写器（教程）](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)**   <br>
-   *在本机Android应用程序中实施目标的营销人员友好型可视体验书写器(VEC)。*
-
-* **[创建Recommendations活动（视频）](recommendations/create-a-recommendations-activity.md)**   <br>
-   *利用此Premium功能，大规模地向客户推荐产品。*
+<!--
+* **[Create a Recommendations Activity (Video)](recommendations/create-a-recommendations-activity.md)**
+    <br>
+    *Recommend products to your customers at scale with this Premium feature.* -->
 
 ## 员工挑选
 
