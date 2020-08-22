@@ -1,7 +1,7 @@
 ---
 title: 配置身份验证
 keywords: recommendations;adobe recommendations;premium;api;apis
-description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录； 管理推荐算法和活动; 并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
+description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录；管理推荐算法和活动;并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
 kt: null
 audience: developer
 doc-type: tutorial
@@ -11,9 +11,9 @@ topics: recommendations;adobe recommendations;premium;api;apis
 solution: Adobe Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 562cf1fe659ade7fa085a3ba6cb9e7ae3c1957a5
+source-git-commit: c67105ec2ec4a72f7c1080dccc0051f5a7ef5b26
 workflow-type: tm+mt
-source-wordcount: '1876'
+source-wordcount: '1877'
 ht-degree: 2%
 
 ---
@@ -61,7 +61,7 @@ Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证
 
    ![configure-io-target-createproject5](assets/configure-io-target-createproject5.png)
 
-6. 选择一个选项，以将公钥和私钥与您为目标创建的服务帐户集成关联。 对于本教程，请选 **[!UICONTROL 择选项1: 生成密钥对]** ，然后单 **[!UICONTROL 击“生成密钥]**”。
+6. 选择一个选项，以将公钥和私钥与您为目标创建的服务帐户集成关联。 对于本教程，请选 **[!UICONTROL 择选项1:生成密钥对]** ，然后单 **[!UICONTROL 击“生成密钥]**”。
    ![configure-io-target-createproject6](assets/configure-io-target-createproject6.png)
 
 7. 注意结果！ 按照说明，记下自动下载的配置文件(`config`)，它包含您的私钥。 单击&#x200B;**[!UICONTROL 下一步]**。
@@ -98,7 +98,7 @@ Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证
 > 
 下面还提供了这些步骤。
 
-1. 仍在“ [Adobe开发者”控制台](https://console.adobe.io/)，导航到视图新项 **[!UICONTROL 目的服务帐户(JWT)凭据]** 。 如所示，使用左侧导航 **[!UICONTROL 或]** “凭据”部分。
+1. 仍在“ [Adobe开发者”控制台](https://console.adobe.io/)，导航到视图新项 **[!UICONTROL 目的服务帐户(JWT)凭据]** 。 请使用左侧导航或“凭 **[!UICONTROL 据]** ”部分，如所示。
    ![JWT1在](assets/configure-io-target-jwt1.png)凭 **[!UICONTROL 据详细信息]**&#x200B;中，请注意，您可以视图 **您的公钥**、 **客户端ID**，以及与您的服务帐户相关的其他信息。
    ![JWT1a](assets/configure-io-target-jwt1a.png)
 2. 单击导航到有关Adobe Target **[!UICONTROL API]** 的信息。 请使用左侧导航或“已连 **[!UICONTROL 接的产品和服务]** ”部分，如所示。
@@ -115,7 +115,9 @@ Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证
 7. 注 `CLIENT_SECRET` 释 `API_KEY` 和（以及其他变量）的值已预填充，取自Adobe开发人员控制台中定义的集成。 (Postman变量应 `CLIENT_SECRET` 与开发人员控制台 `CLIENT SECRET` 中显示的Adobe凭据匹配，而Postman中 `API_KEY` 的凭据也应与开发人 `CLIENT ID` 员控制台匹配。) 相反， `PRIVATE_KEY`备注 `JWT_TOKEN`和 `ACCESS_TOKEN` 为空。 让我们通过提供价值来开始 `PRIVATE_KEY` 吧。
    ![JWT7](assets/configure-io-target-jwt7.png)
 
-   >[!SURPRISE]
+   >[!NOTE]
+   >
+   >**惊喜！**
    >
    >快测验！ 你记得你的私钥在哪吗？
    >没错，它位于之前从Adobe开发 `config` 人员控制台下载的文件中！
@@ -141,7 +143,7 @@ Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证
    ![token3](assets/configure-io-target-generatetoken3.png)
 4. 在Postman中，通过粘贴并从剪贴板提交原始JSON来导入集合。 （您也可以上传您保存的。json文件。） 单击&#x200B;**继续**。
    ![token4](assets/configure-io-target-generatetoken4.png)
-5. 选择 **[!UICONTROL IMS: JWT在AdobeI/O访问令牌生成邮递员集合中]** ，通过用户令牌请求生成+验证 **，确保您的环境已选中，然后单** 击发送以生成令牌。
+5. 选择 **[!UICONTROL IMS:JWT在AdobeI/O访问令牌生成邮递员集合中]** ，通过用户令牌请求生成+验证 **，确保您的环境已选中，然后单** 击“发送”以生成令牌。
 
    ![token5](assets/configure-io-target-generatetoken5.png)
 
@@ -156,13 +158,13 @@ Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证
 
 >[!NOTE]
 >
->问： 我是否必须使用AdobeI/O访问令牌生成邮递人集合来生成JSON Web令牌(JWT)和承载访问令牌?
+>问：我是否必须使用AdobeI/O访问令牌生成邮递人集合来生成JSON Web令牌(JWT)和承载访问令牌?
 >
->答： 不！ AdobeI/O访问令牌生成邮递员集合是为了更容易地在邮递员中生成JWT和承载访问令牌而提供的。 或者，您也可以使用Adobe开发者控制台中的功能手动生成承载访问令牌。
+>答：不！ AdobeI/O访问令牌生成邮递员集合是为了更容易地在邮递员中生成JWT和承载访问令牌而提供的。 或者，您也可以使用Adobe开发者控制台中的功能手动生成承载访问令牌。
 
 ## 测试承载访问令牌
 
-在本练习中，您将通过发送从您的帐户检索列表的API请求来使用新的持有访问令牌。 [!DNL Target] 成功的响应表明您的Adobe项目和身份验证正按预期运行以使用API。
+在本练习中，您将通过发送从您的帐户检索列表访问令牌的API请求来使用新的不记名活动 [!DNL Target] 。 成功的响应表明您的Adobe项目和身份验证正按预期运行以使用API。
 
 1. 导入 [Adobe Target管理API邮递员集合](https://developers.adobetarget.com/api/#admin-postman-collection)。 按照所有提示操作，直到集合导入邮递员。
    ![testtoken1](assets/configure-io-target-testtoken0.png)
