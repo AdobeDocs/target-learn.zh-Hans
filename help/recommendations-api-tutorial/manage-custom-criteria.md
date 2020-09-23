@@ -1,17 +1,17 @@
 ---
 title: 管理自定义条件
 keywords: recommendations;adobe recommendations;premium;api;apis
-description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录； 管理推荐算法和活动; 并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
+description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录；管理推荐算法和活动;并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
 kt: 3815
 audience: developer
 doc-type: tutorial
 activity: use
 feature: api
 topics: recommendations;adobe recommendations;premium;api;apis
-solution: Adobe Target
+solution: Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 78b30bc0018527f9d8b2a5b50edee86e877d14c7
+source-git-commit: c221f434ce9daec03dbb4d897343775b40b14462
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 1%
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    ![CreateCustomCriteria1](assets/CreateCustomCriteria1.png)
 
-2. 将您的 **Body** 添 **加为** 定义自定义条件CSV文件位置的原始JSON。 将“创建自定义条 [件API”文档中提供的](https://developers.adobetarget.com/api/recommendations/#operation/getAllCriteriaCustom) “示例”用作模板，根据需要 `environmentId` 提供您和其他值。 在本例中，我们使用LAST_PURCHASED作为密钥。
+2. 将您的 **Body** 添 **加为** 定义自定义条件CSV文件位置的原始JSON。 将“创建自定义条 [件API”文档中提供的](https://developers.adobetarget.com/api/recommendations/#operation/getAllCriteriaCustom) “示例”用作模板，根据需要提 `environmentId` 供您和其他值。 在此示例中，我们使用LAST_PURCHASED作为密钥。
 
    ![CreateCustomCriteria2](assets/CreateCustomCriteria2.png)
 
@@ -113,7 +113,7 @@ ht-degree: 1%
    ![DeleteCustomCriteria1](assets/DeleteCustomCriteria1.png)
 
 1. 验证是否已使用“获取自定义条件”删除该条件。
-   ![DeleteCustomCriteria2](assets/DeleteCustomCriteria2.png)在这种情况下，预期的404错误表示找不到已删除的条件。
+   ![DeleteCustomCriteria2在](assets/DeleteCustomCriteria2.png)这种情况下，预期的404错误表示找不到已删除的条件。
 
 >[!NOTE]
 >作为提醒，即使删除了该条件，也 [!DNL Target] 不会从UI中删除该条件，因为它是使用“创建自定义条件”API创建的。
