@@ -1,17 +1,17 @@
 ---
 title: 使用API管理您的Recommendations目录
 keywords: recommendations;adobe recommendations;premium;api;apis
-description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录； 管理推荐算法和活动; 并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
+description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录；管理推荐算法和活动;并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
 kt: 3815
 audience: developer
 doc-type: tutorial
 activity: use
 feature: api
 topics: recommendations;adobe recommendations;premium;api;apis
-solution: Adobe Target
+solution: Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 78b30bc0018527f9d8b2a5b50edee86e877d14c7
+source-git-commit: c221f434ce9daec03dbb4d897343775b40b14462
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 1%
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->发送 **[!UICONTROL IMS: JWT只要您需要刷新访问令牌进行身份验证]** ，就通过用户令牌请求生成+身份验证，因为该在24小时后过期。 有关 [说明，请参阅配置Adobe](../apis/configure-io-target-integration.md) API身份验证。
+>发送 **[!UICONTROL IMS:JWT只要您需要刷新访问令牌进行身份验证]** ，就通过用户令牌请求生成+身份验证，因为该在24小时后过期。 有关 [说明，请参阅配置Adobe](../apis/configure-io-target-integration.md) API身份验证。
 
 ![JWT3ff](assets/configure-io-target-jwt3ff.png)
 
@@ -198,7 +198,7 @@ DELETE https://mc.adobe.io/{{TENANT_ID}}/target/recs/entities?ids=[comma-delimit
 
    ![DeleteEntities5](assets/DeleteEntities5.png)
 
-6. 使用“获取实 **体”(Get Entity**)验证结果，此时应指示找不到已删除的实体。
+6. 使用“获取实 **体”(Get Entity**)验证结果，该选项现在应指示找不到已删除的实体。
 
    ![DeleteEntities6](assets/DeleteEntities6.png)
 
