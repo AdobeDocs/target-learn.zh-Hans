@@ -1,17 +1,17 @@
 ---
 title: 使用投放API获取Recommendations
 keywords: recommendations;adobe recommendations;premium;api;apis
-description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录； 管理推荐算法和活动; 并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
+description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录；管理推荐算法和活动;并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
 kt: 3815
 audience: developer
 doc-type: tutorial
 activity: use
 feature: api
 topics: recommendations;adobe recommendations;premium;api;apis
-solution: Adobe Target
+solution: Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 7265fd8611aacc94d1a66c10cd641c0644f2d43f
+source-git-commit: c221f434ce9daec03dbb4d897343775b40b14462
 workflow-type: tm+mt
 source-wordcount: '1473'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 使用 [!DNL Recommendations] 投放API获取
 
-Adobe Target和Adobe Target [!DNL Recommendations] 州API可用于提供对网页的响应，但也可用于非基于HTML的体验，包括应用程序、屏幕、控制台、电子邮件、报亭和其他显示设备。 换言之，当无法 [!DNL Target] 使用库和JavaScript时，投放 **[!DNL Target]API **仍允许我们访问各种功能，[!DNL Target]以提供个性化体验。
+Adobe Target和Adobe Target [!DNL Recommendations] 州API可用于提供对网页的响应，但也可用于非基于HTML的体验，包括应用程序、屏幕、控制台、电子邮件、报亭和其他显示设备。 换言之，当无法 [!DNL Target] 使用库和JavaScript时，投放 **[!DNL Target]API** 仍允许我们访问各种功能， [!DNL Target] 以提供个性化体验。
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Adobe Target [的投放](https://developers.adobetarget.com/api/delivery-api/) A
 3. 选择一个属性，然后单击 **[!UICONTROL 下一步]**。
 4. 定义您希望用户接收推荐响应的位置。 以下示例使用名为api_charter *的位置*。 选择您的基于JSON的设计，该设计以前创建，名 *为Simple JSON。*
    ![server-side-create-recs-form.png](assets/server-side-create-recs-form1.png)
-5. 保存并激活推荐。 它将产生结果。 [结果准备就绪后](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity.html)，您可以使用投放API来检索它们。
+5. 保存并激活推荐。 它将产生结果。 [结果准备就绪后](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity.html)，您可以使用投放API检索它们。
 
 ## 使用投放API
 
@@ -103,7 +103,7 @@ The syntax for the [Delivery API](https://developers.adobetarget.com/api/deliver
 
 ## 使用 [!DNL Recommendations] API管理设置
 
-大多数时间，推荐是在Adobe TargetUI中配置的，然后通过API使 [!DNL Target] 用或访问，原因如以上各节中所述。 此UI-API协调很常见。 但是，有时用户可能希望通过API执行所有操作，包括设置和结果的使用。 尽管不常见，但用户完全可以使用API *配置* 、执行和利用推荐结果。
+大多数时间，推荐是在Adobe TargetUI中配置的，然后通过API使 [!DNL Target] 用或访问，原因如上面各节所述。 此UI-API协调很常见。 但是，有时用户可能希望通过API执行所有操作，包括设置和结果的使用。 尽管不常见，但用户完全可以使用API *配置* 、执行和利用推荐结果。
 
 我们在前面的一 [节中学习](manage-catalog.md) ，如何管理Adobe TargetRecommendations实体并在服务器端提供它们。 同样，AdobeI/O允许您管理标准、促销、集合和设计模板，无需登录Adobe Target。 此处可以找到所 [!DNL Recommendations] 有API的完 [整列表](http://developers.adobetarget.com/api/recommendations/)，但此处是供参考的摘要。
 
