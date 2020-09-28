@@ -1,21 +1,21 @@
 ---
-title: 在Adobe Target中使用受众
-seo-title: 在Adobe Target中使用受众
-description: 'null'
+title: 在Adobe Target使用受众
+seo-title: 在Adobe Target使用受众
+description: 了解如何使用受众进行优化。
 audience: marketer
 difficulty: 1
 author: Daniel Wright
 doc-type: use
 activity-type: feature-video
 translation-type: tm+mt
-source-git-commit: 902c05d4403cf367c559bf51a14563859be7b804
+source-git-commit: 9d90be1fed34f07415d1619dfd007c4ec586ed0a
 workflow-type: tm+mt
-source-wordcount: '16'
-ht-degree: 6%
+source-wordcount: '22'
+ht-degree: 0%
 
 ---
 
 
-# 在Adobe Target中使用受众
+# 在Adobe Target使用受众
 
 >[!VIDEO](https://video.tv.adobe.com/v/17398/?quality=12)
