@@ -1,5 +1,5 @@
 ---
-title: 配置身份验证
+title: 为Adobe TargetAPI配置身份验证
 keywords: recommendations;adobe recommendations;premium;api;apis
 description: Adobe Target·Recommendations包含一组专用的API，允许您管理推荐产品和／或内容目录；管理推荐算法和活动;并在JSON、HTML或XML对象中提供推荐，以便在Web、移动、电子邮件、物联网和其他渠道中显示。
 kt: null
@@ -11,15 +11,15 @@ topics: recommendations;adobe recommendations;premium;api;apis
 solution: Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: c221f434ce9daec03dbb4d897343775b40b14462
+source-git-commit: 7e57febf5f552d697260283a3f98f9b403663f28
 workflow-type: tm+mt
-source-wordcount: '1877'
+source-wordcount: '1885'
 ht-degree: 2%
 
 ---
 
 
-# 配置身份验证
+# 为Adobe TargetAPI配置身份验证
 
 Adobe Target管理API(包括管 [!DNL Recommendations] 理API)通过身份验证进行保护，以确保只有授权用户才能使用它们访问Adobe Target。 使用Adobe [开发人员控制台](https://console.adobe.io/) ，管理所有Adobe Experience Cloud解决方案的此身份验证，包括 [!DNL Target]。
 
