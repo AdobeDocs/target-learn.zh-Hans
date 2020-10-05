@@ -1,12 +1,13 @@
 ---
+title: Adobe Target 教程
 user-guide-title: Adobe Target 教程
 breadcrumb-title: Target Tutorials
 audience: end-user
 solution: Target
 translation-type: tm+mt
-source-git-commit: 23f1b9b62d88596ec6571e9d4d90798dd14a5de9
+source-git-commit: 7e57febf5f552d697260283a3f98f9b403663f28
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '371'
 ht-degree: 8%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 8%
 
 # Adobe Target 教程 {#tutorials}
 
-+ [概述](../overview.md)
++ [Adobe TargetTutorials概述](../overview.md)
 + 管理{#administration}。
    + [实施战略与制度治理](../dev101/1.1-implementation-strategy-sys-governance.md)
    + [设置帐户首选项](../administration/set-up-account-preferences.md)
