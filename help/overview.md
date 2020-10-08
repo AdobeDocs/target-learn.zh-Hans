@@ -1,17 +1,17 @@
 ---
-title: Adobe TargetTutorials概述
-seo-title: Adobe TargetTutorials概述
+title: Adobe Target 教程
+seo-title: Adobe Target 教程
 description: 使您成为Adobe Target高级用户的操作方法视频和教程集合
 translation-type: tm+mt
-source-git-commit: c5b9c78f8934d3973ef78723fe3e57173bb65035
+source-git-commit: eeb11a0ab043d8db4cb5b732baedd4cc44f6f57b
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 16%
+source-wordcount: '243'
+ht-degree: 20%
 
 ---
 
 
-# Adobe TargetTutorials概述
+# Adobe Target 教程
 
 Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定制和个性化客户体验所需的一切功能，从而最大限度地增加您的 Web 和移动设备网站、应用程序、社交媒体及其他数字渠道的收入。使用这些视频和教程学习Adobe Target的许多组件。
 
