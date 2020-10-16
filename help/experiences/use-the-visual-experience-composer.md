@@ -1,7 +1,7 @@
 ---
 title: 使用Adobe Target的视觉体验书写器
 seo-title: 使用Adobe Target的视觉体验书写器
-description: 了解如何使用Adobe Target的视觉体验书写器。
+description: 了解如何使用 Adobe Target 中的 Visual Experience Composer。
 audience: marketer
 difficulty: 1
 author: Daniel Wright
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 7469ee7da84d1fed480fca979f89478640a5fbda
 workflow-type: tm+mt
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 31%
 
 ---
 
