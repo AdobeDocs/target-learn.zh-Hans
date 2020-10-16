@@ -1,14 +1,14 @@
 ---
 title: Adobe Target 教程
 user-guide-title: Adobe Target 教程
-breadcrumb-title: Target Tutorials
+breadcrumb-title: Target 教程
 audience: end-user
 solution: Target
 translation-type: tm+mt
 source-git-commit: 6b8bded0235ed9d894fe30ff505d39b789fbeef1
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 8%
+source-wordcount: '378'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 8%
    + [目标请求简介](../dev101/2.3-intro-to-target-requests.md)
    + [目标参数简介](../dev101/2.4-intro-to-target-params.md)
    + [了解at.js 2.0的工作原理](../implementation/understanding-how-atjs-20-works.md)
-   + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
+   + [在单页应用程序中实施at.js 2.0(SPA)](../implementation/implement-atjs-20-in-a-single-page-application.md)
    + [设计目标实施](../dev101/2.5-design-target-implementation.md)
    + [设计目标实施的后续步骤](../dev101/2.6-next-steps-design-target-implementation.md)
    + [根据用户同意使用选择加入控制Experience Cloud解决方案](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)
