@@ -4,10 +4,11 @@ user-guide-title: Adobe Target 教程
 breadcrumb-title: Target 教程
 audience: end-user
 solution: Target
+type: tutorial
 translation-type: tm+mt
-source-git-commit: 6b8bded0235ed9d894fe30ff505d39b789fbeef1
+source-git-commit: 009b19539470c64d7497e848e6042f8399192903
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '381'
 ht-degree: 9%
 
 ---
@@ -37,13 +38,14 @@ ht-degree: 9%
    + [设计目标实施的后续步骤](../dev101/2.6-next-steps-design-target-implementation.md)
    + [根据用户同意使用选择加入控制Experience Cloud解决方案](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
+   + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
 + 集成{#integrations}
    + [将目标与Analytics集成](../dev101/3.2-target-analytics.md)
    + [将Analytics用作目标的数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
    + [将目标与Audience Manager集成](../dev101/3.3-target-dmp.md)
    + [将目标与Experience Cloud受众集成](../dev101/3.4-target-exc-audiences.md)
    + [将 Target 与 Campaign 集成](../dev101/3.6-target-campaign.md)
-   + [将目标与AdobeI/O集成](../dev101/3.7-target-io.md)
+   + [将目标与Adobe I/O](../dev101/3.7-target-io.md)
    + [将目标与Scene7](../dev101/3.8-target-scene7.md)
    + [将目标与Adobe Experience Manager](../dev101/3.5-target-aem.md)
    + [在Adobe Target使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
