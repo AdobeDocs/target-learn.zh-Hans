@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中创建Multivariate Tests
+title: 在Adobe Target创建多变量测试
 description: 'null'
 audience: marketer
 difficulty: 1
