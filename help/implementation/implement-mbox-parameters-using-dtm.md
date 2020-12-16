@@ -16,6 +16,6 @@ ht-degree: 4%
 ---
 
 
-# 使用DTM实现Adobe Target的Mbox参数
+# 用DTM实现Adobe Target的Mbox参数
 
 >[!VIDEO](https://video.tv.adobe.com/v/17383/?quality=12)
