@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中设置工作区
+title: 在Adobe Target设置工作区
 description: 'null'
 audience: administrator
 difficulty: 1
