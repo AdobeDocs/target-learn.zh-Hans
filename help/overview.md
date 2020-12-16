@@ -25,7 +25,7 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 * **[使用AdobeMobile Services SDK v4 for Android实施Adobe Target（教程）](mobile-v4/overview.md)**
 
-   *对于已在使用AdobeMobile Services SDK v4的开发人员：了解如何与Adobe Target开始个性化应用体验。 这些步骤作为传统用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
+   *对于已在使用AdobeMobile Services SDK v4的开发人员：了解如何与Adobe Target开始个性化应用体验。这些步骤作为传统用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
 
 <!--* **[Use Recommendations Offers (Video)](recommendations/use-recommendations-offers.md)**
     *For all Target Users: Learn how to use product recommendations in A/B and Experience Targeting Activities.*-->
