@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中创建体验定位活动
+title: 在Adobe Target创建体验定位活动
 description: 体验定位活动使营销人员能够将特定内容目标到特定受众。
 seo-description: 体验定位活动使营销人员能够将特定内容目标到特定受众。
 audience: marketer
