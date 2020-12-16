@@ -37,7 +37,7 @@ Adobe Target设备上决策支持接近零延迟的内容投放。 此7分钟视
 * 描述设备上决策及其优势
 * 在目标中启用设备上决策
 * 创建用于设备上决策的基于表单的书写器活动
-* 访问Adobe TargetSDK文档，进一步了解设备决策所需的SDK [配置](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)
+* 通过访问[Adobe TargetSDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)进一步了解设备决策所需的SDK配置
 * 了解最终用户将体验哪些内容通过设备决策交付
 
 
@@ -47,4 +47,4 @@ Adobe Target设备上决策支持接近零延迟的内容投放。 此7分钟视
 
 >[!VIDEO](https://video.tv.adobe.com/v/329032/?quality=12)
 
-有关详细信息，请访 [问Adobe TargetSDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)。
+有关详细信息，请访问[Adobe TargetSDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)。
