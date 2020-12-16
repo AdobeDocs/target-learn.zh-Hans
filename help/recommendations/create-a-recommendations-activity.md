@@ -1,6 +1,6 @@
 ---
 title: 创建“推荐”活动
-seo-title: 在Adobe Target中创建Recommendations活动
+seo-title: 在Adobe Target打造Recommendations活动
 audience: marketer
 difficulty: 3
 author: Daniel Wright
