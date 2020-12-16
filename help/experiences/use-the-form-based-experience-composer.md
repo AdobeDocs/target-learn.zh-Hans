@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Target中使用基于表单的体验书写器
-seo-title: 在Adobe Target中使用基于表单的体验书写器
+title: 在Adobe Target使用基于表单的体验书写器
+seo-title: 在Adobe Target使用基于表单的体验书写器
 description: 'null'
 audience: marketer
 difficulty: 1
@@ -16,6 +16,6 @@ ht-degree: 4%
 ---
 
 
-# 在Adobe Target中使用基于表单的体验书写器
+# 在Adobe Target使用基于表单的体验书写器
 
 >[!VIDEO](https://video.tv.adobe.com/v/17390/?quality=12)
