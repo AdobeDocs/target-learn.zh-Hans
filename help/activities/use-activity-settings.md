@@ -1,5 +1,5 @@
 ---
-title: 在活动中使用Adobe Target设置
+title: 在Adobe Target使用活动设置
 description: 'null'
 audience: marketer
 difficulty: 2
