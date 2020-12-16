@@ -1,6 +1,6 @@
 ---
 title: 将Recommendations优惠用于A/B测试和体验定位活动
-seo-title: 将Recommendations优惠用于A/B测试和体验定位Adobe Target
+seo-title: 将Recommendations优惠用于Adobe TargetA/B测试和体验定位活动
 description: Recommendations优惠可与A/B测试和体验定位活动一起使用。
 feature: recommendations
 kt: kt-3451
