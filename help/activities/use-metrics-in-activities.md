@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target活动中使用指标
+title: 在Adobe Target活动使用指标
 description: 'null'
 audience: marketer
 difficulty: 2
