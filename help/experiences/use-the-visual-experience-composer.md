@@ -16,7 +16,7 @@ ht-degree: 31%
 ---
 
 
-# 使用Adobe Target [!UICONTROL 的视觉体验作] 曲器
+# 使用Adobe Target的[!UICONTROL Visual Experience Composer]
 
 >[!VIDEO](https://video.tv.adobe.com/v/17399/?quality=12)
 
