@@ -1,5 +1,5 @@
 ---
-title: 了解Adobe Target中的企业用户权限
+title: 了解Adobe Target的企业用户权限
 description: 'null'
 audience: administrator
 difficulty: 1
