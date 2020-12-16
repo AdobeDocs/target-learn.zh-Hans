@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中设置属性
+title: 在Adobe Target设置属性
 description: 'null'
 audience: administrator
 difficulty: 1
