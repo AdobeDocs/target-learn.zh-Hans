@@ -1,5 +1,5 @@
 ---
-title: 在活动中使用Adobe Target定位
+title: 在Adobe Target使用活动定位
 description: 'null'
 audience: marketer
 difficulty: 2
