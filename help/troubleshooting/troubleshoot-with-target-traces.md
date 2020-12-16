@@ -1,5 +1,5 @@
 ---
-title: Adobe Target跟踪疑难解答
+title: 用目标跟踪诊断Adobe Target
 description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。了解如何在Experience Cloud中进行身份验证，并使用功能强大的目标跟踪工具检查活动和受众资格以及访客用户档案。
 audience: marketer
 difficulty: 3
