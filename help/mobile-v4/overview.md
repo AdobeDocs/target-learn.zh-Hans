@@ -17,16 +17,16 @@ ht-degree: 2%
 
 # Adobe Target,AdobeMobile Services SDK v4 for Android —— 概述
 
-_Adobe Target公司推出适用于Android的AdobeMobile_ Services SDK v4，对于已经使用AdobeMobile Services SDK v4并希望与Adobe Target开始个性化应用程序体验的Android开发人员来说，这是一个完美的起点。
+_Adobe Target公司为Android提供AdobeMobile Services SDK v4,_ 对于已经使用AdobeMobile Services SDK v4并希望与Adobe Target开始个性化应用程序体验的Android开发人员来说，这是一个完美的起点。
 
-您可以使用演示版Android应用程序完成课程。 完成本教程后，您应准备好在自己的Android应 [!DNL Target] 用程序中开始实施！
+您可以使用演示版Android应用程序完成课程。 完成本教程后，您应准备好开始在您自己的Android应用程序中实施[!DNL Target]!
 
 完成此教程后，您将能够：
 
-* 验证 [AdobeMobile Services SDK设置](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)
-* 实施以下类型的 [!DNL Target] 请求：
-   * 内容预取 [!DNL Target]
-   * 在单个 [!DNL Target] 请求中批处理多个位置(mbox)
+* 验证[AdobeMobile Services SDK](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html)设置
+* 实现以下类型的[!DNL Target]请求：
+   * [!DNL Target]内容的预取
+   * 在单个请求中批处理多个[!DNL Target]位置(mbox)
    * 阻止请求（在应用程序显示前运行）
    * 非阻止请求（在后台运行）
    * 实时（非缓存）
@@ -41,9 +41,9 @@ _Adobe Target公司推出适用于Android的AdobeMobile_ Services SDK v4，对�
 在这些教训中，我们假定您：
 
 * 拥有AdobeID和审批者级别的Adobe Target界面访问权限（请参阅下面的验证步骤）
-* 了解您的Adobe Target客户代码，以便向您自己的帐户提出请求。 客户端代码显示在“设置”>“实施”>“编辑at.js”设置屏幕的Adobe Target界面中
-* 有权访问并熟悉Mobile [Services用户界面](https://mobilemarketing.adobe.com)
-* 拥有用于Android移动应用程序开发的IDE。 本教程通过 [各种步骤](https://developer.android.com/studio/install) 、以及截屏方式提供Android Studio
+* 了解您的Adobe Target客户代码，以便向您自己的帐户提出请求。 客户端代码显示在Adobe的Adobe Target   “设置”>“实施”>“编辑at.js设置”屏幕
+* 访问并熟悉[Mobile Services用户界面](https://mobilemarketing.adobe.com)
+* 拥有用于Android移动应用程序开发的IDE。 本教程以各种步骤和截屏功能提供[Android Studio](https://developer.android.com/studio/install)
 
 如果您没有访问Experience Cloud解决方案所需的权限，请联系您的Experience Cloud管理员。
 
@@ -53,10 +53,10 @@ _Adobe Target公司推出适用于Android的AdobeMobile_ Services SDK v4，对�
 
 这一教训需要我们去Adobe Target。 在完成后续步骤之前，请执行以下操作，确保您有权访问Adobe Target:
 
-1. 登录 [Adobe Experience Cloud](https://experience.adobe.com/)
-1. From the Experience Cloud home screen, click [!DNL Target]:
+1. 登录[Adobe Experience Cloud](https://experience.adobe.com/)
+1. 在Experience Cloud主屏幕中，单击[!DNL Target]:
    ![Experience Cloud主屏幕](assets/aec_homeScreen_clickTarget.png)
-1. 如下图所示，您应该访问Adobe Target的活动列表，并且您应该看到您的用户具有审批者级别的访问权限。 如果您无法访问或 [!DNL Target] 无法验证审批者级别的访问权限，请与公司的Experience Cloud管理员之一联系，请求此访问权限，并在授予后继续本教程：
+1. 如下图所示，您应该访问Adobe Target的活动列表，并且您应该看到您的用户具有审批者级别的访问权限。 如果您无法访问[!DNL Target]或无法验证审批者级别的访问权限，请联系您的公司的Experience Cloud管理员，请请求此访问权限，并在授予此权限后继续本教程：
 
    ![AdobeUI](assets/targetUI_approver.png)
 
@@ -66,7 +66,7 @@ _Adobe Target公司推出适用于Android的AdobeMobile_ Services SDK v4，对�
 
 ![We.Travel应用程序最终版](assets/overview_final_result.jpg)
 
-在We.Travel应用程序中完成实施后，您将能够在自己的移动应用 [!DNL Target] 程序中开始使用。
+在We.Travel应用程序中完成实施后，您将能够在自己的移动应用程序中使用[!DNL Target]进行开始。
 
 开始吧！
 
