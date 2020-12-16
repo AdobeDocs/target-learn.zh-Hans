@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中设置帐户首选项
+title: 在Adobe Target设置帐户首选项
 description: 'null'
 audience: administrator
 difficulty: 1
