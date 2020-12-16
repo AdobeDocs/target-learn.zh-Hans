@@ -1,6 +1,6 @@
 ---
 title: 在Recommendations创建源
-seo-title: 在Adobe TargetRecommendations创建源
+seo-title: 在Adobe Target·Recommendations创建源
 audience: marketer
 difficulty: 3
 author: Daniel Wright
