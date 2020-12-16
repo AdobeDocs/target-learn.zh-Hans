@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Target中使用个性化洞察报告
+title: 使用Adobe Target的个性化洞察报告
 description: Automated Personalization和自动目标活动使用高级机器学习根据其个人客户用户档案和具有相似用户档案的先前访客的行为为每位访客提供最为定制的体验。 个性化洞察报告提供有关这些模型如何作出决策的信息。
 audience: analyst
 difficulty: 3
