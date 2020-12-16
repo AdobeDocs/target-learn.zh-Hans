@@ -1,6 +1,6 @@
 ---
 title: 了解Recommendations的源
-seo-title: 了解Adobe TargetRecommendations
+seo-title: 了解Adobe TargetRecommendations的源
 audience: marketer
 difficulty: 3
 author: Daniel Wright
