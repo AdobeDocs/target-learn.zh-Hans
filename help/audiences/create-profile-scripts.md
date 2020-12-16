@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Target中创建用户档案脚本
-seo-title: 在Adobe Target中创建用户档案脚本
+title: 在Adobe Target创建用户档案脚本
+seo-title: 在Adobe Target创建用户档案脚本
 description: 'null'
 audience: marketer
 difficulty: 5
@@ -16,6 +16,6 @@ ht-degree: 5%
 ---
 
 
-# 在Adobe Target中创建用户档案脚本
+# 在Adobe Target创建用户档案脚本
 
 >[!VIDEO](https://video.tv.adobe.com/v/17394/?quality=12)
