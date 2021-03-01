@@ -1,5 +1,5 @@
 ---
-title: 了解Adobe Target的活动类型
+title: 了解Adobe Target中的活动类型
 description: 了解 Adobe Target 中包含的不同类型的活动，以及它们如何帮助您实现目标。
 audience: marketer
 difficulty: 1
