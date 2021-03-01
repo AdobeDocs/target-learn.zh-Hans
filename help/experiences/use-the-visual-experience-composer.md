@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Target的视觉体验书写器
-seo-title: 使用Adobe Target的视觉体验书写器
+title: 使用Adobe Target中的Visual Experience Composer
+seo-title: 使用Adobe Target中的Visual Experience Composer
 description: 了解如何使用 Adobe Target 中的 Visual Experience Composer。
 audience: marketer
 difficulty: 1
@@ -16,7 +16,7 @@ ht-degree: 31%
 ---
 
 
-# 使用Adobe Target的[!UICONTROL Visual Experience Composer]
+# 使用Adobe Target中的[!UICONTROL  Visual Experience Composer]
 
 >[!VIDEO](https://video.tv.adobe.com/v/17399/?quality=12)
 
