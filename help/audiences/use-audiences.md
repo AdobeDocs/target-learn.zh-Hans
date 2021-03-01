@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Target使用受众
-seo-title: 在Adobe Target使用受众
+title: 在Adobe Target中使用受众
+seo-title: 在Adobe Target中使用受众
 description: 了解如何使用受众进行优化。
 audience: marketer
 difficulty: 1
@@ -16,6 +16,6 @@ ht-degree: 31%
 ---
 
 
-# 在Adobe Target使用受众
+# 在Adobe Target中使用受众
 
 >[!VIDEO](https://video.tv.adobe.com/v/17398/?quality=12)
