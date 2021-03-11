@@ -6,10 +6,10 @@ audience: end-user
 solution: Target
 type: 教程
 translation-type: tm+mt
-source-git-commit: 009b19539470c64d7497e848e6042f8399192903
+source-git-commit: 60a434ae3bac84a9dfc3715850bb93ca8598ef2b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 9%
+source-wordcount: '393'
+ht-degree: 8%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 9%
 + 集成{#integrations}
    + [将目标与Analytics集成](../dev101/3.2-target-analytics.md)
    + [将Analytics用作目标的数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
+   + [在Analysis Workspace中设置A4T报表以自动目标活动](../integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)
    + [将目标与Audience Manager集成](../dev101/3.3-target-dmp.md)
    + [将目标与Experience Cloud受众集成](../dev101/3.4-target-exc-audiences.md)
    + [将 Target 与 Campaign 集成](../dev101/3.6-target-campaign.md)
