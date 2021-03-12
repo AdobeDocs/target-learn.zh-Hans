@@ -10,7 +10,7 @@ topic: 目标分析(A4T)，自动目标
 solution: Target
 author: Judy Kim
 translation-type: tm+mt
-source-git-commit: 814ce9b49eff6cbc41a84bb65718f4e5f4f0142d
+source-git-commit: 98ea1a58e1adef2f8778fc0f6654228bf8b550ab
 workflow-type: tm+mt
 source-wordcount: '2237'
 ht-degree: 1%
@@ -34,7 +34,7 @@ ht-degree: 1%
 
 要为[!DNL Auto-Target]报表创建A4T，请使用Workspace中的&#x200B;**[!UICONTROL “目标分析”面板进行开始（如下所示），或以自由格式表开头。]**&#x200B;然后进行以下选择：
 
-1. **[!UICONTROL 控制体验]**:您可以选择任何体验；但是，我们稍后将覆盖此选项。请注意，对于[!DNL Auto-Target]活动，控制体验实际上是一种控制策略，即a)在所有体验中随机提供，或b)提供单个体验(此选项是在Adobe Target的活动创建时做出的)。 即使您选择了选择(b) — 您的[!DNL Auto-Target]活动指定了特定体验作为控件 — 您仍应按照本教程中概述的方法分析[!DNL Auto-Target]活动的A4T。
+1. **[!UICONTROL 控制体验]**:您可以选择任何体验；但是，您以后将覆盖此选项。请注意，对于[!DNL Auto-Target]活动，控制体验实际上是一种控制策略，即a)在所有体验中随机提供，或b)提供单个体验(此选项是在Adobe Target的活动创建时做出的)。 即使您选择了选择(b) — 您的[!DNL Auto-Target]活动指定了特定体验作为控件 — 您仍应按照本教程中概述的方法分析[!DNL Auto-Target]活动的A4T。
 2. **[!UICONTROL 标准化量度]**:选择访问。
 3. **[!UICONTROL 成功量度]**:尽管您可以选择要报告的任何量度，但通常应将报告视图到在Adobe Target中创建活动时选择用于优化的同一量度。
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 >
 >要为自动目标活动设置“目标”面板，请选择任何控制体验，选择“访问”作为标准化量度，然后选择在创建目标活动时为优化而选择的相同目标量度。
 
-## 使用控件与目标尺寸比较Adobe Target的集成ML模型与控件
+## 使用“控件”与“目标”尺寸将Adobe Target的集成ML模型与您的控件进行比较
 
 默认的A4T面板专为经典（手动）A/B测试或自动分配活动而设计，其目标是将各个体验的性能与控制体验进行比较。 但是，在[!DNL Auto-Target]活动中，第一阶比较应在控制&#x200B;*策略*&#x200B;和目标&#x200B;*策略*&#x200B;之间（即，确定[!DNL Auto-Target]集成ML模型对控制策略的整体性能的提升）。
 
