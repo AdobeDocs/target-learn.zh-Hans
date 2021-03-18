@@ -1,24 +1,23 @@
 ---
 title: 如何在Analysis Workspace中设置自动目标活动的A4T报表
-description: 如何在Analysis Workspace中配置A4T报告，以在运行自动目标活动时获得预期结果
-kt: null
-audience: business user
-doc-type: tutorial
-activity: use, setup
+description: 将Analytics for 目标(A4T)集成到位并运行自动目标活动后，如何确保正确解释结果？ 按照以下步骤在Analysis Workspace中配置A4T报表，以在运行自动目标活动时获得预期结果。
+role: 业务从业者
+level: 中间
+topic: 个性化
 feature: 目标分析(A4T)，自动目标
-topic: 目标分析(A4T)，自动目标
-solution: Target
-author: Judy Kim
+doc-type: tutorial
+thumbnail: null
+kt: null
 translation-type: tm+mt
-source-git-commit: 98ea1a58e1adef2f8778fc0f6654228bf8b550ab
+source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
 workflow-type: tm+mt
-source-wordcount: '2237'
+source-wordcount: '2262'
 ht-degree: 1%
 
 ---
 
 
-# 如何在Analysis Workspace中为[!DNL Auto-Target]活动设置A4T报告
+# 在Analysis Workspace中为[!DNL Auto-Target]活动设置A4T报告
 
 [!DNL Auto-Target]活动的“目标分析(A4T)”集成使用Adobe Target的集成机器学习(ML)算法，根据每个访客的用户档案、行为和上下文为每个选择最佳体验，同时使用Adobe Analytics目标量度。
 
@@ -47,7 +46,7 @@ ht-degree: 1%
 
 ## 使用“控件”与“目标”尺寸将Adobe Target的集成ML模型与您的控件进行比较
 
-默认的A4T面板专为经典（手动）A/B测试或自动分配活动而设计，其目标是将各个体验的性能与控制体验进行比较。 但是，在[!DNL Auto-Target]活动中，第一阶比较应在控制&#x200B;*策略*&#x200B;和目标&#x200B;*策略*&#x200B;之间（即，确定[!DNL Auto-Target]集成ML模型对控制策略的整体性能的提升）。
+默认的A4T面板专为经典（手动）A/B测试或自动分配活动设计，其目标是将各个体验的性能与控制体验进行比较。 但是，在[!DNL Auto-Target]活动中，第一阶比较应在控制&#x200B;*策略*&#x200B;和目标&#x200B;*策略*&#x200B;之间（即，确定[!DNL Auto-Target]集成ML模型对控制策略的整体性能的提升）。
 
 要执行此比较，请使用&#x200B;**[!UICONTROL 控制与目标(目标分析)]**&#x200B;维度。 拖放以替换默认A4T报表中的&#x200B;**[!UICONTROL 目标体验]**&#x200B;维度。
 
@@ -86,9 +85,9 @@ ht-degree: 1%
 
 | 体验 | 独特访客 | 访问次数 | 转化 | 访客规范。 康夫。 比率 | 访问规范。 康夫。 比率 |
 | --- | --- | --- | --- | --- | --- |
-| 同类群组 | 1 | 1 | - | 0% | 0% |
+| 同类群组 | 1 | 3 | - | 0% | 0% |
 | B | 2 | 3 | 3 | 50% | 33.3% |
-| 总计 | 2 | 4 | 3 | 50% | 25% |
+| 总计 | 2 | 4 | 1 | 50% | 25% |
 *表1:示例比较访客标准化报表和访问标准化报表，其中决策对访问具有粘性(而非访客，与常规A/B测试一样)。访客标准化量度在此方案中容易混淆。*
 
 如表所示，访客级数字明显不一致。 尽管有两种完全唯一的访客，但这并不是每种体验的单独唯一访客的总和。 虽然访客级转化率未必是错的，但如果比较个人体验，访问级转化率可以说更有意义。 从形式上讲，分析单位（“访问”）与决策粘性单位相同，这意味着可以添加和比较体验级别的指标划分。
