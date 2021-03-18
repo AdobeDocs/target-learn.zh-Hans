@@ -1,24 +1,37 @@
 ---
-title: 使用用户档案比较在Adobe Target建立受众
-seo-title: 使用用户档案比较在Adobe Target建立受众
-description: Adobe Target的用户档案比较功能允许您在构建受众时，将两个数字用户档案值相互比较。 如果您要将自定义构建的倾向得分传递到目标并希望根据倾向得分最高的产品个性化内容，则此功能非常有用。
-audience: marketer
-difficulty: 3
+title: 如何使用用户档案比较来构建受众
+description: 此视频向Adobe Target用户展示了在构建受众时如何使用用户档案比较功能来比较两个数值用户档案值。
+role: 业务从业者
+level: 富有经验
+topic: 个性化
+feature: 受众
+doc-type: feature video
+thumbnail: null
+kt: null
 author: Daniel Wright
-doc-type: use
-activity-type: feature-video
 translation-type: tm+mt
-source-git-commit: 37443ae4c1cdda387c8db0053201d520fa1ec224
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 4%
+source-wordcount: '179'
+ht-degree: 5%
 
 ---
 
 
-# 使用用户档案比较在Adobe Target建立受众
+# 使用用户档案比较在Adobe Target中构建受众
 
-Adobe Target的[!UICONTROL 用户档案比较]功能允许您在构建受众时，将两个数字用户档案值相互比较。 如果您要将自定义构建的倾向得分传递到[!DNL Target]并希望根据倾向得分最高的产品个性化内容，则此功能非常有用。
+Adobe Target中的[!UICONTROL 用户档案比较]功能允许您在构建受众时对比两个数字用户档案值。 例如，如果您要将自定义构建的倾向得分传递到[!DNL Target]并希望根据倾向得分最高的产品个性化内容，则此功能非常有用。
+
+## 描述
+
+在此视频中，您将学习如何：
+
+* 比较传递给Adobe Target的数字用户档案值（分数）
+* 使用这些得分比较来定义受众
+
+## 预期受众
+
+* 业务从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/23218/?quality=12)
 
