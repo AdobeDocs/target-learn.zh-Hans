@@ -1,9 +1,8 @@
 ---
-user-guide-title: 使用RecommendationsAPI
+user-guide-title: 使用Recommendations API
 user-guide-url: /content/help/en/target-learn/recommendations-api-tutorial/recs-api-overview.html
-solution: Target
 translation-type: tm+mt
-source-git-commit: e7965702b852da879012837241dded12c0f182c2
+source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 0%
@@ -11,12 +10,12 @@ ht-degree: 0%
 ---
 
 
-# 使用Adobe TargetRecommendationsAPI{#recommendations-api-tutorial}
+# 使用Adobe Target Recommendations API{#recommendations-api-tutorial}
 
 + [Recs API概述](recs-api-overview.md)
 + [使用API管理目录](manage-catalog.md)
 + [管理自定义条件](manage-custom-criteria.md)
-+ [将投放API与Recommendations](fetch-recs-server-side-delivery-api.md)
++ [将投放 API与Recommendations结合使用](fetch-recs-server-side-delivery-api.md)
 
 <!--+ [Debug API calls](6debug.md)
 + [Download the Calculated Recommendations CSV](7download-calc-recs-csv.md)-->
