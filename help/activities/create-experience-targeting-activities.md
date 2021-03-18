@@ -1,30 +1,41 @@
 ---
-title: 在Adobe Target创建体验定位活动
-description: 体验定位活动使营销人员能够将特定内容目标到特定受众。
-seo-description: 体验定位活动使营销人员能够将特定内容目标到特定受众。
-audience: marketer
-difficulty: 1
-author: Daniel Wright
-doc-type: use
-activity-type: feature-video
+title: 如何创建体验定位活动
+description: 体验定位(XT)活动使营销人员能够将特定内容目标到特定受众。 了解XT活动的优势以及如何创建和使用它们。
+role: 业务从业者
+level: 初学者
+topic: 个性化
+feature: 体验定位、活动、可视体验书写器(VEC)
+doc-type: feature video
+thumbnail: null
+kt: null
 translation-type: tm+mt
-source-git-commit: bab376b87bb489492bde4e51f6e22ed0c6fa098d
+source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 22%
+source-wordcount: '221'
+ht-degree: 19%
 
 ---
 
 
 # 创建体验定位活动
 
-体验定位是迈入个性化世界的第一步，通常以 A/B 测试开始。营销人员运行 A/B 测试，并通过使用报表受众，发现不同的体验可与不同的受众产生共鸣。体验定位（或XT）使营销人员能够轻松利用该发现并将内容的长期定位切换到这些不同的用户细分。
+体验定位是迈入个性化世界的第一步，通常以 A/B 测试开始。营销人员运行 A/B 测试，并通过使用报表受众，发现不同的体验可与不同的受众产生共鸣。体验定位（或XT）使营销人员能够轻松利用该发现，并将内容的长期定位切换到这些不同的用户细分。
+
+## 描述
+
+在此视频中，您将学习如何：
+
+* 使用Adobe Target Visual Experience Composer(VEC)创建体验定位(XT)活动
+
+## 预期受众
+
+* 业务从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/22418?quality=12)
 
 ## 其他资源
 
-* [下载体验个性化的Playbook](https://guided.adobe.com/?promoid=K42KVXHD&amp;mv=other&amp;search=personalization+playbook#recommended/solutions/target)
+* [下载Playbook for Experience Personalization](https://guided.adobe.com/?promoid=K42KVXHD&amp;mv=other&amp;search=personalization+playbook#recommended/solutions/target)
 * [体验定位文档](https://docs.adobe.com/content/help/en/target/using/activities/experience-targeting/experience-target.html)
 
 ## 此视频中使用的其他功能
