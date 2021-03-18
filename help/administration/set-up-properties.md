@@ -1,21 +1,33 @@
 ---
-title: 在Adobe Target设置属性
-description: 'null'
-audience: administrator
-difficulty: 1
-author: Daniel Wright
-doc-type: setup
-activity-type: feature-video
+title: 如何设置属性
+description: 此视频向管理员介绍如何在Adobe Target中创建属性。
+role: 管理员
+level: 初学者
+topic: 管理
+feature: 管理 & 配置
+doc-type: feature video
+thumbnail: null
+kt: null
 badge: premium
 translation-type: tm+mt
-source-git-commit: 6ebdda26ef1e210cca495fe9ea73c67eca039d6f
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '10'
-ht-degree: 10%
+source-wordcount: '43'
+ht-degree: 13%
 
 ---
 
 
-# 设置属性
+# 在Adobe Target中设置属性
+
+## 描述
+
+在此视频中，您将学习如何：
+
+* 在Adobe Target中创建属性
+
+## 预期受众
+
+* 管理员
 
 >[!VIDEO](https://video.tv.adobe.com/v/18990/?quality=12)
