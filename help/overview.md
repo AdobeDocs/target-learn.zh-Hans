@@ -1,17 +1,16 @@
 ---
-title: Adobe Target 教程
-seo-title: Adobe Target 教程
-description: 使您成为Adobe Target高级用户的操作方法视频和教程集合
+title: 了解如何使用Adobe Target
+description: 通过涵盖其所有组件的教程和视频，了解如何使用Adobe Target。 有效使用Adobe Target的强大功能。
 translation-type: tm+mt
-source-git-commit: f7aef8f332173c8dfca9fbb09d13c5a43a42ffbc
+source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 20%
+source-wordcount: '250'
+ht-degree: 16%
 
 ---
 
 
-# Adobe Target 教程
+# 学习使用Adobe Target
 
 Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定制和个性化客户体验所需的一切功能，从而最大限度地增加您的 Web 和移动设备网站、应用程序、社交媒体及其他数字渠道的收入。使用这些视频和教程学习Adobe Target的许多组件。
 
@@ -19,13 +18,13 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 * **[设备上决策概述](implementation/on-device-decisioning-overview.md)**
 
-   *对于架构师：开始使用设备上决策，为消费者提供接近零的延迟体验！*
-* **[使用RecommendationsAPI（教程）](recommendations-api-tutorial/recs-api-overview.md)**
-   *对于开发人员：使用API配置和管理目 [!DNL Recommendations] 录和自定义标 [!DNL Recommendations] 准等进行实践。*
+   *对于架构师：开始使用设备决策，为消费者提供接近零的延迟体验！*
+* **[使用Recommendations API（教程）](recommendations-api-tutorial/recs-api-overview.md)**
+   *对于开发人员：使用API配置和管理目 [!DNL Recommendations] 录和自定义标 [!DNL Recommendations] 准等，亲身体验。*
 
-* **[使用AdobeMobile Services SDK v4 for Android实施Adobe Target（教程）](mobile-v4/overview.md)**
+* **[使用Adobe Mobile Services SDK v4 for Android实施Adobe Target（教程）](mobile-v4/overview.md)**
 
-   *对于已在使用AdobeMobile Services SDK v4的开发人员：了解如何与Adobe Target开始个性化应用体验。这些步骤作为传统用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
+   *对于已在使用Adobe Mobile Services SDK v4的开发人员：了解如何使用Adobe Target开始个性化应用程序体验。这些步骤作为旧版用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
 
 <!--* **[Use Recommendations Offers (Video)](recommendations/use-recommendations-offers.md)**
     *For all Target Users: Learn how to use product recommendations in A/B and Experience Targeting Activities.*-->
@@ -41,11 +40,11 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 <tr>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html">
-      <img alt="实施与Adobe Experience Platform Launch的目标" src="assets/launch_referencearchitectureguides.png" />
+      <img alt="使用Adobe Experience Platform Launch实施目标" src="assets/launch_referencearchitectureguides.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html">
-    <strong>实施与Adobe Experience Platform Launch的目标</strong>
+    <strong>使用Adobe Experience Platform Launch实施目标</strong>
     </a>
     </div>
     <p>
