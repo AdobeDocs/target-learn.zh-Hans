@@ -1,18 +1,18 @@
 ---
-title: Adobe Target混合部署
-description: Adobe Target优惠了用于个性化的独特混合部署模型——将客户端和服务器端实施混合在一起。
-topics: implementation
-feature: implementation
-audience: developer, architect
-activity: understand
+title: 混合部署选项
+description: 观看此视频，了解Adobe Target独特的个性化混合部署模型 — 混合客户端和服务器端实施。
+role: 开发人员、架构师
+level: 初学者
+topic: 个性化、架构、开发
+feature: 实现，实现服务器端，实现客户端
 doc-type: feature video
-team: Evangelism
-kt: 6165
 thumbnail: null
+kt: 6165
+team: Evangelism
 translation-type: tm+mt
-source-git-commit: 3c4e25461527c361a7eb2281504e56ddc2f9ea5b
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '151'
 ht-degree: 1%
 
 ---
@@ -20,17 +20,15 @@ ht-degree: 1%
 
 # Adobe Target混合部署
 
-## 描述
-
-Adobe Target优惠了用于个性化的独特混合部署模型——将客户端和服务器端实施混合在一起。 该混合模型允许非技术用户使用WYSIWYG Visual Experience Composer创作实验或个性化活动，并让服务器端执行、交付和渲染体验，从而实现高性能投放。 
+Adobe Target优惠了一个独特的混合部署模型，用于个性化 — 混合了客户端和服务器端实施。 该混合模型允许非技术用户使用WYSIWYG Visual Experience Composer创作实验或个性化活动，并让服务器端执行、交付和渲染体验，以实现高性能投放。 
 
 ## 目标
 
-在此视频结束前，您将：
+在此视频的结尾，您将：
 
-* 了解Adobe Target的混合部署意味着什么
+* 了解Adobe Target的混合部署
 * 了解混合部署的优势
-* 观察混合部署所能减少的服务器调用
+* 观察通过混合部署实现的服务器调用减少情况
 
 ## 预期受众
 
@@ -39,4 +37,7 @@ Adobe Target优惠了用于个性化的独特混合部署模型——将客户�
 
 >[!VIDEO](https://video.tv.adobe.com/v/41698/?quality=12)
 
-<!-- JUDY: add to this once we have documentation. And/or add to this, with links to the on-device decisioning content. For more information, visit the [documentation](https://docs.adobe.com/content/help/en/target/using/implement-target/implementing-target.html). -->
+## 其他资源
+
+* [设备上决策概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en#implementation)
+* [Adobe Target SDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)
