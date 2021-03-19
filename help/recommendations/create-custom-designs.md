@@ -1,27 +1,39 @@
 ---
-title: 在Recommendations创建自定义设计
-seo-title: 在Adobe TargetRecommendations创建自定义设计
-audience: marketer
-difficulty: 3
-author: Daniel Wright
-doc-type: use
-activity-type: feature-video
+title: 如何在Recommendations中创建自定义设计
+description: 了解如何在Adobe Target Recommendations中创建自定义设计。
+role: 业务从业者
+level: 中间
+topic: 个性化
+feature: Recommendations
+doc-type: feature video
+thumbnail: null
+kt: null
 translation-type: tm+mt
-source-git-commit: 024678e0569b92da8e470a1299f0f7a585ba2371
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 17%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 
-# 在Recommendations创建自定义设计
+# 在Recommendations中创建自定义设计
+
+## 描述
+
+在此视频中，您将学习如何：
+
+* 在Adobe Target Recommendations中创建自定义设计
+
+## 预期受众
+
+* 业务从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/27687?quality=12)
 
 ## 其他资源
 
-* [创建集合和排除](create-collections-and-exclusions.md)
+* [创建收藏集和排除](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
 * [了解源](understanding-feeds.md)
 * [创建源](create-a-feed.md)
