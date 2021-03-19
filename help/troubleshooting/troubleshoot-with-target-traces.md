@@ -1,21 +1,24 @@
 ---
-title: 用目标跟踪诊断Adobe Target
+title: 如何使用目标跟踪进行疑难解答
 description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。了解如何在Experience Cloud中进行身份验证，并使用功能强大的目标跟踪工具检查活动和受众资格以及访客用户档案。
-audience: marketer
-difficulty: 3
+role: 业务从业者
+level: 中间
+topic: 个性化、性能
+feature: Troubleshooting
+doc-type: feature video
+kt: null
+thumbnail: null
 author: Daniel Wright
-doc-type: feature-video
-activity-type: troubleshooting
 translation-type: tm+mt
-source-git-commit: 0a165e3cfebd18733b2d339eefa4357b6fdc0b37
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 17%
 
 ---
 
 
-# 目标跟踪疑难解答
+# 使用目标跟踪进行疑难解答
 
 ## Mbox 跟踪
 
@@ -23,7 +26,7 @@ ht-degree: 17%
 
 ## 其他资源
 
-* [Adobe Experience Cloud调试器在Chrome商店中的应用](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* [目标帮助疑难解答文档](https://docs.adobe.com/content/help/en/target/using/troubleshoot/troubleshooting-target.html)
-* [目标视频疑难解答](troubleshoot-with-the-experience-cloud-debugger.md)
+* [Adobe Experience Cloud Debugger in the Chrome Store](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [目标帮助文档疑难解答](https://docs.adobe.com/content/help/en/target/using/troubleshoot/troubleshooting-target.html)
+* [目标Experience Cloud Debugger视频疑难解答](troubleshoot-with-the-experience-cloud-debugger.md)
 * [如何使用Experience Cloud Debugger视频](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/debugger/use-the-experience-cloud-debugger.html)
