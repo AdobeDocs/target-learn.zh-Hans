@@ -1,21 +1,34 @@
 ---
-title: 使用DTM实现目标的Mbox参数
-seo-title: 使用DTM实现目标的Mbox参数
-description: 'null'
-audience: developer
-difficulty: 3
-author: Daniel Wright
-doc-type: implement
-activity-type: technical-video
+title: 如何用DTM实现Mbox参数
+description: 此视频向开发人员展示如何使用Adobe激活(以前称为Adobe动态标签管理(DTM))实现mbox参数。
+role: 开发人员
+level: 中间
+topic: 个性化、架构、开发
+feature: 实施
+doc-type: technical video
+kt: null
+thumbnail: null
 translation-type: tm+mt
-source-git-commit: 37443ae4c1cdda387c8db0053201d520fa1ec224
+source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 4%
+source-wordcount: '95'
+ht-degree: 3%
 
 ---
 
 
-# 用DTM实现Adobe Target的Mbox参数
+# 使用动态标签管理(DTM)为Adobe Target实施Mbox参数
+
+## 目标
+
+在此视频结束前，您将能够：
+
+* 将静态名称/值对映射到目标-global-mbox中的参数或用户档案参数
+* 了解数据元素的基础知识
+* 将动态数据元素值映射到目标全局mbox中的参数或用户档案参数
+
+## 预期受众
+
+* 开发人员
 
 >[!VIDEO](https://video.tv.adobe.com/v/17383/?quality=12)
