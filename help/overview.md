@@ -1,14 +1,17 @@
 ---
 title: 了解如何使用Adobe Target
 description: 通过涵盖其所有组件的教程和视频，了解如何使用Adobe Target。 有效使用Adobe Target的强大功能。
+role: Leader, Architect, Developer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
+topic: 个性化
+exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
 translation-type: tm+mt
-source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
+source-git-commit: 62c9d6328f65945109c96f65d94659b59708ac82
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 16%
+source-wordcount: '253'
+ht-degree: 15%
 
 ---
-
 
 # 学习使用Adobe Target
 
@@ -16,15 +19,17 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 ## 新增功能
 
+* **[在Analysis Workspace中为自动目标活动设置A4T报表](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)**
+
+   *对于业务从业者：您是否在使用A4T进行自动目标?按照以下步骤在Analysis Workspace中配置A4T报告，以确保在运行自动目标活动时获得预期结果。*
 * **[设备上决策概述](implementation/on-device-decisioning-overview.md)**
 
    *对于架构师：开始使用设备决策，为消费者提供接近零的延迟体验！*
 * **[使用Recommendations API（教程）](recommendations-api-tutorial/recs-api-overview.md)**
    *对于开发人员：使用API配置和管理目 [!DNL Recommendations] 录和自定义标 [!DNL Recommendations] 准等，亲身体验。*
 
-* **[使用Adobe Mobile Services SDK v4 for Android实施Adobe Target（教程）](mobile-v4/overview.md)**
-
-   *对于已在使用Adobe Mobile Services SDK v4的开发人员：了解如何使用Adobe Target开始个性化应用程序体验。这些步骤作为旧版用户支持提供。<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->*
+<!--* **[Implement Adobe Target with Adobe Mobile Services SDK v4 for Android (Tutorial)](mobile-v4/overview.md)**
+    *For developers who are already using Adobe Mobile Services SDK v4: learn how to start personalizing app experiences with Adobe Target. These steps are provided as legacy user support.*<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->
 
 <!--* **[Use Recommendations Offers (Video)](recommendations/use-recommendations-offers.md)**
     *For all Target Users: Learn how to use product recommendations in A/B and Experience Targeting Activities.*-->
