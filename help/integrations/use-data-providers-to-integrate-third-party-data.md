@@ -1,10 +1,10 @@
 ---
 title: 如何使用数据提供商集成第三方数据
 description: 本教程向数据提供者介绍用户。 了解如何使用数据提供商功能轻松将数据从第三方传递到Adobe Target。
-role: 商业从业者，开发人员
-level: 富有经验
-topic: 个性化、集成
-feature: 实施、集成、API/SDK
+role: Business Practitioner, Developer
+level: Experienced
+topic: Personalization, Integrations
+feature: Implementation, Integrations, APIs/SDKs
 doc-type: feature video
 kt: null
 thumbnail: null

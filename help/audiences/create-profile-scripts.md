@@ -1,10 +1,10 @@
 ---
 title: 如何创建用户档案脚本
 description: 此视频介绍Adobe Target用户使用用户档案脚本。 如果您对Adobe Target有经验，并想了解使用用户档案脚本执行更专门的定位或受众创建的基础知识，请观看此视频。
-role: 商业从业者，开发人员
-level: 富有经验
-topic: 个性化
-feature: 受众、管理和配置
+role: Business Practitioner, Developer
+level: Experienced
+topic: Personalization
+feature: Audiences, Administration & Configuration
 doc-type: feature video
 thumbnail: null
 kt: null

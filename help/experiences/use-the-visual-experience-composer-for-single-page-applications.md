@@ -1,10 +1,10 @@
 ---
 title: 如何对单页应用程序(SPA VEC)使用Visual Experience Composer
 description: 此视频向营销人员介绍了Adobe Target Visual Experience Composer for Single Page Applications(SPA VEC)。 观看此视频，了解如何使用SPA VEC创建活动。
-role: 业务从业者
-level: 初学者
-topic: SPA，个性化
-feature: 体验和优惠, Visual Experience Composer(VEC)
+role: Business Practitioner
+level: Beginner
+topic: SPA, Personalization
+feature: Experiences and Offers, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null

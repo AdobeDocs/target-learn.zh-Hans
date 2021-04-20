@@ -1,10 +1,10 @@
 ---
 title: 什么是设备决策
 description: Adobe Target设备上决策支持接近零的延迟内容投放。 观看此视频以了解设备上决策以及如何启用该决策。
-role: 架构师
-level: 初学者
-topic: 架构、开发
-feature: 实现，实现服务器端，实现客户端
+role: Architect
+level: Beginner
+topic: Architecture, Development
+feature: Implementation, Implement Server-side, Implement Client-side
 doc-type: feature video
 team: Evangelism
 kt: 6691

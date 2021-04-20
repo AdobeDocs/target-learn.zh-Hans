@@ -1,10 +1,10 @@
 ---
 title: 如何用DTM实现Mbox参数
 description: 此视频向开发人员展示如何使用Adobe激活(以前称为Adobe动态标签管理(DTM))实现mbox参数。
-role: 开发人员
-level: 中间
-topic: 个性化、架构、开发
-feature: 实施
+role: Developer
+level: Intermediate
+topic: Personalization, Architecture, Development
+feature: Implementation
 doc-type: technical video
 kt: null
 thumbnail: null

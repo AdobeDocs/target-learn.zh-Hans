@@ -1,10 +1,10 @@
 ---
 title: 如何使用个性化洞察报表
 description: Automated Personalization和自动目标活动使用高级机器学习，根据每位访客的用户档案以及具有相似用户档案的先前访客的行为为每位客户提供最为定制的体验。 “个性化洞察”报告提供了有关这些模型如何作出决策的信息。
-role: 业务从业者
-level: 中间
-topic: 个性化
-feature: 报表、Automated Personalization、自动目标
+role: Business Practitioner
+level: Intermediate
+topic: Personalization
+feature: Reports, Automated Personalization, Auto-Target
 doc-type: feature video
 kt: null
 thumbnail: null

@@ -1,10 +1,10 @@
 ---
 title: 下载和更新We.Travel示例应用程序
 description: 'We.Travel范例应用程序是通过Adobe Mobile Services SDK v4预实施的。 您只需更新它，它就指向您自己的Experience Cloud组织和解决方案帐户。   '
-role: 开发人员
-level: 中间
-topic: 移动、个性化
-feature: 实施移动
+role: Developer
+level: Intermediate
+topic: Mobile, Personalization
+feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 thumbnail: null

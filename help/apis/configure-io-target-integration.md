@@ -1,10 +1,10 @@
 ---
 title: 如何配置Adobe Target API的身份验证
 description: 本教程将指导开发人员完成生成与Adobe Target API成功交互所需的身份验证令牌所需的步骤。 请按照以下步骤使用Adobe Developer Console生成并测试使用目标 API所需的承载访问令牌。
-role: 开发人员、管理员、架构师
-level: 中间
-topic: 个性化、管理、集成、开发
-feature: API/SDK、管理和配置
+role: Developer, Administrator, Architect
+level: Intermediate
+topic: Personalization, Administration, Integrations, Development
+feature: APIs/SDKs, Administration & Configuration
 doc-type: tutorial
 kt: null
 thumbnail: null

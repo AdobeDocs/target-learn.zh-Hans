@@ -1,9 +1,9 @@
 ---
 title: 如何在Recommendations中创建自定义设计
 description: 了解如何在Adobe Target Recommendations中创建自定义设计。
-role: 业务从业者
-level: 中间
-topic: 个性化
+role: Business Practitioner
+level: Intermediate
+topic: Personalization
 feature: Recommendations
 doc-type: feature video
 thumbnail: null

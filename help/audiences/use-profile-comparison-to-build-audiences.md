@@ -1,10 +1,10 @@
 ---
 title: 如何使用用户档案比较来构建受众
 description: 此视频向Adobe Target用户展示了在构建受众时如何使用用户档案比较功能来比较两个数值用户档案值。
-role: 业务从业者
-level: 富有经验
-topic: 个性化
-feature: 受众
+role: Business Practitioner
+level: Experienced
+topic: Personalization
+feature: Audiences
 doc-type: feature video
 thumbnail: null
 kt: null

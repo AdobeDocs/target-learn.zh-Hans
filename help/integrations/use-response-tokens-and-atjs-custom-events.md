@@ -1,10 +1,10 @@
 ---
 title: 如何使用响应令牌和at.js自定义事件
 description: 了解如何使用响应令牌和at.js自定义事件共享从目标到第三方系统的用户档案信息。
-role: 开发人员
-level: 富有经验
-topic: 个性化、架构、开发
-feature: 实施
+role: Developer
+level: Experienced
+topic: Personalization, Architecture, Development
+feature: Implementation
 doc-type: technical video
 kt: null
 thumbnail: null

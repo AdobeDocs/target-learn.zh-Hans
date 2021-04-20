@@ -1,10 +1,10 @@
 ---
 title: 如何创建体验定位活动
 description: 体验定位(XT)活动使营销人员能够将特定内容目标到特定受众。 了解XT活动的优势以及如何创建和使用它们。
-role: 业务从业者
-level: 初学者
-topic: 个性化
-feature: 体验定位、活动、可视体验书写器(VEC)
+role: Business Practitioner
+level: Beginner
+topic: Personalization
+feature: Experience Targeting, Activities, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null

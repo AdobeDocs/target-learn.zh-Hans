@@ -1,10 +1,10 @@
 ---
 title: 如何在Analysis Workspace中设置自动目标活动的A4T报表
 description: 将Analytics for 目标(A4T)集成到位并运行自动目标活动后，如何确保正确解释结果？ 按照以下步骤在Analysis Workspace中配置A4T报表，以在运行自动目标活动时获得预期结果。
-role: 业务从业者
-level: 中间
-topic: 个性化、集成
-feature: 针对目标(A4T)、自动目标、集成的分析
+role: Business Practitioner
+level: Intermediate
+topic: Personalization, Integrations
+feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 thumbnail: null
 kt: null

@@ -1,10 +1,10 @@
 ---
 title: 什么是Adobe Recommendations API?
 description: 本教程指导开发人员通过实践，使用Adobe Target Recommendations API配置和管理Recommendations目录和自定义条件，以及使用投放 API检索推荐内容。
-role: 开发人员
-level: 中间
-topic: 个性化、管理、集成、开发
-feature: API/SDK、Recommendations、管理和配置、概述
+role: Developer
+level: Intermediate
+topic: Personalization, Administration, Integrations, Development
+feature: APIs/SDKs, Recommendations, Administration & Configuration, Overview
 doc-type: tutorial
 kt: 3815
 thumbnail: null

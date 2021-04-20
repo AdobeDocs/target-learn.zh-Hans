@@ -1,10 +1,10 @@
 ---
 title: 如何将Analytics用作目标的数据源(A4T)
 description: 此视频向营销人员介绍了目标(A4T)分析。
-role: 业务从业者
-level: 初学者
-topic: 个性化、集成
-feature: 针对目标(A4T)、集成的分析
+role: Business Practitioner
+level: Beginner
+topic: Personalization, Integrations
+feature: Analytics for Target (A4T), Integrations
 doc-type: feature video
 thumbnail: null
 kt: null

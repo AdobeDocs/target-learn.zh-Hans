@@ -1,10 +1,10 @@
 ---
 title: 如何在A/B测试和体验定位活动中使用Recommendations优惠
 description: 了解如何在Adobe Target的A/B测试和体验定位活动中使用Recommendations优惠。
-role: 业务从业者
-level: 中间
-topic: 个性化
-feature: Recommendations，自动目标，自动分配
+role: Business Practitioner
+level: Intermediate
+topic: Personalization
+feature: Recommendations, Auto-Target, Auto-Allocate
 doc-type: feature video
 thumbnail: null
 kt: 3451

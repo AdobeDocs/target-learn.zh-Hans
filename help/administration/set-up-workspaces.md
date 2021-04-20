@@ -1,10 +1,10 @@
 ---
 title: 如何设置工作区
 description: 此视频向管理员介绍如何在Adobe Target中创建工作区。
-role: 管理员
-level: 初学者
-topic: 管理
-feature: 管理 & 配置
+role: Administrator
+level: Beginner
+topic: Administration
+feature: Administration & Configuration
 doc-type: feature video
 thumbnail: null
 kt: null

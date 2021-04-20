@@ -1,10 +1,10 @@
 ---
 title: 什么是受众，如何使用它们？
 description: 此视频向Adobe Target用户展示了如何使用受众来目标活动和过滤报表。
-role: 业务从业者
-level: 初学者
-topic: 个性化
-feature: 受众，报表
+role: Business Practitioner
+level: Beginner
+topic: Personalization
+feature: Audiences, Reports
 doc-type: feature video
 thumbnail: null
 kt: null

@@ -1,10 +1,10 @@
 ---
 title: 如何管理自定义标准
 description: 本教程的这一部分将指导开发人员完成使用Adobe Target API管理、创建、列表、编辑、获取和删除Adobe Target Recommendations条件所需的步骤。
-role: 开发人员
-level: 中间
-topic: 个性化、管理、集成、开发
-feature: API/SDK、Recommendations、管理和配置
+role: Developer
+level: Intermediate
+topic: Personalization, Administration, Integrations, Development
+feature: APIs/SDKs, Recommendations, Administration & Configuration
 doc-type: tutorial
 kt: 3815
 thumbnail: null

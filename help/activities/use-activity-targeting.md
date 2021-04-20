@@ -1,10 +1,10 @@
 ---
 title: 如何使用活动定位
 description: Adobe Target提供了不同的工具，用于控制活动上线时向不同受众显示的体验。 了解如何通过使用受众和流量分配来控制谁可以看到什么。
-role: 业务从业者
-level: 中间
-topic: 个性化
-feature: 活动、受众
+role: Business Practitioner
+level: Intermediate
+topic: Personalization
+feature: Activities, Audiences
 doc-type: feature video
 thumbnail: null
 kt: null

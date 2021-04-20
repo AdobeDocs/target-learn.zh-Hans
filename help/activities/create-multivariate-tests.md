@@ -1,10 +1,10 @@
 ---
 title: 如何创建Multivariate Tests
 description: 此视频引导用户完成在Adobe Target中创建Multivariate Test(MVT)的关键工作流程。 了解创建和解释MVT的步骤。
-role: 业务从业者
-level: 初学者
-topic: 个性化
-feature: Multivariate Tests、活动、Visual Experience Composer(VEC)
+role: Business Practitioner
+level: Beginner
+topic: Personalization
+feature: Multivariate Tests, Activities, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null

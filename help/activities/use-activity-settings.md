@@ -1,10 +1,10 @@
 ---
 title: 如何使用活动设置
 description: 观看此视频，了解如何在Adobe Target中使用各种活动设置，包括目标、优先级、开始和结束时间以及受众。
-role: 业务从业者
-level: 初学者
-topic: 个性化
-feature: 活动
+role: Business Practitioner
+level: Beginner
+topic: Personalization
+feature: Activities
 doc-type: feature video
 thumbnail: null
 kt: null

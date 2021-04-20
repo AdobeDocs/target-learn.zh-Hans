@@ -1,10 +1,10 @@
 ---
 title: 如何实施数据提供商集成第三方数据
 description: 本教程提供了实施详细信息和示例，说明如何使用Adobe Target的数据提供程序功能从第三方数据提供程序检索数据并在目标请求中传递数据。
-role: 开发人员
-level: 富有经验
-topic: 个性化、集成
-feature: 实施、集成、API/SDK
+role: Developer
+level: Experienced
+topic: Personalization, Integrations
+feature: Implementation, Integrations, APIs/SDKs
 doc-type: technical video
 kt: null
 thumbnail: null

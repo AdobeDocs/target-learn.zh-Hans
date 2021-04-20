@@ -1,10 +1,10 @@
 ---
 title: 如何设置帐户首选项
 description: 此视频介绍Adobe Target帐户首选项。 观看此视频，了解不同设置对Adobe Target的影响。
-role: 管理员
-level: 初学者
-topic: 管理
-feature: 管理 & 配置
+role: Administrator
+level: Beginner
+topic: Administration
+feature: Administration & Configuration
 doc-type: feature video
 thumbnail: null
 kt: null

@@ -1,10 +1,10 @@
 ---
 title: 向请求中添加参数
 description: 在本课中，我们将在上一课中添加的Adobe请求中添加目标生命周期量度和自定义参数。 这些指标和参数将在教程的稍后部分用于创建个性化受众。
-role: 开发人员
-level: 中间
-topic: 移动、个性化
-feature: 实施移动
+role: Developer
+level: Intermediate
+topic: Mobile, Personalization
+feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 thumbnail: null

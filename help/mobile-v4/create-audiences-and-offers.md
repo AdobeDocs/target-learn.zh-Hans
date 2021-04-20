@@ -1,10 +1,10 @@
 ---
 title: 在Adobe Target中创建受众和优惠
 description: '在本课程中，我们在Adobe Target为我们在前几节课中实施的三个地点建立受众和优惠。 这些内容将用于在下一课中展示个性化体验。   '
-role: 开发人员
-level: 中间
-topic: 移动、个性化
-feature: 实施移动
+role: Developer
+level: Intermediate
+topic: Mobile, Personalization
+feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 thumbnail: null

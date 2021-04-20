@@ -1,10 +1,10 @@
 ---
 title: 如何在单页应用程序中实施at.js 2.0(SPA)
 description: Adobe Target的at.js 2.0提供丰富的功能集，使您的企业能够使用下一代客户端技术进行个性化。 按照以下步骤在单页应用程序(SPA)中实施at.js 2.0。
-role: 开发人员
-level: 中间
-topic: SPA，架构，开发
-feature: 实施
+role: Developer
+level: Intermediate
+topic: SPA, Architecture, Development
+feature: Implementation
 doc-type: technical video
 kt: null
 thumbnail: null

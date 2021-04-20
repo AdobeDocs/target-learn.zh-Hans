@@ -1,9 +1,9 @@
 ---
 title: 什么是Recommendations中的Feed?
 description: 了解Adobe Target Recommendations源的功能及其使用方式
-role: 业务从业者
-level: 中间
-topic: 个性化
+role: Business Practitioner
+level: Intermediate
+topic: Personalization
 feature: Recommendations
 doc-type: feature video
 thumbnail: null

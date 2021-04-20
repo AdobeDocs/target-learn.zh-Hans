@@ -1,10 +1,10 @@
 ---
 title: 如何使用基于表单的体验书写器
 description: 此视频向Adobe Target用户展示如何以及何时使用基于表单的体验书写器。
-role: 业务从业者
-level: 初学者
-topic: 个性化
-feature: 基于表单的体验书写器、体验和优惠、可视体验书写器(VEC)
+role: Business Practitioner
+level: Beginner
+topic: Personalization
+feature: Form-based Experience Composer, Experiences and Offers, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null

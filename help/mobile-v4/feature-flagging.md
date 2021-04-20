@@ -1,10 +1,10 @@
 ---
 title: 功能标记
 description: Adobe Target可用于试验UX功能，如颜色、副本、按钮、文本和图像，并为特定受众提供这些功能。
-role: 开发人员
-level: 中间
-topic: 移动、个性化
-feature: 实施移动
+role: Developer
+level: Intermediate
+topic: Mobile, Personalization
+feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 thumbnail: null

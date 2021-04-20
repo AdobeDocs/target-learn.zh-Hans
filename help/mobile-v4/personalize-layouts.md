@@ -1,10 +1,10 @@
 ---
 title: 个性化布局
 description: '在最后一课中，我们在目标中为受众构建两个个性化活动。 了解如何在应用程序中加载和显示活动，并验证内容在正确时间在正确位置显示。  '
-role: 开发人员
-level: 中间
-topic: 移动、个性化
-feature: 实施移动
+role: Developer
+level: Intermediate
+topic: Mobile, Personalization
+feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 thumbnail: null
