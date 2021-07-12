@@ -1,31 +1,30 @@
 ---
-title: 什么是Recommendations中的Feed?
-description: 了解Adobe Target Recommendations源的功能及其使用方式
-role: Business Practitioner
+title: 什么是信息源Recommendations?
+description: 了解Adobe Target Recommendations信息源的含义及其使用方式
+role: User
 level: Intermediate
-topic: Personalization
-feature: Recommendations
+topic: 个性化
+feature: 推荐
 doc-type: feature video
 thumbnail: null
 kt: null
-translation-type: tm+mt
-source-git-commit: b89732fcca0be8bffc6e580e4ae0e62df3c3655d
+exl-id: f9de86e7-1967-4ab7-a600-00e86220f209
+source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 12%
 
 ---
 
-
-# 了解Recommendations中的源
+# 了解Recommendations中的信息源
 
 ## 描述
 
 在此视频中，您将学习如何：
 
-* 描述信息源并了解其使用方式
+* 描述什么是信息源，并了解其使用方式
 
-## 预期受众
+## 目标受众
 
 * 业务从业者
 
@@ -33,9 +32,9 @@ ht-degree: 12%
 
 ## 其他资源
 
-* [创建源](create-a-feed.md)
+* [创建馈送](create-a-feed.md)
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
-* [创建收藏集和排除](create-collections-and-exclusions.md)
+* [创建收藏集和排除项](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
 * [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
