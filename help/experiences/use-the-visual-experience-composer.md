@@ -1,35 +1,34 @@
 ---
-title: 如何使用Visual Experience Composer(VEC)
-description: 这两个视频向营销人员介绍了Adobe Target Visual Experience Composer(VEC)。 观看这些视频，了解如何使用VEC创建活动。
-role: Business Practitioner
+title: 如何使用可视化体验编辑器(VEC)
+description: 这两个视频向营销人员介绍 Adobe Target 视觉体验编辑器 (VEC)。观看这些视频，了解如何使用 VEC 创建活动。
+role: User
 level: Beginner
-topic: Personalization
-feature: Visual Experience Composer (VEC), Experiences and Offers
+topic: 个性化
+feature: 可视化体验编辑器(VEC)、体验和选件
 doc-type: feature video
 thumbnail: null
 kt: null
-translation-type: tm+mt
-source-git-commit: 2c371ea17ce38928bcf3655a0d604a69e29963a0
+exl-id: 3c3985c8-f033-40a1-a39e-8c2f41208d17
+source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 21%
 
 ---
 
-
-# 使用Adobe Target中的[!UICONTROL  Visual Experience Composer]
+# 在Adobe Target中使用[!UICONTROL 可视化体验编辑器]
 
 ## 描述
 
 在第一个视频中，您将学习如何：
 
-* 使用Visual Experience Composer(VEC)执行其关键功能 — 提供一种直观的可视方式来更改Adobe Target活动中页面的布局和内容。
+* 使用可视化体验编辑器(VEC)执行其关键功能 — 提供了一种直观的可视化方式，可更改Adobe Target活动中页面的布局和内容。
 
 在第二个视频中，您将学习如何：
 
-* 使用VEC的其他功能，包括如何创建重定向体验和多页活动，以及如何使用移动视区。
+* 使用VEC的其他功能，包括如何创建重定向体验和多页面活动，以及如何使用移动设备视区。
 
-## 预期受众
+## 目标受众
 
 * 业务从业者
 
