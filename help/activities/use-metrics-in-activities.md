@@ -1,21 +1,20 @@
 ---
 title: 如何在活动中使用量度
 description: 如何衡量Adobe Target活动是否成功？ 在此视频中，了解不同类型的目标量度以及如何使用它们衡量活动的效果。
-role: Business Practitioner
+role: User
 level: Intermediate
-topic: Personalization
-feature: Activities
+topic: 个性化
+feature: 活动
 doc-type: feature video
 thumbnail: null
 kt: null
-translation-type: tm+mt
-source-git-commit: b21d69b01e6bc6d2ba93b6425f86feacee567b06
+exl-id: 02752f2c-2f61-44b8-a6a5-f36d576e4806
+source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '82'
 ht-degree: 7%
 
 ---
-
 
 # 在活动中使用量度
 
@@ -23,12 +22,12 @@ ht-degree: 7%
 
 在此视频中，您将学习如何：
 
-* 描述什么是“目标”量度
-* 描述“转化”、“收入”和“参与”量度之间的差异
-* 建立转化、收入和参与度指标
+* 描述“目标”量度是什么
+* 描述“转化”、“收入”和“参与度”量度之间的差异
+* 构建转化、收入和参与量度
 * 构建点击跟踪量度
 
-## 预期受众
+## 目标受众
 
 * 业务从业者
 
