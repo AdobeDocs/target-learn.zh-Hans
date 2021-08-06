@@ -1,6 +1,7 @@
 ---
 title: 不同的活动类型是什么？
 description: 了解 Adobe Target 中包含的不同类型的活动，以及它们如何帮助您实现目标。观看此视频，了解 A/B 活动、多变量测试 (MVT)、体验定位 (XT) 活动、推荐和自动个性化 (AP) 活动的基础知识。
+landing-page-description: 了解A/B活动、多变量测试、体验定位活动、Recommendations和Automated Personalization活动的基础知识。
 role: User
 level: Beginner
 topic: 个性化
@@ -9,10 +10,10 @@ doc-type: feature video
 thumbnail: null
 kt: null
 exl-id: effcb28d-56cc-4592-86b1-53b1c68e3672
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: 5e3fdcb2f86e4811a0cbcfde66c3d6a6c8270355
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 36%
+source-wordcount: '138'
+ht-degree: 31%
 
 ---
 
