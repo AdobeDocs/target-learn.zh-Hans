@@ -3,16 +3,16 @@ title: 如何为Adobe Target API配置身份验证
 description: 本教程将指导开发人员完成生成与Adobe Target API成功交互所需的身份验证令牌所需的步骤。 请按照以下步骤使用Adobe开发人员控制台生成并测试使用Target API所需的载体访问令牌。
 role: Developer, Admin, Architect
 level: Intermediate
-topic: 个性化、管理、集成、开发
-feature: API/SDK、管理和配置
+topic: Personalization, Administration, Integrations, Development
+feature: APIs/SDKs, Administration & Configuration
 doc-type: tutorial
 kt: null
 thumbnail: null
 author: Judy Kim
 exl-id: 8a1e93e4-67b2-4942-a8da-fc0f2cbb2df2
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: a6b645b6d9693a4c8882fd47ee0d61698c0b834d
 workflow-type: tm+mt
-source-wordcount: '1892'
+source-wordcount: '1884'
 ht-degree: 2%
 
 ---
@@ -93,8 +93,7 @@ Adobe Target管理员API（包括[!DNL Recommendations]管理员API）通过身�
 > 2. 使用Postman生成访问令牌
 
 >
-> 
-下面还提供了这些步骤。
+> 下面还提供了这些步骤。
 
 1. 仍在[Adobe开发人员控制台](https://console.adobe.io/)中，导航以查看新项目的&#x200B;**[!UICONTROL 服务帐户(JWT)]**&#x200B;凭据。 使用左侧导航或&#x200B;**[!UICONTROL Credentials]**部分，如所示。
    ![JWT1](assets/configure-io-target-jwt1.png)
@@ -197,4 +196,4 @@ Adobe Target管理员API（包括[!DNL Recommendations]管理员API）通过身�
 1. 在确保选择了正确的环境后，发送您的请求。 您应会收到一个包含活动列表的响应。
    ![testtoken6](assets/configure-io-target-testtoken6.png)
 
-恭喜！ 现在，您已验证Adobe身份验证，接下来可以使用它与Adobe Target API(以及其他AdobeAPI)进行交互。 例如，您可以[使用Recommendations API](https://docs.adobe.com/content/help/en/target-learn/recommendations-api-tutorial/recs-api-overview.html)创建或管理推荐。
+恭喜！ 现在，您已验证Adobe身份验证，接下来可以使用它与Adobe Target API(以及其他AdobeAPI)进行交互。 例如，您可以[使用Recommendations API](https://experienceleague.adobe.com/docs/target-learn/recommendations-api-tutorial/recs-api-overview.html?lang=en)创建或管理推荐。
