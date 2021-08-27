@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3040
 thumbnail: null
 exl-id: 0250e55f-a233-4060-84e1-86d1f88a6106
-source-git-commit: a6b645b6d9693a4c8882fd47ee0d61698c0b834d
+source-git-commit: ee58c7c85708722cf040cd9b039a2855dd390a16
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 添加生命周期参数
 
-让我们启用[Adobe移动生命周期量度](https://docs.adobe.com/content/help/en/mobile-services/android/metrics.html)。 这会向位置请求添加参数，其中包含有关用户设备和应用程序参与度的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据构建受众。
+让我们启用[Adobe移动生命周期量度](https://experienceleague.adobe.com/docs/mobile-services/android/metrics.html?lang=en)。 这会向位置请求添加参数，其中包含有关用户设备和应用程序参与度的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据构建受众。
 
 要启用生命周期量度，请再次打开HomeActivity控制器，并将`Config.collectLifecycleData(this);`添加到onResume()函数：
 

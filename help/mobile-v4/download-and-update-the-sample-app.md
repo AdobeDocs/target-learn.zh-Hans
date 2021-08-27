@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3040
 thumbnail: null
 exl-id: 244bcf7a-b59b-4dd1-bd05-0a55ce7a7132
-source-git-commit: a6b645b6d9693a4c8882fd47ee0d61698c0b834d
+source-git-commit: ee58c7c85708722cf040cd9b039a2855dd390a16
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -43,7 +43,7 @@ AdobeMobile Services SDK已根据文档](https://experienceleague.adobe.com/docs
 
 首先，在Mobile Services用户界面中创建新应用程序：
 
-1. 登录到[AdobeMobile Services界面](https://mobilemarketing.adobe.com)。
+1. 登录到[AdobeMobile Services界面](https://mobilemarketing.adobe.com/)。
 1. 转到[!UICONTROL 管理应用程序]，然后单击&#x200B;**[!UICONTROL 添加]**&#x200B;以添加要与本教程一起使用的新应用程序（**[!UICONTROL 管理应用程序]** > **[!UICONTROL 添加]**）。
 1. 选择一个包含非生产数据的Analytics报表包，为应用程序提供一个名称，选择&#x200B;**[!UICONTROL Standard]**&#x200B;类型，然后单击&#x200B;**[!UICONTROL 保存]**。
 1. 添加应用程序后，在[!UICONTROL SDK目标选项]部分的下一个屏幕中添加您的[!DNL Target]客户端代码（您可以在&#x200B;**[!UICONTROL 设置]** > **[!UICONTROL 实施]** > **[!UICONTROL 编辑设置]**&#x200B;下方的[!DNL Target]界面中找到您的客户端代码，位于“下载`at.js`”按钮旁边）。
