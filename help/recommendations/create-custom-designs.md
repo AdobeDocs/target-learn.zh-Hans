@@ -3,16 +3,16 @@ title: 如何在Recommendations中创建自定义设计
 description: 了解如何在Adobe Target Recommendations中创建自定义设计。
 role: User
 level: Intermediate
-topic: 个性化
-feature: 推荐
+topic: Personalization
+feature: Recommendations
 doc-type: feature video
 thumbnail: null
 kt: null
 exl-id: 19be02da-f5b8-4950-9bb5-7a0effec419c
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '69'
+ht-degree: 13%
 
 ---
 
@@ -37,4 +37,4 @@ ht-degree: 14%
 * [了解信息源](understanding-feeds.md)
 * [创建馈送](create-a-feed.md)
 * [创建标准](create-criteria.md)
-* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

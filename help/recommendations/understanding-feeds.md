@@ -3,15 +3,15 @@ title: 什么是信息源Recommendations?
 description: 了解Adobe Target Recommendations信息源的含义及其使用方式
 role: User
 level: Intermediate
-topic: 个性化
-feature: 推荐
+topic: Personalization
+feature: Recommendations
 doc-type: feature video
 thumbnail: null
 kt: null
 exl-id: f9de86e7-1967-4ab7-a600-00e86220f209
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '75'
 ht-degree: 12%
 
 ---
@@ -37,4 +37,4 @@ ht-degree: 12%
 * [创建自定义设计](create-custom-designs.md)
 * [创建收藏集和排除项](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
-* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

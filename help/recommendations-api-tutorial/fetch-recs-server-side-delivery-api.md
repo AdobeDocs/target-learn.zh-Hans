@@ -10,7 +10,7 @@ kt: 3815
 thumbnail: null
 author: Judy Kim
 exl-id: 553d1208-647f-479d-acc7-d7760469d642
-source-git-commit: a6b645b6d9693a4c8882fd47ee0d61698c0b834d
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
 source-wordcount: '1418'
 ht-degree: 2%
@@ -47,9 +47,9 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于提供对网页�
 
 ## 使用基于表单的体验编辑器创建推荐
 
-要创建可与交付API一起使用的推荐，请使用[基于表单的编辑器](https://docs.adobe.com/content/help/en/target/using/experiences/form-experience-composer.html)。
+要创建可与交付API一起使用的推荐，请使用[基于表单的编辑器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html?lang=en)。
 
-1. 首先，创建并保存一个基于JSON的设计，以在推荐中使用。 有关示例JSON以及有关配置基于表单的活动时如何返回JSON响应的背景信息，请参阅[创建推荐设计](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-design/create-design.html)中的文档。 在此示例中，该设计名为&#x200B;*Simple JSON。*
+1. 首先，创建并保存一个基于JSON的设计，以在推荐中使用。 有关示例JSON以及有关配置基于表单的活动时如何返回JSON响应的背景信息，请参阅[创建推荐设计](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/create-design.html?lang=en)中的文档。 在此示例中，该设计名为&#x200B;*Simple JSON。*
 
    ![server-side-create-recs-json-design.png](assets/server-side-create-recs-json-design.png)
 
@@ -60,7 +60,7 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于提供对网页�
 3. 选择属性，然后单击&#x200B;**[!UICONTROL Next]**。
 4. 定义希望用户接收推荐响应的位置。 以下示例使用名为&#x200B;*api_charter*&#x200B;的位置。 选择您之前创建的基于JSON的设计，名为&#x200B;*Simple JSON。*
    ![服务器端创建 — recs-form.png](assets/server-side-create-recs-form1.png)
-5. 保存并激活推荐。 它将产生结果。 [结果准备就绪](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity.html)后，您可以使用交付API来检索它们。
+5. 保存并激活推荐。 它将产生结果。 [结果准备就绪](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity.html?lang=en)后，您可以使用交付API来检索它们。
 
 ## 使用交付API
 
@@ -95,38 +95,38 @@ png响应包含键ID以及推荐实体的实体ID。
 | --- | --- |
 | [Adobe Target无处不在 — 在IoT中实施服务器端或](https://expleague.azureedge.net/labs/L733/index.html) | Adobe Summit2019实验室，为利用Adobe Target服务器端API的React应用程序提供动手实践体验。 |
 | [Adobe Target中的移动设备应用程序，但不带AdobeSDK](https://community.tealiumiq.com/t5/Universal-Data-Hub/Adobe-Target-in-a-Mobile-App-Without-the-Adobe-SDK/ta-p/26753) | 本指南将向您演示如何在移动设备应用程序中设置Adobe Target，而无需安装AdobeSDK。 此解决方案使用Tealium SDK Webview和远程命令模块向Adobe访客API(Experience Cloud)和Adobe Target API发送和接收请求。 |
-| [Adobe Target在移动设备应用程序中的工作原理](https://docs.adobe.com/content/help/en/target/using/implement-target/mobile-apps/mobile-how-target-works-mobile-apps.html) | [!DNL Target]如何与Mobile SDK配合使用 |
+| [Adobe Target在移动设备应用程序中的工作原理](https://experienceleague.adobe.com/docs/target/using/implement-target/mobile-apps/mobile-how-target-works-mobile-apps.html?lang=en) | [!DNL Target]如何与Mobile SDK配合使用 |
 | [配 [!DNL Target] extension in Experience Platform Launch and Implementing [!DNL Target] 置API](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target) | 在Experience Platform Launch中配置[!DNL Target]扩展、将[!DNL Target]扩展添加到应用程序中，以及实施[!DNL Target] API以请求活动、预取选件并进入可视预览模式的步骤。 |
 | [Adobe Target节点客户端](https://www.npmjs.com/package/@adobe/target-nodejs-sdk) | 开源[!DNL Target] Node.js SDK v1.0 |
-| [服务器端概述](https://docs.adobe.com/content/help/en/target/using/implement-target/server-side/api-and-sdk-overview.html) | 有关Adobe Target服务器端交付API、服务器端批量交付API、Node.js SDK和Adobe Target [!DNL Recommendations] API的信息。 |
+| [服务器端概述](https://experienceleague.adobe.com/docs/target/using/implement-target/server-side/api-and-sdk-overview.html?lang=en) | 有关Adobe Target服务器端交付API、服务器端批量交付API、Node.js SDK和Adobe Target [!DNL Recommendations] API的信息。 |
 | [Adobe Campaign电子邮件中的Recommendations内容](https://medium.com/adobetech/adobe-campaign-content-recommendations-in-email-b51ced771d7f) | 介绍如何通过Adobe Campaign中的Adobe Target和Adobe I/O Runtime利用电子邮件中的内容推荐的博客。 |
 
 ## 使用API管理[!DNL Recommendations]设置
 
 大多数情况下，Recommendations会在Adobe Target UI中进行配置，然后由于上述部分所述的原因（例如，a0/> API）使用或访问。 [!DNL Target]这种UI-API协调是常见的。 但是，有时用户可能希望通过API执行所有操作（包括设置和结果的使用）。 尽管不太常见，但用户仍可以完全使用API来配置、执行、 *和*&#x200B;利用推荐的结果。
 
-我们在[前面的部分](manage-catalog.md)中学习了如何管理Adobe Target Recommendations实体并在服务器端交付它们。 同样，Adobe I/O允许您管理标准、促销活动、收藏集和设计模板，而无需登录到Adobe Target。 所有[!DNL Recommendations] API的完整列表可在[此处找到](http://developers.adobetarget.com/api/recommendations/)，但此处是要引用的摘要。
+我们在[前面的部分](manage-catalog.md)中学习了如何管理Adobe Target Recommendations实体并在服务器端交付它们。 同样，Adobe I/O允许您管理标准、促销活动、收藏集和设计模板，而无需登录到Adobe Target。 所有[!DNL Recommendations] API的完整列表可在[此处找到](https://developers.adobetarget.com/api/recommendations/)，但此处是要引用的摘要。
 
 | 资源 | 详细信息 |
 | --- | --- |
-| [收藏集](http://developers.adobetarget.com/api/recommendations/#tag/Collections) | 列出、创建、获取、编辑和删除收藏集。 |
-| [标准](http://developers.adobetarget.com/api/recommendations/#tag/Criteria) | 列出并获取标准。 |
-| [设计](http://developers.adobetarget.com/api/recommendations/#tag/Designs) | 列出、创建、获取、编辑、删除和验证设计。 |
-| [实体](http://developers.adobetarget.com/api/recommendations/#tag/Entities) | 保存、删除和获取实体。 |
-| [促销活动](http://developers.adobetarget.com/api/recommendations/#tag/Promotions) | 列出、创建、获取、编辑和删除促销活动。 |
-| [类别标准](http://developers.adobetarget.com/api/recommendations/#tag/Category-Criteria) | 列出、创建、获取、编辑和删除类别标准。 |
-| [自定义标准](http://developers.adobetarget.com/api/recommendations/#tag/Custom-Criteria) | 列出、创建、获取、编辑和删除自定义标准。 |
-| [项目标准](http://developers.adobetarget.com/api/recommendations/#tag/Item-Criteria) | 列出、创建、获取、编辑和删除项目标准。 |
-| [热门程度标准](http://developers.adobetarget.com/api/recommendations/#tag/Popularity-Criteria) | 列出、创建、获取、编辑和删除热门程度标准。 |
-| [配置文件属性条件](http://developers.adobetarget.com/api/recommendations/#tag/Profile-Attribute-Criteria) | 列出、创建、获取、编辑和删除配置文件属性条件。 |
-| [近期标准](http://developers.adobetarget.com/api/recommendations/#tag/Recent-Criteria) | 列出、创建、获取、编辑和删除最近的标准。 |
-| [序列标准](http://developers.adobetarget.com/api/recommendations/#tag/Sequence-Criteria) | 列出、创建、获取、编辑和删除序列标准。 |
+| [收藏集](https://developers.adobetarget.com/api/recommendations/#tag/Collections) | 列出、创建、获取、编辑和删除收藏集。 |
+| [标准](https://developers.adobetarget.com/api/recommendations/#tag/Criteria) | 列出并获取标准。 |
+| [设计](https://developers.adobetarget.com/api/recommendations/#tag/Designs) | 列出、创建、获取、编辑、删除和验证设计。 |
+| [实体](https://developers.adobetarget.com/api/recommendations/#tag/Entities) | 保存、删除和获取实体。 |
+| [促销活动](https://developers.adobetarget.com/api/recommendations/#tag/Promotions) | 列出、创建、获取、编辑和删除促销活动。 |
+| [类别标准](https://developers.adobetarget.com/api/recommendations/#tag/Category-Criteria) | 列出、创建、获取、编辑和删除类别标准。 |
+| [自定义标准](https://developers.adobetarget.com/api/recommendations/#tag/Custom-Criteria) | 列出、创建、获取、编辑和删除自定义标准。 |
+| [项目标准](https://developers.adobetarget.com/api/recommendations/#tag/Item-Criteria) | 列出、创建、获取、编辑和删除项目标准。 |
+| [热门程度标准](https://developers.adobetarget.com/api/recommendations/#tag/Popularity-Criteria) | 列出、创建、获取、编辑和删除热门程度标准。 |
+| [配置文件属性条件](https://developers.adobetarget.com/api/recommendations/#tag/Profile-Attribute-Criteria) | 列出、创建、获取、编辑和删除配置文件属性条件。 |
+| [近期标准](https://developers.adobetarget.com/api/recommendations/#tag/Recent-Criteria) | 列出、创建、获取、编辑和删除最近的标准。 |
+| [序列标准](https://developers.adobetarget.com/api/recommendations/#tag/Sequence-Criteria) | 列出、创建、获取、编辑和删除序列标准。 |
 
 ## 参考文档
 
 * [Adobe Target API文档](https://developers.adobetarget.com/api/#getting-started)
 * [Adobe Target交付API](https://developers.adobetarget.com/api/delivery-api/)
-* [ [!DNL Recommendations] 与电子邮件集成](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-faq/integrating-recs-email.html)
+* [ [!DNL Recommendations] 与电子邮件集成](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html?lang=en)
 
 ## 摘要和审阅
 

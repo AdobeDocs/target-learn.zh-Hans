@@ -3,16 +3,16 @@ title: 如何对单页应用程序使用可视化体验编辑器(SPA VEC)
 description: 此视频向营销人员介绍了Adobe Target单页应用程序可视化体验编辑器(SPA VEC)。 观看此视频，了解如何使用SPA VEC创建活动。
 role: User
 level: Beginner
-topic: SPA，个性化
-feature: 体验和选件、可视化体验编辑器(VEC)
+topic: SPA, Personalization
+feature: Experiences and Offers, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null
 author: Daniel Wright
 exl-id: 3e32d869-a94a-4253-93d7-58b615921067
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
@@ -42,4 +42,4 @@ SPA VEC使营销人员能够以DIY（自己动手）方式在SPA中创建测试�
 
 * [在单页应用程序中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
 * [了解at.js 2.0的工作方式（架构图）](../implementation/understanding-how-atjs-20-works.md)
-* [单页应用程序(SPA)可视化体验编辑器文档](https://docs.adobe.com/help/en/target/using/experiences/spa-visual-experience-composer.html)
+* [单页应用程序(SPA)可视化体验编辑器文档](https://experienceleague.adobe.com/docs/target/using/experiences/spa-visual-experience-composer.html?lang=en)

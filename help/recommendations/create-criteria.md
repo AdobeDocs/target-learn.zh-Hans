@@ -3,16 +3,16 @@ title: 如何在Recommendations中创建标准
 description: 了解如何在Adobe Target Recommendations中创建标准
 role: User
 level: Intermediate
-topic: 个性化
-feature: 推荐
+topic: Personalization
+feature: Recommendations
 doc-type: feature video
 thumbnail: null
 kt: null
 exl-id: 14135335-9f51-4e5d-905f-3cd6760c54cd
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '62'
+ht-degree: 14%
 
 ---
 
@@ -37,4 +37,4 @@ ht-degree: 15%
 * [创建“推荐”活动](create-a-recommendations-activity.md)
 * [了解信息源](understanding-feeds.md)
 * [创建馈送](create-a-feed.md)
-* [Recommendations文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations.html)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

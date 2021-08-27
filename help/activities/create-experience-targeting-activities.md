@@ -3,16 +3,16 @@ title: 如何创建体验定位活动
 description: 体验定位(XT)活动允许营销人员将特定内容定位到特定受众。 了解XT活动的优势以及创建和使用这些活动的方法。
 role: User
 level: Beginner
-topic: 个性化
-feature: 体验定位，活动，可视化体验编辑器(VEC)
+topic: Personalization
+feature: Experience Targeting, Activities, Visual Experience Composer (VEC)
 doc-type: feature video
 thumbnail: null
 kt: null
 exl-id: 997d0902-ff30-4944-b08c-fe6d9f7bcc35
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 19%
+source-wordcount: '210'
+ht-degree: 20%
 
 ---
 
@@ -35,10 +35,10 @@ ht-degree: 19%
 ## 其他资源
 
 * [下载体验个性化的行动手册](https://guided.adobe.com/?promoid=K42KVXHD&amp;mv=other&amp;search=personalization+playbook#recommended/solutions/target)
-* [体验定位文档](https://docs.adobe.com/content/help/en/target/using/activities/experience-targeting/experience-target.html)
+* [体验定位文档](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html?lang=en)
 
 ## 此视频中使用的其他功能
 
-* [报表受众文档](https://docs.adobe.com/help/en/target/using/audiences/managing-audience-filters.html)
-* [创建受众文档](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/create-audience.html)
-* [使用可视化体验编辑器文档构建体验](https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html)
+* [报表受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=en)
+* [创建受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=en)
+* [使用可视化体验编辑器文档构建体验](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=en)

@@ -3,15 +3,15 @@ title: 如何在A/B测试和体验定位活动中使用Recommendations选件
 description: 了解如何在Adobe Target的A/B测试和体验定位活动中使用Recommendations选件。
 role: User
 level: Intermediate
-topic: 个性化
-feature: Recommendations、自动定位、自动分配
+topic: Personalization
+feature: Recommendations, Auto-Target, Auto-Allocate
 doc-type: feature video
 thumbnail: null
 kt: 3451
 exl-id: 16908f07-cda4-4a34-9e11-42b419e3917b
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 1%
 
 ---
@@ -29,5 +29,5 @@ Recommendations选件可以与A/B测试和体验定位活动一起使用。 此�
 
 ## 其他资源
 
-* [Recommendations作为选件文档](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-as-an-offer.html)
+* [Recommendations作为选件文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=en)
 * [创建Recommendations活动视频](create-a-recommendations-activity.md)

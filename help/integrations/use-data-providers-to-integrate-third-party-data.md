@@ -3,17 +3,17 @@ title: 如何使用数据提供商集成第三方数据
 description: 本教程将向用户介绍数据提供程序。 了解如何使用数据提供商功能轻松将数据从第三方传递到Adobe Target。
 role: User, Developer
 level: Experienced
-topic: 个性化，集成
-feature: 实施、集成、API/SDK
+topic: Personalization, Integrations
+feature: Implementation, Integrations, APIs/SDKs
 doc-type: feature video
 kt: null
 thumbnail: null
 author: Daniel Wright
 exl-id: 1892136e-14e3-4e52-8b1f-aee806d2f83a
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 22%
+source-wordcount: '211'
+ht-degree: 23%
 
 ---
 
@@ -37,4 +37,4 @@ ht-degree: 22%
 ## 支持材料
 
 * [在at.js和Adobe Target中实施数据提供程序](implement-data-providers-to-integrate-third-party-data.md)
-* [数据提供程序文档](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/functions-overview/targetgobalsettings.html#data-providers)
+* [数据提供程序文档](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/functions-overview/targetgobalsettings.html?lang=en#data-providers)
