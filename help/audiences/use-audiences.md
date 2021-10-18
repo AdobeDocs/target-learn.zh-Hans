@@ -4,17 +4,16 @@ description: 该视频向 Adobe Target 用户展示如何使用受众来定位�
 landing-page-description: 了解如何定义受众、查找受众、定位活动和过滤报表。
 role: User
 level: Beginner
-topic: 个性化
-feature: 受众，报表
+topic: Personalization
+feature: Audiences, Reports
 doc-type: feature video
-thumbnail: null
 kt: null
 author: Daniel Wright
 exl-id: c164eba0-d548-4ace-b9e7-746bdafa844d
-source-git-commit: 5e3fdcb2f86e4811a0cbcfde66c3d6a6c8270355
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 21%
+source-wordcount: '75'
+ht-degree: 22%
 
 ---
 

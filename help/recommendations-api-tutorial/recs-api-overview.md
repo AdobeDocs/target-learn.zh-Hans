@@ -7,13 +7,12 @@ topic: Personalization, Administration, Integrations, Development
 feature: APIs/SDKs, Recommendations, Administration & Configuration, Overview
 doc-type: tutorial
 kt: 3815
-thumbnail: null
 author: Judy Kim
 exl-id: 10f80056-fb71-4362-86bc-d161f596cb91
-source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -34,7 +33,7 @@ ht-degree: 2%
 
 * 使用Recommendations API配置和管理实体
 * 使用Recommendations API配置和管理自定义标准
-* 了解如何将Recommendations与交付API结合使用来使用推荐，从而生成非HTML设备的结果
+* 了解如何将Recommendations与交付API结合使用以在非HTML设备中使用推荐
 
 ## 受众
 

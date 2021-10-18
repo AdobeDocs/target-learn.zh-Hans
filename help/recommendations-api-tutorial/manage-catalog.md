@@ -7,10 +7,9 @@ topic: Personalization, Administration, Integrations, Development
 feature: APIs/SDKs, Recommendations, Administration & Configuration
 doc-type: tutorial
 kt: 3815
-thumbnail: null
 author: Judy Kim
 exl-id: 8060b69b-e8e5-4fe7-895f-742410d8ed45
-source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 2%
@@ -125,7 +124,7 @@ POST https://mc.adobe.io/{{TENANT_ID}}/target/recs/entities
 
 1. 现在轮到你了！ 使用&#x200B;**Save Entities** API将以下项目添加到您的目录中。 以上示例JSON作为起点。 （您需要扩展JSON以包含其他实体。）
 
-   ![SaveEntities5.png](assets/SaveEntities06.png)
+   ![SaveEntities6.png](assets/SaveEntities06.png)
 
 好象最后两件东西不属于。 让我们使用&#x200B;**获取实体** API来检查这些实体，如有必要，请使用&#x200B;**删除实体** API删除它们。
 

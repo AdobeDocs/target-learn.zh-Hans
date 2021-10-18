@@ -4,16 +4,15 @@ description: 了解 Adobe Target 中包含的不同类型的活动，以及它�
 landing-page-description: 了解A/B活动、多变量测试、体验定位活动、Recommendations和Automated Personalization活动的基础知识。
 role: User
 level: Beginner
-topic: 个性化
-feature: 活动， A/B测试，多变量测试，体验定位， Recommendations, Automated Personalization，可视化体验编辑器(VEC)
+topic: Personalization
+feature: Activities, A/B Tests, Multivariate Tests, Experience Targeting, Recommendations, Automated Personalization, Visual Experience Composer (VEC)
 doc-type: feature video
-thumbnail: null
 kt: null
 exl-id: effcb28d-56cc-4592-86b1-53b1c68e3672
-source-git-commit: 5e3fdcb2f86e4811a0cbcfde66c3d6a6c8270355
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 31%
+source-wordcount: '122'
+ht-degree: 36%
 
 ---
 

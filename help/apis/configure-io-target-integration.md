@@ -7,10 +7,9 @@ topic: Personalization, Administration, Integrations, Development
 feature: APIs/SDKs, Administration & Configuration
 doc-type: tutorial
 kt: null
-thumbnail: null
 author: Judy Kim
 exl-id: 8a1e93e4-67b2-4942-a8da-fc0f2cbb2df2
-source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 2%
@@ -51,7 +50,7 @@ Adobe Target管理员API（包括[!DNL Recommendations]管理员API）通过身�
 
    ![configure-io-target-createproject3.png](assets/configure-io-target-createproject3.png)
 
-4. 单击&#x200B;**[!UICONTROL 添加API]** ，将REST API添加到您的项目中，以访问Adobe服务和产品。
+4. 单击&#x200B;**[!UICONTROL 添加API]** ，将REST API添加到您的项目中以访问Adobe服务和产品。
 
    ![添加API](assets/configure-io-target-createproject4.png)
 

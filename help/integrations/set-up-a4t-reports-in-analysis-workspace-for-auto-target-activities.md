@@ -3,15 +3,14 @@ title: 如何在Analysis Workspace中为自动定位活动设置A4T报表
 description: 在您部署了Analytics for Target(A4T)集成并运行自动定位活动后，如何确保正确解释结果？ 请按照以下步骤在Analysis Workspace中配置A4T报表，以在运行自动定位活动时获得预期结果。
 role: User
 level: Intermediate
-topic: 个性化，集成
-feature: Analytics for Target(A4T)、自动定位、集成
+topic: Personalization, Integrations
+feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
-thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '2261'
+source-wordcount: '2252'
 ht-degree: 1%
 
 ---

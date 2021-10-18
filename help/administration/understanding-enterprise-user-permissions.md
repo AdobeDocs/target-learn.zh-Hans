@@ -3,17 +3,16 @@ title: 如何配置企业用户权限
 description: 此视频介绍Adobe Target管理员的用户权限、属性和工作区。 观看此视频，了解不同的用户级别以及如何使用属性和工作区来控制用户访问权限。
 role: Admin
 level: Beginner
-topic: 管理
-feature: 管理和配置
+topic: Administration
+feature: Administration & Configuration
 doc-type: feature video
-thumbnail: null
 kt: null
 badge: premium
 exl-id: bb8d691b-4cf5-468d-8f47-bd3d7a713124
-source-git-commit: ee9aac0144e35abf32c5d8eafe10a013bf30d8d3
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 4%
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 

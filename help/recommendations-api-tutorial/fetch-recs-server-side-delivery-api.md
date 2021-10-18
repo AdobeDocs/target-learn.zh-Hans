@@ -7,10 +7,9 @@ topic: Personalization, Administration, Integrations, Development
 feature: APIs/SDKs, Recommendations, Administration & Configuration
 doc-type: tutorial
 kt: 3815
-thumbnail: null
 author: Judy Kim
 exl-id: 553d1208-647f-479d-acc7-d7760469d642
-source-git-commit: d1517f0763290eb61a9e4eef4f2eb215a9cdd667
+source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
 source-wordcount: '1418'
 ht-degree: 2%
@@ -25,7 +24,7 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于提供对网页�
 >
 > 请求包含实际推荐（推荐产品或项目）的内容时，请使用[!DNL Target]交付API。
 
-要检索推荐，请发送包含相应上下文信息的Adobe Target交付APIPOST调用，该信息可能包含用户ID（用于特定于配置文件的推荐，如用户最近查看的项目）、相关的mbox名称、mbox参数、配置文件参数或其他属性。 响应将包含推荐的entity.id（并可能包含其他实体数据），这些实体数据采用JSON或HTML格式，然后可以在设备中显示。
+要检索推荐，请发送包含相应上下文信息的Adobe Target交付APIPOST调用，该信息可能包含用户ID（用于特定于配置文件的推荐，如用户最近查看的项目）、相关的mbox名称、mbox参数、配置文件参数或其他属性。 响应将包含推荐的entity.id（并且可能包含其他实体数据），这些实体数据采用JSON或HTML格式，然后可以在设备中显示。
 
 适用于Adobe Target的[交付API](https://developers.adobetarget.com/api/delivery-api/)公开了标准[!DNL Target]请求提供的所有现有功能。
 
@@ -83,7 +82,7 @@ pngRemember以正确配置查询参数。例如，请务必指定
    ![server-side-create-recs-json-response2.](assets/server-side-create-recs-json-response2.png)
 png响应包含键ID以及推荐实体的实体ID。
 
-通过将交付API与[!DNL Recommendations]结合使用，您可以在非HTML设备上向访客显示推荐之前执行其他步骤。 例如，您可以利用交付API的响应，在显示最终结果之前，对其他系统（如CMS、PIM或电子商务平台）的实体属性详细信息（库存、价格、评级等）执行额外的实时查找。
+通过将[!DNL Recommendations]的交付API与结合使用，您可以在非HTML设备上向访客显示推荐之前执行其他步骤。 例如，您可以利用交付API的响应，在显示最终结果之前，对其他系统（如CMS、PIM或电子商务平台）的实体属性详细信息（库存、价格、评级等）执行额外的实时查找。
 
 使用本教程中概述的方法，您可以获取任何应用程序来利用[!DNL Target]的响应来提供个性化推荐！
 
