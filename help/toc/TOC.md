@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe Target 教程
 user-guide-url: /content/help/en/target-learn/tutorials/overview.html
-source-git-commit: df4e2a7660e92ee87d9678d8bb9bb9d6a22bf6b4
+source-git-commit: 18f3badbdcad6467f350b6f30aa0643a5a9d0139
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 9%
+source-wordcount: '411'
+ht-degree: 8%
 
 ---
 
@@ -13,7 +13,11 @@ ht-degree: 9%
 
 + [Adobe TargetTutorials概述](../overview.md)
 + 管理{#administration}
-   + [实施战略与制度治理](../dev101/1.1-implementation-strategy-sys-governance.md)
+   + [战略与思想领导]{#strategy}
+      + [个性化测试和路线图创建快速入门](../strategy/create-personalization-roadmap-testing-plan.md)
+      + [实施战略和系统治理](../dev101/1.1-implementation-strategy-sys-governance.md)
+      + [使用Adobe Target优化的最佳实践](../strategy/target-best-practices-for-optimization.md)
+      + [优化Adobe Target实施](../strategy/optimize-your-target-implementation.md)
    + [设置帐户首选项](../administration/set-up-account-preferences.md)
    + [了解企业用户权限](../administration/understanding-enterprise-user-permissions.md)
    + [配置企业用户权限](../dev101/1.2-configure-ent-user-permissions.md)
