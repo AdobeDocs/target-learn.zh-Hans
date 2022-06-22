@@ -1,10 +1,11 @@
 ---
 title: 用于个性化测试和路线图创建的快速入门
-description: '了解一个框架，您可以使用该框架开始验证个性化活动并创建个性化路线图以通过Adobe Target和Adobe Analytics执行。  '
+description: 了解一个框架，您可以使用该框架开始验证个性化活动并创建个性化路线图以通过Adobe Target和Adobe Analytics执行。
 solution: Target,Analytics
-source-git-commit: fd679d3fc2c72b9852d8129adf8c1187bf22b25f
+exl-id: c0b6f9a0-7074-4e25-81e6-9781a54e2156
+source-git-commit: 46f61d8f503f230a79b4072ea0d75edd41403708
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -86,3 +87,5 @@ Adobe建议您按1到5之间的比例对每个用例进行排名；1简单，5�
 ### 更多信息
 
 我们建议您观看此视频，该视频将讨论以下每个步骤： [https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)
+
+在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。

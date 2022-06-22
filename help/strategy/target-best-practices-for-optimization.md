@@ -1,10 +1,11 @@
 ---
 title: 优化的最佳实践
-description: '了解Adobe的六大优化要点以及如何应用它们。 '
+description: 了解Adobe的六大优化要点以及如何应用它们。
 solution: Target
-source-git-commit: fd679d3fc2c72b9852d8129adf8c1187bf22b25f
+exl-id: dd29faea-bb67-4128-b261-fa407ba7158c
+source-git-commit: 46f61d8f503f230a79b4072ea0d75edd41403708
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1246'
 ht-degree: 0%
 
 ---
@@ -115,3 +116,5 @@ _图1 — 优化迭代周期_
 基于上述理解，Adobe建议您在个性化之前进行优化，并将个性化从广泛推进到精细。 要将个性化活动从广泛到精细地成熟起来，您将开始使用一对多个性化（广泛）样式（使用A/B测试），然后转为使用一对一个性化（粒度）样式（使用自动个性化活动）。
 
 欲知更多信息，请听 [了解和优化Adobe Target实施的网络研讨会](https://adobecustomersuccess.adobeconnect.com/pkfafpzd9yarmp4/)，业务顾问Katie Cozby。
+
+在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。

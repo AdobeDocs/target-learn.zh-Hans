@@ -1,10 +1,11 @@
 ---
 title: 优化Adobe Target实施
-description: '获取Adobe Target实施和结构的概述。 了解如何了解和审核您组织的设置。 了解有关为团队创建知识存储库的常见故障诊断技术和提示。 '
+description: 获取Adobe Target实施和结构的概述。 了解如何了解和审核您组织的设置。 了解有关为团队创建知识存储库的常见故障诊断技术和提示。
 solution: Target
-source-git-commit: fd679d3fc2c72b9852d8129adf8c1187bf22b25f
+exl-id: 49b69f41-0993-437c-bb69-84392be427df
+source-git-commit: 46f61d8f503f230a79b4072ea0d75edd41403708
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1148'
 ht-degree: 0%
 
 ---
@@ -162,3 +163,5 @@ Adobe建议执行每月手动审核，以：
 * **项目仪表板**  — 用于跟踪计划绩效、频率和收入收益随时间推移的优势的文档。
 
 有关更多信息，请查看 [网络研讨会](https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/) 和高级顾问怀尔德·弗里德。
+
+在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
