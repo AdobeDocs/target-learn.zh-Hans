@@ -5,10 +5,10 @@ role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: a6b645b6d9693a4c8882fd47ee0d61698c0b834d
+source-git-commit: a3e34a3b12e89df7fd041ffe6676868ecf199121
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 15%
+source-wordcount: '229'
+ht-degree: 17%
 
 ---
 
@@ -20,12 +20,12 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 * **[在Analysis Workspace中为自动定位活动设置A4T报表](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)**
 
-   *对于业务从业者：您是否在使用A4T进行自动定位？按照以下步骤在Analysis Workspace中配置A4T报表，以确保在运行自动定位活动时获得预期结果。*
+   *对于业务从业者：您是否在使用A4T进行自动定位？ 按照以下步骤在Analysis Workspace中配置A4T报表，以确保在运行自动定位活动时获得预期结果。*
 * **[设备内决策概述](implementation/on-device-decisioning-overview.md)**
 
    *对于架构师：开始使用设备内决策，为消费者提供接近零的延迟体验！*
-* **[使用Recommendations API（教程）](recommendations-api-tutorial/recs-api-overview.md)**
-   *对于开发人员：使用API配置和管理目 [!DNL Recommendations] 录和自定义标 [!DNL Recommendations] 准等，以实践。*
+<!-- * **[Use the Recommendations API (Tutorial)](recommendations-api-tutorial/recs-api-overview.md)**
+    *For developers: Get hands-on practice using the [!DNL Recommendations] APIs to configure and manage [!DNL Recommendations] catalogs and custom criteria, and more.*-->
 
 <!--* **[Implement Adobe Target with Adobe Mobile Services SDK v4 for Android (Tutorial)](mobile-v4/overview.md)**
     *For developers who are already using Adobe Mobile Services SDK v4: learn how to start personalizing app experiences with Adobe Target. These steps are provided as legacy user support.*<!-- Concepts learned here are also applicable to Adobe Experience Platform Mobile SDK (v5).-->
