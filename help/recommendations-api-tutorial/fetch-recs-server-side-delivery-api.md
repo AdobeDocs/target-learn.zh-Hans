@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3815
 author: Judy Kim
 exl-id: 553d1208-647f-479d-acc7-d7760469d642
-source-git-commit: 0ecfde208b3e201de135512d5aab70192fc2b826
+source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 1%
@@ -26,7 +26,7 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于向网页提供�
 
 要检索推荐，请发送包含相应上下文信息的Adobe Target交付APIPOST调用，该信息可能包含用户ID（用于特定于配置文件的推荐，如用户最近查看的项目）、相关的mbox名称、mbox参数、配置文件参数或其他属性。 响应将包含推荐的entity.id（并且可能包含其他实体数据），这些实体数据采用JSON或HTML格式，然后可以在设备中显示。
 
-的 [交付API](https://developer.adobe.com/target/implement/delivery-api/)适用于Adobe Target的{target=_blank}公开了标准 [!DNL Target] 请求提供。
+的 [交付API](https://developer.adobe.com/target/implement/delivery-api/)适用于Adobe Target的{target=&quot;_blank&quot;}公开了所有现有功能(标准 [!DNL Target] 请求提供。
 
 >[!NOTE]
 >交付API:
@@ -63,7 +63,7 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于向网页提供�
 
 ## 使用交付API
 
-的语法 [交付API](https://developer.adobe.com/target/implement/delivery-api/#tag/Delivery-API){target=_blank}为：
+的语法 [交付API](https://developer.adobe.com/target/implement/delivery-api/#tag/Delivery-API){target=&quot;_blank&quot;}为：
 
 `POST https://{{CLIENT_CODE}}.tt.omtrdc.net/rest/v1/delivery`
 
@@ -104,7 +104,7 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于向网页提供�
 
 大多数情况下，会在Adobe Target UI中配置推荐，然后通过 [!DNL Target] API，原因如上面各节中所述。 这种UI-API协调是常见的。 但是，有时用户可能希望通过API执行所有操作（包括设置和结果的使用）。 虽然不常见，但用户可以绝对地配置、执行、 *和* 完全使用API来利用推荐的结果。
 
-我们在 [前面部分](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=_blank}如何管理Adobe Target Recommendations实体并在服务器端交付它们。 同样，Adobe I/O允许您管理标准、促销活动、收藏集和设计模板，而无需登录到Adobe Target。 所有 [!DNL Recommendations] 可能会找到API [此处](https://developers.adobetarget.com/api/recommendations/)，但以下是供参考的摘要。
+我们在 [前面部分](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=&quot;_blank&quot;}如何管理Adobe Target Recommendations实体并在服务器端交付它们。 同样，Adobe I/O允许您管理标准、促销活动、收藏集和设计模板，而无需登录到Adobe Target。 所有 [!DNL Recommendations] 可能会找到API [此处](https://developers.adobetarget.com/api/recommendations/)，但以下是供参考的摘要。
 
 | 资源 | 详细信息 |
 | --- | --- |
@@ -123,13 +123,13 @@ Adobe Target和Adobe Target [!DNL Recommendations] API可用于向网页提供�
 
 ## 参考文档
 
-* [Adobe Target管理API文档](https://developer.adobe.com/target/administer/admin-api/){target=_blank}
-* [Adobe Target交付API](https://developer.adobe.com/target/implement/delivery-api/){target=_blank}
+* [Adobe Target管理API文档](https://developer.adobe.com/target/administer/admin-api/){target=&quot;_blank&quot;}
+* [Adobe Target交付API](https://developer.adobe.com/target/implement/delivery-api/){target=&quot;_blank&quot;}
 * [将 [!DNL Recommendations] 与电子邮件集成](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html)
 
 ## 摘要和审阅
 
 恭喜！ 通过完成本教程，您学习了如何：
-* [使用Recommendations API管理目录](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=_blank}
-* [使用Recommendations API管理自定义标准](https://developer.adobe.com/target/before-administer/recs-api/manage-custom-criteria/){target=_blank}
-* [将交付API与Recommendations结合使用](https://developer.adobe.com/target/before-administer/recs-api/fetch-recs-server-side-delivery-api/){target=_blank}
+* [使用Recommendations API管理目录](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=&quot;_blank&quot;}
+* [使用Recommendations API管理自定义标准](https://developer.adobe.com/target/before-administer/recs-api/manage-custom-criteria/){target=&quot;_blank&quot;}
+* [将交付API与Recommendations结合使用](https://developer.adobe.com/target/before-administer/recs-api/fetch-recs-server-side-delivery-api/){target=&quot;_blank&quot;}

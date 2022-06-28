@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: null
 author: Judy Kim
 exl-id: 8a1e93e4-67b2-4942-a8da-fc0f2cbb2df2
-source-git-commit: 0ecfde208b3e201de135512d5aab70192fc2b826
+source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
 workflow-type: tm+mt
 source-wordcount: '1882'
 ht-degree: 3%
@@ -195,4 +195,4 @@ Adobe Target管理员API，包括 [!DNL Recommendations] 管理员API通过身�
 1. 在确保选择了正确的环境后，发送您的请求。 您应会收到一个包含活动列表的响应。
    ![testtoken6](assets/configure-io-target-testtoken6.png)
 
-恭喜！ 现在，您已验证Adobe身份验证，接下来可以使用它与Adobe Target API(以及其他AdobeAPI)进行交互。 例如，您可以 [使用Recommendations API](https://developer.adobe.com/target/before-administer/recs-api/){target=_blank}创建或管理推荐。
+恭喜！ 现在，您已验证Adobe身份验证，接下来可以使用它与Adobe Target API(以及其他AdobeAPI)进行交互。 例如，您可以 [使用Recommendations API](https://developer.adobe.com/target/before-administer/recs-api/){target=&quot;_blank&quot;}创建或管理推荐。

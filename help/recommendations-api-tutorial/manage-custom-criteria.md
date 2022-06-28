@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3815
 author: Judy Kim
 exl-id: ee63bd3e-200a-4c08-b364-9f17a479033b
-source-git-commit: 0ecfde208b3e201de135512d5aab70192fc2b826
+source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 1%
@@ -118,4 +118,4 @@ ht-degree: 1%
 
 恭喜！ 现在，您可以使用 [!DNL Recommendations] API。 在下一部分中，您将使用 [!DNL Target] 用于检索推荐的交付API。
 
-[下一课程“使用服务器端交付API获取Recommendations”>](https://developer.adobe.com/target/before-administer/recs-api/fetch-recs-server-side-delivery-api/){target=_blank}
+[下一课程“使用服务器端交付API获取Recommendations”>](https://developer.adobe.com/target/before-administer/recs-api/fetch-recs-server-side-delivery-api/){target=&quot;_blank&quot;}

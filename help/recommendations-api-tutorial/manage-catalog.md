@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3815
 author: Judy Kim
 exl-id: 8060b69b-e8e5-4fe7-895f-742410d8ed45
-source-git-commit: 0ecfde208b3e201de135512d5aab70192fc2b826
+source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
 workflow-type: tm+mt
 source-wordcount: '918'
 ht-degree: 2%
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->发送 **[!UICONTROL IMS:JWT通过用户令牌生成+身份验证]** 当您需要刷新访问令牌以进行身份验证时，会请求获取该令牌，因为该令牌在24小时后过期。 请参阅 [配置AdobeAPI身份验证](https://developer.adobe.com/target/before-administer/configure-authentication/){target=_blank}以了解相关说明。
+>发送 **[!UICONTROL IMS:JWT通过用户令牌生成+身份验证]** 当您需要刷新访问令牌以进行身份验证时，会请求获取该令牌，因为该令牌在24小时后过期。 请参阅 [配置AdobeAPI身份验证](https://developer.adobe.com/target/before-administer/configure-authentication/){target=&quot;_blank&quot;}以获取相关说明。
 
 ![JWT3ff](assets/configure-io-target-jwt3ff.png)
 
@@ -204,4 +204,4 @@ DELETE https://mc.adobe.io/{{TENANT_ID}}/target/recs/entities?ids=[comma-delimit
 
 恭喜！ 您现在可以使用 [!DNL Recommendations] 用于创建、更新、删除和获取有关目录中实体的详细信息的API。 在下一部分中，您将学习如何管理自定义标准。
 
-[下一课程“管理自定义标准”>](https://developer.adobe.com/target/before-administer/recs-api/manage-custom-criteria/){target=_blank}
+[下一课程“管理自定义标准”>](https://developer.adobe.com/target/before-administer/recs-api/manage-custom-criteria/){target=&quot;_blank&quot;}
