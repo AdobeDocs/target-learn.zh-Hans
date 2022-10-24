@@ -5,7 +5,7 @@ role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: a3e34a3b12e89df7fd041ffe6676868ecf199121
+source-git-commit: 7d74151de84e7b9f504a5d19cb304cd29c1bb928
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 17%
@@ -15,6 +15,8 @@ ht-degree: 17%
 # 了解如何使用Adobe Target
 
 Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定制和个性化客户体验所需的一切功能，从而最大限度地增加您的 Web 和移动设备网站、应用程序、社交媒体及其他数字渠道的收入。通过这些视频和教程，您可以了解Adobe Target的许多组件。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -37,6 +39,18 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 * **[Create a Recommendations Activity (Video)](recommendations/create-a-recommendations-activity.md)**
     <br>
     *Recommend products to your customers at scale with this Premium feature.* -->
+
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工挑选
 
@@ -83,3 +97,4 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
   </td>
 </tr>
 </table>
+</div>
