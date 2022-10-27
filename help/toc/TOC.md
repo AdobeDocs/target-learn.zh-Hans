@@ -1,9 +1,9 @@
 ---
 user-guide-title: Adobe Target 教程
 user-guide-url: /content/help/en/target-learn/tutorials/overview.html
-source-git-commit: 66635392b30ee5fecc15438736ef829894da53bc
+source-git-commit: 3b278c1286da5376375622c157bb5cc634e23888
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '408'
 ht-degree: 8%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 8%
 + 集成{#integrations}
    + [将Target与Analytics集成](../dev101/3.2-target-analytics.md)
    + [使用Analytics作为Target数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
+   + [在Analysis Workspace中为自动分配活动设置A4T报表](../integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.md)
    + [在Analysis Workspace中为自动定位活动设置A4T报表](../integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)
    + [将 Target 与 Audience Manager 集成](../dev101/3.3-target-dmp.md)
    + [将Target与Experience Cloud受众集成](../dev101/3.4-target-exc-audiences.md)
