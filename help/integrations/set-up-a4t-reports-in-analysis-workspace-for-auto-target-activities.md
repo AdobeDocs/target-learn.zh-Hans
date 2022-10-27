@@ -8,7 +8,7 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: 1c09ae58070d9f55aab555531f9a03dacbb26f03
+source-git-commit: e1acb84970b967625e0b6c7495067ed6456a6aa3
 workflow-type: tm+mt
 source-wordcount: '2653'
 ht-degree: 1%
@@ -86,6 +86,7 @@ ht-degree: 1%
 | 同类群组 | 1 | 1 | - | 0% | 0% |
 | B | 2 | 3 | 1 | 50% | 33.3% |
 | 总计 | 2 | 4 | 1 | 50% | 25% |
+
 *表1:对于决策对访问具有粘滞性（与常规A/B测试一样，对于不是访客）的情况，比较访客标准化报表和访问标准化报表的示例。 在这种情况下，访客标准化量度会造成混淆。*
 
 如表中所示，访客级别的数字存在明显的不协调性。 尽管存在两个独特访客总数，但这并不是每个体验的各个独特访客总数。 虽然访客级别的转化率不一定是错误的，但在比较各个体验时，访问级别的转化率可以说更有意义。 从形式上讲，分析单位（“访问次数”）与决策吸引力单位相同，这意味着可以添加和比较量度的体验级别划分。
