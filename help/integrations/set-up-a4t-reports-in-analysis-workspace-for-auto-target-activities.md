@@ -11,9 +11,9 @@ doc-type: tutorial
 thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: dd0c3ed5cd44d6b70b7c69bfcfbca5940900772b
+source-git-commit: ba33152906afda02ebf65365d9783ba8a4ea3c83
 workflow-type: tm+mt
-source-wordcount: '2278'
+source-wordcount: '2282'
 ht-degree: 1%
 
 ---
@@ -203,6 +203,8 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型将为 *已训练* 使用的�
 ## 摘要：最终示例 [!DNL Analysis Workspace] 面板 [!UICONTROL 自动定位] 报告
 
 下图将上述所有步骤合并到一个面板中，显示了针对以下项的推荐报告的完整视图： [!UICONTROL 自动定位] A4T活动。 此报表与 [!DNL Target] 用于优化目标量度的ML模型。 该报告包含本教程中讨论的所有细微差别和建议。 此报表也最接近传统方法中所使用的计数方法 [!DNL Target] — 报告驱动 [!UICONTROL 自动定位] 活动。
+
+单击以展开图像。
 
 ![中的最终A4T报告 [!DNL Analysis Workspace]](assets/Figure8.png "Analysis Workspace中的A4T报表"){width="600" zoomable="yes"}
 
