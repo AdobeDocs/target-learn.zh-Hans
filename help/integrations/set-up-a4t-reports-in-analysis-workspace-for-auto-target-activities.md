@@ -2,7 +2,6 @@
 title: 如何在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!DNL Auto-Target] 活动
 description: 如何在中配置A4T报表 [!DNL Analysis Workspace] 以获取运行时的预期结果 [!UICONTROL 自动定位] 活动？
 badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#premium newtab=true" tooltip="See what's included in Target Premium."
-badgeBeta: label="Beta" type="Informative"
 role: User
 level: Intermediate
 topic: Personalization, Integrations
@@ -11,18 +10,14 @@ doc-type: tutorial
 thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: ba33152906afda02ebf65365d9783ba8a4ea3c83
+source-git-commit: 14a362214dce9d698c78438c3a47424b59aa4632
 workflow-type: tm+mt
-source-wordcount: '2282'
+source-wordcount: '2253'
 ht-degree: 1%
 
 ---
 
 # 在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!DNL Auto-Target] 活动
-
->[!NOTE]
->
->此功能目前为测试版，可供所有人使用 [Target Premium](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#premium){target=_blank} 即将发布的版本中的客户。
 
 >[!IMPORTANT]
 >

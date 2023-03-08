@@ -1,31 +1,37 @@
 ---
 title: 了解如何使用Adobe Target
-description: 通过这组涵盖其所有组件的教程和视频，了解如何使用Adobe Target。 有效利用Adobe Target的力量。
+description: 了解如何使用 [!DNL Adobe Target] 此教程和视频集合涵盖了它的所有组件。
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: da8f839931f4c68d3ee8ef9e1c8ca377d79a4cb0
+source-git-commit: ca57cc6fae9bb68b9ad432afe64ffea726cd6872
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 17%
+source-wordcount: '249'
+ht-degree: 15%
 
 ---
 
 # 了解如何使用Adobe Target
 
-Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定制和个性化客户体验所需的一切功能，从而最大限度地增加您的 Web 和移动设备网站、应用程序、社交媒体及其他数字渠道的收入。通过这些视频和教程，您可以了解Adobe Target的许多组件。
+[!DNL Adobe Target] 是一种 [!DNL Adobe Experience Cloud] 解决方案，可为您提供定制和个性化客户体验所需的一切功能，从而最大限度地增加您的 Web 和移动设备网站、应用程序、社交媒体及其他数字渠道的收入。通过这些视频和教程，您可以了解的许多组件， [!DNL Adobe Target].
 
 <div id="whats-new-section">
 
 ## 新增功能
 
-* **[在Analysis Workspace中为自动定位活动设置A4T报表](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)**
+* **[在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!DNL Auto-Allocate] 活动](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.md)**
 
-   *对于业务从业者：您是否在使用A4T进行自动定位？ 按照以下步骤在Analysis Workspace中配置A4T报表，以确保在运行自动定位活动时获得预期结果。*
-* **[设备内决策概述](implementation/on-device-decisioning-overview.md)**
+   对于业务从业人员： [!UICONTROL 目标分析] (A4T)集成 [!UICONTROL 自动分配] 允许您在中查看报表数据 [!DNL Adobe Analytics]，您甚至还可以优化中定义的自定义事件或量度 [!DNL Analytics].
 
-   *对于架构师：开始使用设备内决策，为消费者提供接近零的延迟体验！*
+* **[在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!UICONTROL 自动定位] 活动](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)**
+
+   对于业务从业者：您是否将A4T用于 [!UICONTROL 自动定位]？ 按照以下步骤在中配置A4T报表 [!DNL Analysis Workspace] 以确保在运行时获得预期的结果 [!UICONTROL 自动定位] 活动。
+
+* **[设备上决策概述](implementation/on-device-decisioning-overview.md)**
+
+   面向架构师：快速入门 [!UICONTROL 设备上决策] 为消费者提供几乎零延迟的体验。
+
 <!-- * **[Use the Recommendations API (Tutorial)](recommendations-api-tutorial/recs-api-overview.md)**
     *For developers: Get hands-on practice using the [!DNL Recommendations] APIs to configure and manage [!DNL Recommendations] catalogs and custom criteria, and more.*-->
 
@@ -40,7 +46,6 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
     <br>
     *Recommend products to your customers at scale with this Premium feature.* -->
 
-
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -52,7 +57,7 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
@@ -84,15 +89,15 @@ Adobe Target 是一种 Adobe Experience Cloud 解决方案，可为您提供定�
   </td>
   <td>
     <a href="troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md">
-      <img alt="使用Experience Cloud Debugger对Target进行故障诊断" src="assets/using_the_experienceclouddebuggerwithadobetarget.png" />
+      <img alt="使用Experience Cloud Debugger排除Target故障" src="assets/using_the_experienceclouddebuggerwithadobetarget.png" />
     </a>
     <div>
       <a href="troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md">
-    <strong>使用Experience Cloud Debugger对Target进行故障诊断</strong>
+    <strong>使用Experience Cloud Debugger排除Target故障</strong>
     </a>
     </div>
     <p>
-    <em>放大实施</em>
+    <em>放大您的实施</em>
     <p>
   </td>
 </tr>
