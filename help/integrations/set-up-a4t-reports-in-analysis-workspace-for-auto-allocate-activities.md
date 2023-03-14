@@ -2,15 +2,16 @@
 title: 如何在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!UICONTROL 自动分配] 活动
 description: 如何在中配置A4T报表 [!DNL Analysis Workspace] 以获取运行时的预期结果 [!UICONTROL 自动分配] 活动。
 role: User
+badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#beta newtab=true" tooltip="What are Target Beta release features?"
 level: Intermediate
 topic: Personalization, Integrations
 feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 14a362214dce9d698c78438c3a47424b59aa4632
+source-git-commit: 0ab5bc8b2ad4b5b32069b022d95d0862ec84e868
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ An [!DNL Auto-Allocate] 活动可在两个或更多体验中标识一个入选�
    * “最大化独特访客转化率”优化标准的转化率分子是独特访客的计数，且具有量度的正值。
    * “每位访客的最大量度值”的转化率分子是中的常规量度值 [!DNL Adobe Analytics]. 默认情况下，此函数在 **[!UICONTROL 目标分析]** 面板位于 [!DNL Analysis Workspace].
 * 当优化指标为 [!DNL Target] 定义的转化量度，默认 **[!UICONTROL 目标分析]** 面板位于 [!DNL Analysis Workspace] 处理面板配置。
-* 此 [!UICONTROL 置信度] 中显示的数字 [!DNL Analysis Workspace] 不反映 [更保守的统计数据 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=en#section_98388996F0584E15BF3A99C57EEB7629)，因此应该删除。
+* 此 [!UICONTROL 置信度] 中显示的数字 [!DNL Analysis Workspace] 不反映 [更保守的统计数据 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=en#section_98388996F0584E15BF3A99C57EEB7629)，因此应该忽略。 请改为引用以下位置的这些值： [!DNL Target] 报告。
 
 ## 为以下对象创建A4T [!DNL Auto-Allocate] 面板位于 [!DNL Analysis Workspace]
 

@@ -2,6 +2,7 @@
 title: 如何在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!DNL Auto-Target] 活动
 description: 如何在中配置A4T报表 [!DNL Analysis Workspace] 以获取运行时的预期结果 [!UICONTROL 自动定位] 活动？
 badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#premium newtab=true" tooltip="See what's included in Target Premium."
+badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#beta newtab=true" tooltip="What are Target Beta release features?"
 role: User
 level: Intermediate
 topic: Personalization, Integrations
@@ -10,7 +11,7 @@ doc-type: tutorial
 thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: 14a362214dce9d698c78438c3a47424b59aa4632
+source-git-commit: 0ab5bc8b2ad4b5b32069b022d95d0862ec84e868
 workflow-type: tm+mt
 source-wordcount: '2253'
 ht-degree: 1%
@@ -51,7 +52,7 @@ ht-degree: 1%
 
 ## 使用 [!UICONTROL 控制与目标] 用于比较 [!DNL Target] 将ML模型集成到控件
 
-默认A4T面板专为经典设计（手动） [!UICONTROL A/B测试] 或 [!UICONTROL 自动分配] 目标是将各个体验的表现与控制体验进行比较的活动。 In [!UICONTROL 自动定位] 但是，第一级比较应该是在控制项之间 *策略* 和目标 *策略*. 换言之，确定 [!UICONTROL 自动定位] 集成ML模型)。
+默认A4T面板专为经典设计（手动） [!UICONTROL A/B测试] 或 [!UICONTROL 自动分配] 目标是将各个体验的表现与控制体验进行比较的活动。 In [!UICONTROL 自动定位] 但是，第一级比较应该是在控制项之间 *策略* 和目标 *策略*. 换言之，确定 [!UICONTROL 自动定位] 将ML模型集成到控制策略上。
 
 要执行此比较，请使用 **[!UICONTROL 控制与目标(Analytics for Target)]** 维度。 拖放以替换 **[!UICONTROL Target体验]** 维度。
 
