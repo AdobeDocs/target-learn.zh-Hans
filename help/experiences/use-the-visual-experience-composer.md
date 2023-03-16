@@ -2,6 +2,7 @@
 title: 如何使用可视化体验编辑器(VEC)
 description: 这两个视频向营销人员介绍 Adobe Target 视觉体验编辑器 (VEC)。观看这些视频，了解如何使用 VEC 创建活动。
 landing-page-description: 观看这些视频，了解如何使用 Visual Experience Composer (VEC) 创建活动。
+short-description: Watch these videos to learn how to create activities using the Visual Experience Composer (VEC).
 role: User
 level: Beginner
 topic: Personalization
@@ -9,7 +10,7 @@ feature: Visual Experience Composer (VEC), Experiences and Offers
 doc-type: feature video
 kt: null
 exl-id: 3c3985c8-f033-40a1-a39e-8c2f41208d17
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: 72f7cfcc95bbfbe1bb054f98246305f25ce5cc0f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 31%
