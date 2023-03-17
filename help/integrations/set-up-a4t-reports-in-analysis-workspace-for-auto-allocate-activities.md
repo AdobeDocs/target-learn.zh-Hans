@@ -9,9 +9,9 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 0ab5bc8b2ad4b5b32069b022d95d0862ec84e868
+source-git-commit: 952348fa8e8bdba04d543774ba365063ae63eb43
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1042'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
    * “最大化独特访客转化率”优化标准的转化率为以量度正值表示的独特访客计数的转化率。
    * “每个访客最大量度值*”的转化率为 [!DNL Adobe Analytics]. 默认情况下，会在 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace].
 * 当优化量度为 [!DNL Target] 定义的转化量度，默认 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace] 用于配置面板。
-* 的 [!UICONTROL 置信度] 查看的数字 [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=en#section_98388996F0584E15BF3A99C57EEB7629)，因此应该忽略。 请在 [!DNL Target] 报表。
+* 的 [!UICONTROL 置信度] 查看的数字 [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=en#section_98388996F0584E15BF3A99C57EEB7629)，因此应从A4T面板中删除。 请在 [!DNL Target] 报表。
 
 ## 为创建A4T [!DNL Auto-Allocate] 面板 [!DNL Analysis Workspace]
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 默认的A4T面板句柄 [!DNL Auto-Allocate] 目标量度为 [!DNL Target] 转化或 [!DNL Analytics] 量度。
 
-此面板的一个示例显示在 [!UICONTROL 收入] 量度中，其中在活动创建时选择“每个访客的最大量度值”作为优化标准。 如前所述， [!DNL Auto-Allocate] 与中使用的置信度计算相比，使用更保守的置信度计算 **[!UICONTROL Analytics for Target]** 的上界。 Adobe建议您删除置信度量度以及相关的提升度下限和上限量度。
+此面板的一个示例显示在 [!UICONTROL 收入] 量度中，其中在活动创建时选择“每个访客的最大量度值”作为优化标准。 如前所述， [!DNL Auto-Allocate] 与中使用的置信度计算相比，使用更保守的置信度计算 **[!UICONTROL Analytics for Target]** 的上界。 Adobe建议您从A4T面板中删除置信度量度，以及相关的提升度下限和上限量度。 请在 [!DNL Target] 报表。
 
 ![[!UICONTROL Analytics for Target — 自动分配报表] 面板](assets/AAFigure2.png)
 

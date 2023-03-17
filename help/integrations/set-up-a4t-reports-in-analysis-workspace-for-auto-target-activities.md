@@ -11,9 +11,9 @@ doc-type: tutorial
 thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: 0c15c9f448556ba4f5746de62f0673c16202d65f
+source-git-commit: 952348fa8e8bdba04d543774ba365063ae63eb43
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2647'
 ht-degree: 1%
 
 ---
@@ -138,7 +138,7 @@ ht-degree: 1%
 
 *图6:报表面板，其中“通过特定自动定位活动进行点击”区段应用于 [!UICONTROL 访问次数] 量度。 此区段可确保仅当用户实际与 [!DNL Target] 相关活动包含在报表中。*
 
-## 在ML模型培训和目标量度生成之间调整归因
+## 确保目标量度和归因与您的优化标准保持一致
 
 A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [!DNL Adobe Analytics] 使用 *生成性能报告*. 然而，于培训ML模型时，在解释此数据时必须采用若干假设，该等假设与 [!DNL Adobe Analytics].
 
@@ -148,7 +148,13 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [
 
 >[!TIP]
 >
->如果ML模型针对与您在报表中查看的量度不同的量度进行了优化，则这些模型可能不会按预期执行。 要避免出现这种情况，请确保报表中的目标量度使用 [!DNL Target] ML型号。
+>如果ML模型针对与您在报表中查看的量度不同的量度进行了优化，则这些模型可能不会按预期执行。 要避免这种情况，请确保报表中的目标量度使用与 [!DNL Target] ML型号。
+
+确切的量度定义和归因设置取决于 [优化准则](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#supported) 您在活动创建期间指定。
+
+### 定位定义的转化，或 [!DNL Analytics] 量度 *最大化每次访问量度值*
+
+当量度为 [!DNL Target] 转化，或 [!DNL Analytics] 量度 **最大化每次访问量度值**，则目标量度定义允许在同一访问中发生多个转化事件。
 
 查看具有与 [!DNL Target] ML模型，请按照以下步骤操作：
 
@@ -170,9 +176,43 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [
 
 这些步骤可确保在发生目标量度事件时，您的报表将目标量度归因于体验的显示 *任何时间* （“参与率”）。
 
+### [!DNL Analytics] 量度 *独特访问转化率*
+
+**使用正量度区段定义访问**
+
+在您选择的方案中 *最大化独特访问转化率* 作为优化标准，转化率的正确定义是量度值为正值的访问次数的百分比。 可以通过创建一个客户群细分，以过滤到具有量度正值的访问，然后过滤访问量度来实现此目的。
+
+1. 与之前一样，选择 **[!UICONTROL “组件”>“创建区段”]** 选项 [!DNL Analysis Workspace] 工具栏。
+2. 指定 **[!UICONTROL 标题]** 的URL。
+
+   在以下示例中，该区段名为 [!DNL "Visits with an order"].
+
+3. 将您在优化目标中使用的基本量度拖动到区段中。
+
+   在以下示例中，我们使用 **订购** 量度，以便转化率可测量记录订单的访问次数百分比。
+
+4. 在区段定义容器的左上角，选择 **[!UICONTROL 包括]** **访问**.
+5. 使用 **[!UICONTROL 大于]** 运算符，并将值设置为0。
+
+   将值设置为0表示此区段包括订单量度为正的访问。
+
+6. 单击&#x200B;**[!UICONTROL 保存]**。
+
+![图7.png](assets/Figure7.png)
+
+*图7:区段定义过滤为按正顺序访问。 根据活动的优化量度，您必须使用相应的量度替换订单*
+
+**将此量度应用于活动过滤量度中的访问次数**
+
+此区段现在可用于筛选订单数为正数且具有 [!DNL Auto-Target] 活动。 过滤量度的过程与之前类似，在将新区段应用到已过滤的访问量度后，报表面板应类似于图8
+
+![图8.png](assets/Figure8.png)
+
+*图8:具有正确独特访问转化量度的报表面板：记录来自活动的点击的访问次数，以及转化量度（本示例中的订购次数）为非零的访问次数。*
+
 ## 最后一步：创建可捕获上述神奇功能的转化率
 
-对 [!UICONTROL 访问] 和前几节中的目标量度，以及您应对 [!UICONTROL 自动定位] 报表面板是创建正确的转化率（具有正确归因的目标量度的转化率），与经过适当过滤的转化率 [!UICONTROL 访问次数] 量度。
+对 [!UICONTROL 访问] 和目标量度，您应该对 [!DNL Auto-Target] 报表面板可创建正确的转化率 — 更正后的目标量度与适当过滤的“访问量”量度的转化率。
 
 通过创建 [!UICONTROL 计算量度] 执行以下步骤：
 
@@ -186,9 +226,13 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [
 1. 拖动 **[!UICONTROL 访问次数]** 量度。
 1. 单击&#x200B;**[!UICONTROL 保存]**。
 
+>[!TIP]
+>
+> 您还可以使用 [快速计算量度功能](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.html).
+
 此处显示了完整的计算量度定义。
 
-![图7.png](assets/Figure7.png)
+![图9.png](assets/Figure9.png)
 
 *图7:已更正访问和已更正归因的模型转化率量度定义。 (请注意，此量度取决于您的目标量度和活动。 换言之，此量度定义在活动中不可重复使用。)*
 
@@ -202,6 +246,6 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [
 
 单击可展开图像。
 
-![中的最终A4T报表 [!DNL Analysis Workspace]](assets/Figure8.png "Analysis Workspace中的A4T报表"){width="600" zoomable="yes"}
+![中的最终A4T报表 [!DNL Analysis Workspace]](assets/Figure10.png "Analysis Workspace中的A4T报表"){width="600" zoomable="yes"}
 
-*图8:最终的A4T [!UICONTROL 自动定位] 报告 [!DNL Adobe Analytics] [!DNL Workspace]，它将对本教程前几节中所述的量度定义所做的所有调整整合在一起。*
+*图10:最终的A4T [!UICONTROL 自动定位] 报告 [!DNL Adobe Analytics] [!DNL Workspace]，它将对本教程前几节中所述的量度定义所做的所有调整整合在一起。*
