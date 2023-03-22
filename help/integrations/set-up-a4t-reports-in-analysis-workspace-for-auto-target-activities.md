@@ -1,8 +1,8 @@
 ---
 title: 如何在 [!DNL Analysis Workspace] 表示 [!DNL Auto-Target] 活动
 description: 如何在 [!DNL Analysis Workspace] 以在运行时获得预期结果 [!UICONTROL 自动定位] 活动？
-badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#premium newtab=true" tooltip="See what's included in Target Premium."
-badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#beta newtab=true" tooltip="What are Target Beta release features?"
+badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html#premium newtab=true" tooltip="See what's included in Target Premium."
+badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html#beta newtab=true" tooltip="What are Target Beta release features?"
 role: User
 level: Intermediate
 topic: Personalization, Integrations
@@ -11,9 +11,9 @@ doc-type: tutorial
 thumbnail: null
 kt: null
 exl-id: 58006a25-851e-43c8-b103-f143f72ee58d
-source-git-commit: 952348fa8e8bdba04d543774ba365063ae63eb43
+source-git-commit: 538dfe6a26b4f62c52b24d54a189738677e63bf3
 workflow-type: tm+mt
-source-wordcount: '2647'
+source-wordcount: '2641'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 1%
 本教程将演示为分析而推荐的修改 [!UICONTROL 自动定位] 活动 [!DNL Analysis Workspace]，这些概念基于以下关键概念：
 
 * 的 **[!UICONTROL 控制与目标]** 维度可用于区分 [!UICONTROL 控制] 体验与由提供的体验 [!UICONTROL 自动定位] 集成ML算法。
-* 在查看体验级别的性能划分时，应将访问次数用作标准化量度。 此外， [Adobe Analytics的默认计数方法可能包括用户实际看不到活动内容的访问](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-viewing-reports.html?lang=en#metrics)，但可以使用适当范围的区段修改此默认行为（详细信息如下）。
+* 在查看体验级别的性能划分时，应将访问次数用作标准化量度。 此外， [Adobe Analytics的默认计数方法可能包括用户实际看不到活动内容的访问](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-viewing-reports.html#metrics){target=_blank}，但可以使用适当范围的区段修改此默认行为（详细信息如下）。
 * 访问回顾范围的归因（也称为指定归因模型上的“访问回顾窗口”）由 [!DNL Adobe Target] ML模型（在其培训阶段），在划分目标量度时应使用相同的（非默认）归因模型。
 
 ## 为创建A4T [!UICONTROL 自动定位] 面板 [!DNL Analysis Workspace]
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前， [!UICONTROL 提升度和置信度] 数字不可用于 [!UICONTROL 控制与目标] 用于A4T报表的维度 [!UICONTROL 自动定位]. 在添加支持之前， [!UICONTROL 提升度和置信度] 可通过下载手动计算 [置信度计算器](https://experienceleague.adobe.com/docs/target/assets/complete_confidence_calculator.xlsx?lang=en).
+>目前， [!UICONTROL 提升度和置信度] 数字不可用于 [!UICONTROL 控制与目标] 用于A4T报表的维度 [!UICONTROL 自动定位]. 在添加支持之前， [!UICONTROL 提升度和置信度] 可通过下载手动计算 [置信度计算器](https://experienceleague.adobe.com/docs/target/assets/complete_confidence_calculator.xlsx).
 
 ## 添加体验级别的量度划分
 
@@ -150,7 +150,7 @@ A4T集成允许 [!UICONTROL 自动定位] ML模型为 *训练有素* 使用与 [
 >
 >如果ML模型针对与您在报表中查看的量度不同的量度进行了优化，则这些模型可能不会按预期执行。 要避免这种情况，请确保报表中的目标量度使用与 [!DNL Target] ML型号。
 
-确切的量度定义和归因设置取决于 [优化准则](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#supported) 您在活动创建期间指定。
+确切的量度定义和归因设置取决于 [优化准则](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html#supported){target=_blank} 您在活动创建期间指定。
 
 ### 定位定义的转化，或 [!DNL Analytics] 量度 *最大化每次访问量度值*
 
