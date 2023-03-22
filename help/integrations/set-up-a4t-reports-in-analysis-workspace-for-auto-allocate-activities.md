@@ -2,16 +2,16 @@
 title: 如何在 [!DNL Analysis Workspace] 表示 [!UICONTROL 自动分配] 活动
 description: 如何在 [!DNL Analysis Workspace] 以在运行时获得预期结果 [!UICONTROL 自动分配] 活动。
 role: User
-badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en#beta newtab=true" tooltip="What are Target Beta release features?"
+badgeBeta: label="Beta" type="Informative" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html#beta newtab=true" tooltip="What are Target Beta release features?"
 level: Intermediate
 topic: Personalization, Integrations
 feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 5ba4d0ed2f61822f97fc21e499533113760d6fd2
+source-git-commit: 1dc33affb1e9782f1b9c1d01402124dd40dac436
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1083'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 安 [!DNL Auto-Allocate] 活动可在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间自动为入选者重新分配更多流量。 的 [!UICONTROL Analytics for Target] (A4T)集成 [!UICONTROL 自动分配] 允许您在 [!DNL Adobe Analytics]，您甚至可以在 [!DNL Analytics].
 
-尽管在 [!DNL Adobe Analytics] [!DNL Analysis Workspace]，对默认值进行一些修改 **[!UICONTROL Analytics for Target]** 面板需要正确解释 [!DNL Auto-Allocate] 活动，由于 [优化标准](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#supported).
+尽管在 [!DNL Adobe Analytics] [!DNL Analysis Workspace]，对默认值进行一些修改 **[!UICONTROL Analytics for Target]** 面板需要正确解释 [!DNL Auto-Allocate] 活动，由于 [优化标准](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html#supported){target=_blank}.
 
 本教程将演示为分析而推荐的修改 [!DNL Auto-Allocate] 活动 [!DNL Analysis Workspace]. 主要概念包括：
 
@@ -31,12 +31,12 @@ ht-degree: 0%
 * 当优化量度为 [!DNL Target] 定义的转化量度，默认 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace] 用于配置面板。
 * 适用于所有 [!UICONTROL 自动分配] 活动之前创建 [!DNL Target Standard/Premium] 23.3.1版本（2023年3月28日） [!DNL Analytics Workspace] 和 [!DNL Target] 显示的值与 [!UICONTROL 置信度].
 
-   适用于所有 [!UICONTROL 自动分配] 2023年3月28日之后创建的活动 [!UICONTROL 置信度] 查看的数字 [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=en#section_98388996F0584E15BF3A99C57EEB7629) 如果这些活动 *both* （二）下列条件之一：
+   适用于所有 [!UICONTROL 自动分配] 2023年3月28日之后创建的活动， [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#section_98388996F0584E15BF3A99C57EEB7629){target=_blank} 如果这些活动 *both* （二）下列条件之一：
 
    * [!DNL Analytics] 作为报表源(A4T)
    * [!DNL Analytics] 优化量度
 
-   如果 *both* 这些条件中， [!UICONTROL 置信度] 值应从A4T面板中删除。 请改为在 [!DNL Target] 报表。
+   如果 *both* 其中，应从A4T面板中删除置信度量度。 请改为在 [!DNL Target] 报表。
 
 ## 为创建A4T [!DNL Auto-Allocate] 面板 [!DNL Analysis Workspace]
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    *图4:筛选 [!UICONTROL 独特访客] 按新创建的区段*
 
-3. 转化率可以为 [快速计算](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.html?lang=en) 加亮第一列和第二列，右键单击，选择 **[!UICONTROL 从选定范围中创建量度]** > **[!UICONTROL 除数]**.
+3. 转化率可以为 [快速计算](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.html) 加亮第一列和第二列，右键单击，选择 **[!UICONTROL 从选定范围中创建量度]** > **[!UICONTROL 除数]**.
 
    应删除默认转化率，并将其替换为此新计算量度，如下图所示。 您可能需要编辑新创建的计算量度才能显示为 **[!UICONTROL 格式]** > **[!UICONTROL 百分比]** 最多保留两位小数，如所示。
 
