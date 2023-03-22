@@ -9,7 +9,7 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: dcea80b75953203556ae9ca001afd4b7edd756d2
+source-git-commit: 5ba4d0ed2f61822f97fc21e499533113760d6fd2
 workflow-type: tm+mt
 source-wordcount: '1088'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 * [!UICONTROL 访客] 应始终用作 [!DNL Auto-Allocate] 活动。
 * 当量度为 [!DNL Adobe Analytics] 量度中，转化率的相应分子取决于在活动设置期间选择的优化标准类型。
    * “最大化独特访客转化率”优化标准的转化率为以量度正值表示的独特访客计数的转化率。
-   * “每个访客最大量度值*”的转化率为 [!DNL Adobe Analytics]. 默认情况下，会在 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace].
+   * “每个访客最大量度值”的转化率为 [!DNL Adobe Analytics]. 默认情况下，会在 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace].
 * 当优化量度为 [!DNL Target] 定义的转化量度，默认 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace] 用于配置面板。
 * 适用于所有 [!UICONTROL 自动分配] 活动之前创建 [!DNL Target Standard/Premium] 23.3.1版本（2023年3月28日） [!DNL Analytics Workspace] 和 [!DNL Target] 显示的值与 [!UICONTROL 置信度].
 
