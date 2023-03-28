@@ -9,7 +9,7 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 1dc33affb1e9782f1b9c1d01402124dd40dac436
+source-git-commit: b29362ea45196d09dcbfbceeaaed5bc20467ea16
 workflow-type: tm+mt
 source-wordcount: '1083'
 ht-degree: 0%
@@ -29,9 +29,9 @@ ht-degree: 0%
    * “最大化独特访客转化率”优化标准的转化率为以量度正值表示的独特访客计数的转化率。
    * “每个访客最大量度值”的转化率为 [!DNL Adobe Analytics]. 默认情况下，会在 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace].
 * 当优化量度为 [!DNL Target] 定义的转化量度，默认 **[!UICONTROL Analytics for Target]** 面板 [!DNL Analysis Workspace] 用于配置面板。
-* 适用于所有 [!UICONTROL 自动分配] 活动之前创建 [!DNL Target Standard/Premium] 23.3.1版本（2023年3月28日） [!DNL Analytics Workspace] 和 [!DNL Target] 显示的值与 [!UICONTROL 置信度].
+* 适用于所有 [!UICONTROL 自动分配] 活动之前创建 [!DNL Target Standard/Premium] 23.3.1版本（2023年3月30日） [!DNL Analytics Workspace] 和 [!DNL Target] 显示的值与 [!UICONTROL 置信度].
 
-   适用于所有 [!UICONTROL 自动分配] 2023年3月28日之后创建的活动， [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#section_98388996F0584E15BF3A99C57EEB7629){target=_blank} 如果这些活动 *both* （二）下列条件之一：
+   适用于所有 [!UICONTROL 自动分配] 2023年3月30日之后创建的活动， [!DNL Analysis Workspace] 不反映 [更为保守的统计 [!UICONTROL 自动分配]](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#section_98388996F0584E15BF3A99C57EEB7629){target=_blank} 如果这些活动 *both* （二）下列条件之一：
 
    * [!DNL Analytics] 作为报表源(A4T)
    * [!DNL Analytics] 优化量度
