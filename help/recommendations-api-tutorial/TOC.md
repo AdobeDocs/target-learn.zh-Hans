@@ -1,7 +1,7 @@
 ---
 user-guide-title: 使用Recommendations API
 user-guide-url: /content/help/en/target-learn/recommendations-api-tutorial/recs-api-overview.html
-source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
+source-git-commit: 542ff406fc24df54a2f1b007422492341ea46507
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 # 使用Adobe Target Recommendations API{#recommendations-api-tutorial}
 
 + [Recs API概述](recs-api-overview.md)
-+ [使用API管理目录](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=&quot;_blank&quot;}
-+ [管理自定义标准](https://developer.adobe.com/target/before-administer/recs-api/manage-custom-criteria/){target=&quot;_blank&quot;}
-+ [将交付API与Recommendations结合使用](https://developer.adobe.com/target/before-administer/recs-api/fetch-recs-server-side-delivery-api/){target=&quot;_blank&quot;}
++ [使用API管理目录](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html){target="_blank"}
++ [管理自定义标准](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-custom-criteria.html){target="_blank"}
++ [将交付API与Recommendations结合使用](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/fetch-recs-server-side-delivery-api.html){target="_blank"}
 
 <!--+ [Debug API calls](6debug.md)
 + [Download the Calculated Recommendations CSV](7download-calc-recs-csv.md)-->

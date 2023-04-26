@@ -9,7 +9,7 @@ doc-type: tutorial
 kt: 3815
 author: Judy Kim
 exl-id: 10f80056-fb71-4362-86bc-d161f596cb91
-source-git-commit: cee2618bb92284da1f82d108a0aff0d39340a15b
+source-git-commit: 542ff406fc24df54a2f1b007422492341ea46507
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 3%
@@ -41,7 +41,7 @@ ht-degree: 3%
 
 ## 先决条件
 
-使用Target管理员API需要 [Adobe身份验证设置](https://developer.adobe.com/target/before-administer/configure-authentication/){target=&quot;_blank&quot;}。 请确保在开始本教程之前已配置此功能。
+使用Target管理员API需要 [Adobe身份验证设置](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html){target="_blank"}. 请确保在开始本教程之前已配置此功能。
 
 ## 资源
 
@@ -52,4 +52,4 @@ ht-degree: 3%
 | Postman | 获取 [Postman应用程序](https://www.postman.com/downloads/) 操作系统。 Postman Basic免费创建帐户。 虽然通常使用Adobe Target API并非必需，但Postman可简化API工作流程，而且Adobe Target提供了多个Postman集合来帮助执行其API并了解它们的操作方式。 本教程的其余部分假定您具有Postman的工作知识。 如需帮助，请参考 [Postman文档](https://learning.getpostman.com/). |
 | 引用 | 在本教程的其余部分中，我们假定您熟悉以下资源：<UL><li>[Adobe I/OGithub](https://github.com/adobeio)</li><li>[TargetAdobe I/O文档](https://developers.adobetarget.com/api/#introduction)</li><li>[Recommendations API文档](https://developers.adobetarget.com/api/recommendations/)</li></ul> |
 
-[下一课程“管理Recommendations目录”>](https://developer.adobe.com/target/before-administer/recs-api/manage-catalog/){target=&quot;_blank&quot;}
+[下一课程“管理Recommendations目录”>](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html){target="_blank"}
