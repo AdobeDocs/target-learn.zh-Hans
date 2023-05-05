@@ -5,10 +5,10 @@ role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: bfb985f8f4d4d354b39dffacdda8c81fe828b9f1
+source-git-commit: 081475bb9928ba169e2a068c06456a415ed28124
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 15%
+source-wordcount: '429'
+ht-degree: 18%
 
 ---
 
@@ -115,11 +115,11 @@ ht-degree: 15%
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
-    <strong>在单页应用程序(SPA)中实施Adobe Target的at.js 2.0</strong>
+    <strong>在 SPA 中实施 at.js 2.0</strong>
     </a>
     </div>
     <p>
-    <em> 了解如何在SPA中实施at.js 2.0（及更高版本）。</em>
+    <em> 了解如何在单页应用程序(SPA)中实施Adobe Target的at.js 2.0（及更高版本）。</em>
     <p>
   </td>
   <td>
@@ -132,7 +132,7 @@ ht-degree: 15%
     </a>
     </div>
     <p>
-    <em>了解如何使用Adobe Experience Cloud Debugger了解您的 [!DNL Target] 实施。 了解如何快速查看库配置、检查请求以确保自定义参数正确传递、打开控制台日志记录以及禁用所有 [!DNL Target] 请求，并使用Mbox跟踪工具。</em>
+    <em>了解如何使用Adobe Experience Cloud Debugger了解您的 [!DNL Target] 实施。</em>
     <p>
   </td>
 </tr>
