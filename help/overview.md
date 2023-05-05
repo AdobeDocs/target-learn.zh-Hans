@@ -5,10 +5,10 @@ role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: cc9f5d26ff0b2fdce1209e777838738e3b03bd47
+source-git-commit: bfb985f8f4d4d354b39dffacdda8c81fe828b9f1
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 11%
+source-wordcount: '464'
+ht-degree: 15%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->除本指南外，还有以下内容 [!DNL Adobe Target] 指南也可用：
+>除本指南外，还提供了以下 [!DNL Adobe Target] 指南：
 >
 >* *[Adobe Target 从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=zh-Hans){target=_blank}*
 >
@@ -29,56 +29,111 @@ ht-degree: 11%
 
 以下是新资源：
 
-### 在中设置A4T报表 [!DNL Analysis Workspace] 表示 [!DNL Auto-Allocate] 活动
+* **[在中设置A4T报表 [!DNL Analysis Workspace] 表示 [!DNL Auto-Allocate] 活动](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.md){target=_blank}**
 
-对于业务从业者：的 [!UICONTROL Analytics for Target] (A4T)集成 [!UICONTROL 自动分配] 允许您在 [!DNL Adobe Analytics]，您甚至可以在 [!DNL Analytics]. 请参阅 [在中设置A4T报表 [!DNL Analysis Workspace] 表示 [!DNL Auto-Allocate] 活动](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.md).
+   *对于业务从业者：的 [!UICONTROL Analytics for Target] (A4T)集成 [!UICONTROL 自动分配] 允许您在 [!DNL Adobe Analytics]，您甚至可以在 [!DNL Analytics].*
 
-### 在 [!DNL Analysis Workspace] 中为[!UICONTROL 自动定位]活动设置 A4T 报表
 
-对于业务从业者：您是否在使用A4T [!UICONTROL 自动定位]? 请按照以下步骤在中配置A4T报表 [!DNL Analysis Workspace] 确保运行时获得预期结果 [!UICONTROL 自动定位] 活动。 请参阅 [在中设置A4T报表 [!DNL Analysis Workspace] 表示 [!UICONTROL 自动定位] 活动](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md).
+* **[在  [!DNL Analysis Workspace]  中为[!UICONTROL 自动定位]活动设置 A4T 报表](integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md){target=_blank}**
 
-### 设备上决策
+   *对于业务从业者：您是否在使用A4T [!UICONTROL 自动定位]? 请按照以下步骤在中配置A4T报表 [!DNL Analysis Workspace] 确保运行时获得预期结果 [!UICONTROL 自动定位] 活动。*
 
-对于架构师：开始使用 [!UICONTROL 设备内决策] 为消费者提供接近零的延迟体验。 请参阅 [设备内决策概述](implementation/on-device-decisioning-overview.md).
+* **[设备上决策](implementation/on-device-decisioning-overview.md)**
 
-### 迁移 [!DNL Target] 从at.js 2.*x* to [!DNL Adobe Experience Platform Web SDK]
+   *对于架构师：开始使用 [!UICONTROL 设备内决策] 为消费者提供接近零的延迟体验。*
 
-了解如何迁移 [!DNL Target] at.js实施到 [!DNL Adobe Experience Platform Web SDK]. 请参阅 [迁移 [!DNL Target] 从at.js 2.x到 [!DNL Platform Web SDK]](https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html){target=_blank} 在 *Adobe Experience PlatformTutorials指南*.
+* **[迁移 [!DNL Target] 从at.js 2.x到 [!DNL Platform Web SDK]](https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html){target=_blank}**
+
+   *了解如何迁移 [!DNL Target] at.js实施到 [!DNL Adobe Experience Platform Web SDK].*
 
 ## 最受欢迎视频
 
-Target客户最常访问以下视频：
-
-### 设备上决策概述
-
->[!VIDEO](https://video.tv.adobe.com/v/329032/?quality=12)
-
-有关更多信息，请参阅 [设备内决策概述](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html){target=_blank} 在 *Adobe Target开发人员指南*.
-
-### 简介 [!DNL Adobe Target] 实施
-
->[!VIDEO](https://video.tv.adobe.com/v/35139/?quality=12)
-
-有关更多信息，请参阅 [客户端实施](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html){target=_blank} or [Server-side implementation](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/server-side-overview.html){target=_blank} 在 *[!UICONTROL Adobe Target开发人员指南]*.
-
-### 在中创建配置文件脚本 [!DNL Adobe Target]
-
->[!VIDEO](https://video.tv.adobe.com/v/17394/?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html"> 
+      <img alt="设备上决策概述" src="./assets/329032.png"/>
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html">
+    <strong>设备上决策概述</strong>
+    </a>
+    </div>
+    <!--- <p>
+    <em>Learn how to implement the Adobe Target extension with a page load request and custom parameters.</em>
+    <p> --->
+  </td>
+   <td>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html">
+      <img alt="Adobe Target实施简介" src="./assets/35139.png" />
+    </a>
+    <div>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html">
+    <strong>Adobe Target实施简介</strong>
+    </a>
+    </div>
+    <!--- <p>
+    <em> Learn how to implement at.js 2.0 (and later) in SPAs.</em>
+    <p> --->
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-profile-scripts.html">
+      <img alt="在Adobe Target中创建配置文件脚本" src="./assets/17394.png" />
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-profile-scripts.html">
+    <strong>在Adobe Target中创建配置文件脚本</strong>
+    </a>
+    </div>
+    <!--- <p>
+    <em>Learn how to use the Adobe Experience Cloud Debugger to understand your [!DNL Target] implementation. Learn how to quickly view your library configuration, examine requests to make sure that your custom parameters are being passed correctly, turn on console logging, and disable all [!DNL Target] requests, and use the Mbox Trace tool.</em>
+    <p> --->
+  </td>
+</tr>
+</table>
 
 ## 员工挑选
 
-的 [!DNL Adobe Target] 工作人员建议提供以下资源：
-
-### 使用Adobe Experience Platform标记实施Target
-
-了解如何使用页面加载请求和自定义参数实施Adobe Target扩展。 有关更多信息，请参阅 [添加Adobe Target](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target=_blank} 在 *在网站中使用标记实施教程指南*.
-
-### 在单页应用程序(SPA)中实施at.js 2.0
-
-了解如何在SPA中实施at.js 2.0（及更高版本）。 有关更多信息，请参阅 [在单页应用程序(SPA)中实施Adobe Target的at.js 2.0](implementation/implement-atjs-20-in-a-single-page-application.md).
-
-### 使用Experience Cloud Debugger对Target进行故障诊断
-
-了解如何使用Adobe Experience Cloud Debugger了解您的 [!DNL Target] 实施。 了解如何快速查看库配置、检查请求以确保自定义参数正确传递、打开控制台日志记录以及禁用所有 [!DNL Target] 请求，并使用Mbox跟踪工具。 有关更多信息，请参阅 [故障诊断 [!DNL Target] 和 [!DNL Experience Cloud Debugger]](troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md).
-
-
+<table>
+<tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html"> 
+      <img alt="使用Adobe Experience Platform标记实施Target" src="./assets/add-adobe-target.png"/>
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html">
+    <strong>使用Adobe Experience Platform标记实施Target</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解如何使用页面加载请求和自定义参数实施Adobe Target扩展。</em>
+    <p>
+  </td>
+   <td>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
+      <img alt="在单页应用程序(SPA)中实施Adobe Target的at.js 2.0" src="./assets/26248.png" />
+    </a>
+    <div>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
+    <strong>在单页应用程序(SPA)中实施Adobe Target的at.js 2.0</strong>
+    </a>
+    </div>
+    <p>
+    <em> 了解如何在SPA中实施at.js 2.0（及更高版本）。</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html">
+      <img alt="使用Experience Cloud Debugger对Target进行故障诊断" src="./assets/23115.png" />
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html">
+    <strong>使用Experience Cloud Debugger对Target进行故障诊断</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解如何使用Adobe Experience Cloud Debugger了解您的 [!DNL Target] 实施。 了解如何快速查看库配置、检查请求以确保自定义参数正确传递、打开控制台日志记录以及禁用所有 [!DNL Target] 请求，并使用Mbox跟踪工具。</em>
+    <p>
+  </td>
+</tr>
+</table>
