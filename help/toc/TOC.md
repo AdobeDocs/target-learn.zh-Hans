@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe Target 教程
 user-guide-url: /content/help/en/target-learn/tutorials/overview.html
-source-git-commit: 398828af41f4d2a1d7620d8a7d1c290aae2cf34a
+source-git-commit: a61bec9451517f85db2d421b7cf09015d302b2aa
 workflow-type: tm+mt
 source-wordcount: '446'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 7%
    + [将Target与Experience Cloud受众集成](../dev101/3.4-target-exc-audiences.md)
    + [将 Target 与 Campaign 集成](../dev101/3.6-target-campaign.md)
    + [将Target与Adobe Developer控制台集成](../dev101/3.7-target-io.md)
-   + [将Target与Real-Time CDP集成]{#rtcdp}
+   + 将Target与Real-Time CDP集成{#rtcdp}
       + [使用Adobe Target实现下一次点击个性化](../integrations/rtcdp/next-hit-personalization.md)
       + [配置Adobe Target目标](../integrations/rtcdp/configure-the-target-destination.md)
       + [激活区段和配置文件属性](../integrations/rtcdp/activate-segments-and-profile-attributes.md)
