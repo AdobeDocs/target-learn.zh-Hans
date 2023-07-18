@@ -2,8 +2,10 @@
 title: 用于个性化测试和路线图创建的快速入门
 description: 了解一个框架，您可以使用它来开始验证个性化活动，并创建要通过Adobe Target和Adobe Analytics执行的个性化路线图。
 solution: Target,Analytics
+level: Intermediate
+role: Leader, Architect, Developer, Admin
 exl-id: c0b6f9a0-7074-4e25-81e6-9781a54e2156
-source-git-commit: 389f754ff909752d89f74a2d6c698fc9f5d8c354
+source-git-commit: 20bd1eb17ef6e287f7b76e14f727456e12d6f115
 workflow-type: tm+mt
 source-wordcount: '1420'
 ht-degree: 0%

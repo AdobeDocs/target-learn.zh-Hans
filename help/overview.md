@@ -3,9 +3,10 @@ title: 了解如何使用Adobe Target
 description: 了解如何使用 [!DNL Adobe Target] 此教程和视频集合涵盖了它的所有组件。
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
+feature: Overview
 topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
-source-git-commit: fd4c69b1bf66da4e30dd38ed3e6cdec8906a4fa5
+source-git-commit: 20bd1eb17ef6e287f7b76e14f727456e12d6f115
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 29%
@@ -23,7 +24,6 @@ ht-degree: 29%
 >* *[Adobe Target 从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=zh-Hans){target=_blank}*
 >
 >* *[Adobe Target 开发人员指南](https://experienceleague.adobe.com/docs/target-dev/developer/overview.html?lang=zh-Hans){target=_blank}*
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

@@ -2,8 +2,10 @@
 title: 优化Adobe Target实施
 description: 大致了解Adobe Target的实施和结构。 了解如何了解和审核贵组织的设置。 了解为团队创建知识存储库的常见故障排除技巧和提示。
 solution: Target
+feature: Overview
+role: Leader, User
 exl-id: 49b69f41-0993-437c-bb69-84392be427df
-source-git-commit: 389f754ff909752d89f74a2d6c698fc9f5d8c354
+source-git-commit: 20bd1eb17ef6e287f7b76e14f727456e12d6f115
 workflow-type: tm+mt
 source-wordcount: '1148'
 ht-degree: 0%
