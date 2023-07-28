@@ -8,9 +8,9 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: ef9e4667ab6e264f0dd324bfd8a7a14783952078
+source-git-commit: 99d49995ec7e3dd502a149376693e2770f3e2a9d
 workflow-type: tm+mt
-source-wordcount: '1290'
+source-wordcount: '1287'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,6 @@ An [!DNL Auto-Allocate] 活动可识别两个或更多体验中的入选者，�
 
 为创建A4T面板 [!DNL Auto-Allocate] 报告开始于 **[!UICONTROL 目标分析]** 面板位于 [!DNL Analysis Workspace]，如下所示。 然后，进行以下选择：
 
-1. 添加活动。
 1. **[!UICONTROL 控制体验]**：您可以选择任意体验。
 1. **[!UICONTROL 标准化量度]**：选择访客（默认情况下，访客包含在A4T面板中）。 [!DNL Auto-Allocate] 始终按独特访客标准化转化率。
 1. **[!UICONTROL 成功量度]**：选择您在活动创建期间使用的相同量度。 如果这是 [!DNL Target] 定义的转化量度，选择 **活动转换**. 否则，选择 [!DNL Adobe Analytics] 您使用的量度。
