@@ -8,9 +8,9 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 8ef61ac0abf008039561bebe7d8d20b84f447487
+source-git-commit: dddb90e66d127782d4fe1347bd43553cd8c04d58
 workflow-type: tm+mt
-source-wordcount: '1302'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ An [!DNL Auto-Allocate] 活动可识别两个或更多体验中的入选者，�
 
 * [!UICONTROL 访客] 应始终用作中的标准化指标 [!DNL Auto-Allocate] 活动。
 * 当指标为 [!DNL Adobe Analytics] 量度，转化率的计算会有所不同，具体取决于活动设置期间定义的优化标准的类型。
-   * “每位访客的最大量度值”转化率：分子是中的常规量度值 [!DNL Adobe Analytics] (默认情况下，这在 [!UICONTROL 目标分析] 面板位于 [!DNL Analysis Workspace])。
+   * “每位访客的量度值最大化”：转化率分子是中的常规量度值 [!DNL Adobe Analytics] (默认情况下，这在 [!UICONTROL 目标分析] A中的面板[!DNL nalysis Workspace])。
       * 这意味着：最大化每个访客的转化次数（“为每个访客统计每个转化次数”）。
       * 此方法不需要额外的区段来匹配中显示的转化率。 [!DNL Target] UI。
-   * “最大独特访客转化率”转化率：分子是指具有正量度值的独特访客的计数。
+   * “最大化独特访客转化率”：转化率分子是指具有正量度值的独特访客的计数。
       * 这意味着：转化访客的数量达到最大值（“每位访客计数一次）。
       * 此方法 *DOES* 需要在报表中创建额外的区段，以匹配中显示的转化率。 [!DNL Target] UI。
 
@@ -74,7 +74,7 @@ An [!DNL Auto-Allocate] 活动可识别两个或更多体验中的入选者，�
 
 ![[!UICONTROL Analytics for Target — 自动分配报表] 面板](assets/AAFigure2.png)
 
-*图2：建议的报表 [!DNL Auto-Allocate] 具有的活动 [!DNL Analytics] 量度“每个访客的量度值最大化优化”标准。 对于这些类型的量度，以及 [!DNL Target] 定义的转化量度，默认&#x200B;**[!UICONTROL 目标分析]**面板位于 [!DNL Analysis Workspace] 可以使用。*
+*图2：建议的报表 [!DNL Auto-Allocate] 具有的活动 [!DNL Analytics] 量度“每位访客的量度值最大化”优化标准。 对于这些类型的量度，以及 [!DNL Target] 定义的转化量度，默认&#x200B;**[!UICONTROL 目标分析]**面板位于 [!DNL Analysis Workspace] 可以使用。*
 
 ## [!DNL Analytics] 具有“最大独特访客转化率”优化标准的量度
 
