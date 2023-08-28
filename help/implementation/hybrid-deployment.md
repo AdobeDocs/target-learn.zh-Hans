@@ -1,6 +1,6 @@
 ---
 title: 混合部署选项
-description: 请观看此视频，了解Adobe Target独特的个性化混合部署模型 — 将客户端和服务器端实施混合在一起。
+description: 观看此视频，了解Adobe Target用于个性化的独特混合部署模型 — 混合客户端和服务器端实施。
 role: Developer, Architect
 level: Beginner
 topic: Personalization, Architecture, Development
@@ -9,24 +9,24 @@ doc-type: feature video
 kt: 6165
 team: Evangelism
 exl-id: e669d773-494f-4eb7-82da-6b3f23508d9f
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: 17d2bc2929eed3c029705c3842c902141c639f02
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
 # Adobe Target混合部署
 
-Adobe Target为个性化提供了独特的混合部署模型 — 将客户端和服务器端实施混合在一起。 此混合模型允许非技术用户使用WYSIWYG可视化体验编辑器创作实验或个性化活动，并让服务器端执行、交付和渲染以实现高性能交付。 
+Adobe Target提供了独特的混合部署模型以进行个性化 — 将客户端和服务器端实施混合在一起。 此混合模型允许非技术用户使用WYSIWYG Visual Experience Composer创作实验或个性化活动，并让服务器端执行、交付和渲染，从而实现高性能交付。
 
 ## 目标
 
-在本视频结束时，您将：
+在此视频结束时，您将执行以下操作：
 
-* 了解Adobe Target的混合部署要求
+* 了解Adobe Target的混合部署包含哪些内容
 * 了解混合部署的好处
-* 观察混合部署可减少的服务器调用数量
+* 观察混合部署实现的服务器调用减少
 
 ## 目标受众
 
@@ -37,5 +37,5 @@ Adobe Target为个性化提供了独特的混合部署模型 — 将客户端和
 
 ## 其他资源
 
-* [设备内决策概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en#implementation)
+* [设备上决策概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en#implementation)
 * [Adobe Target SDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)
