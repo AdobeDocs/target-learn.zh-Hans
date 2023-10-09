@@ -8,7 +8,7 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 194579db80fdac60e204e36ab769975be2795eee
+source-git-commit: d85e6510bf5243a4a37edff5d0ce9342af3162e2
 workflow-type: tm+mt
 source-wordcount: '1575'
 ht-degree: 0%
@@ -52,13 +52,13 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
    此 [!UICONTROL 列] 设置对话框显示：
 
-   ![列设置对话框](/help/integrations/assets/column-settings-dialog-box.png)
+   ![列设置对话框](/help/integrations/assets/column-settings-dialog-box.png){width="200"}
 
 1. 取消选择 **[!UICONTROL 百分比]** 复选框。
 
-您的A4T面板现在不包含百分比作为转化率和匹配项 [!DNL Target]，如下所示：
+   您的A4T面板现在不包含百分比作为转化率和匹配项 [!DNL Target]，如下所示：
 
-![显示无百分比的“转化率”列](/help/integrations/assets/no-percentages.png)
+   ![显示无百分比的“转化率”列](/help/integrations/assets/no-percentages.png)
 
 ### 在A4T面板中对齐日期和时间 {#aligning-date-and-time}
 
@@ -160,9 +160,9 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 1. 将您新创建的“转化率”量度拖放到现有面板中。
 1. 单击齿轮图标，然后取消选择 **[!UICONTROL 百分比]** 复选框，因为此值可能会导致混淆。
 
-正确配置报告应产生如下图所示的结果：
+   正确配置报告应产生如下图所示的结果：
 
-![A4T面板报表中的独特访问转化率](/help/integrations/assets/a4t-aa-maximize-metric-value-revenue.png)
+   ![A4T面板报表中的独特访问转化率](/help/integrations/assets/a4t-aa-maximize-metric-value-revenue.png)
 
 ## [!DNL Target]定义的转化率
 
