@@ -8,9 +8,9 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 3afbb97e2276ed98ea05e254026c8943acc6fee0
+source-git-commit: 9761412ba2f60e91152a6fd5ad9e50ec0df0adba
 workflow-type: tm+mt
-source-wordcount: '1582'
+source-wordcount: '1590'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 您可以导航到预建的 [!UICONTROL 目标分析] 面板中，单击报表屏幕中的链接 [!UICONTROL Adobe Target] (本指南后面部分将此项称为&quot;[!DNL Target] — 触发的报告”)。 或者，也可以在中构建A4T面板 [!DNL Analytics] （本节后面部分提供了详细信息）。
 
-以下部分根据您选择的方法指定所需的配置：
+以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可用作总体指导：
 
 * 无论使用何种面板创建方法，都应从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为引用这些值 [!DNL Target] 报表。 此外，还可以在以下位置确定活动入选者： [!DNL Target] 报表。 有关活动入选者标识的详细信息，请参阅 [确定活动入选者](#winner) 部分。
 >>
@@ -76,7 +76,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 >
 “尚未有入选者”和“入选者”徽章在中的A4T面板中不可用 [!DNL Analysis Workspace]. 此外，入选的“star”徽章会显示在 [!DNL Target] 报告 [!UICONTROL 自动分配] 活动应被忽略。 有关更多信息，请参阅 [自动分配](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#aa){target=_blank} 在 *自动分配和自动定位活动支持A4T* 在 *[!UICONTROL Adobe Target商业从业者指南]*.
 
-## 为创建A4T [!UICONTROL 自动分配] 面板位于 [!DNL Analysis Workspace]
+### 为创建A4T [!UICONTROL 自动分配] 面板位于 [!DNL Analysis Workspace]
 
 1. 为创建A4T面板 [!UICONTROL 自动分配] 活动报表，从 [!UICONTROL 目标分析] 面板位于 [!DNL Analysis Workspace]，如下所示。
 
@@ -94,11 +94,11 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 要配置报表，请在A4T报表中进行以下更改：
 
-![最大限度地实现收入的量度值](/help/integrations/assets/maximize-metric-value-revenue.png)
-
 | 所需更改 | [!DNL Target]触发的报告 | A4T面板报告 |
 | --- | --- | --- |
 | 最大化量度值 [!DNL Analytics] 量度 | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>转化率量度应重命名为“量度/访客”。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 有关更多信息，请参阅 [总体指导](#guidance) 以上。</li></ul> | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>转化率量度应重命名为“量度/访客”。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 有关更多信息，请参阅 [总体指导](#guidance) 以上。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 有关更多信息，请参阅 [总体指导](#guidance) 以上。</li></ul> |
+
+![最大限度地实现收入的量度值](/help/integrations/assets/maximize-metric-value-revenue.png)
 
 ## [!DNL Analytics] 带有&quot;[!UICONTROL 独特访客转化率]»优化标准
 
