@@ -8,16 +8,16 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: 352f334e2ca8c1d0be3ff0f89482b97500685174
+source-git-commit: 78e5b5f7fa8f4c1a08c06c6d2b0e1a5242cd464c
 workflow-type: tm+mt
-source-wordcount: '1545'
+source-wordcount: '1554'
 ht-degree: 0%
 
 ---
 
 # 在中设置A4T报表 [!DNL Analysis Workspace] 对象 [!DNL Auto-Allocate] 活动
 
-An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配访客流量。 此 [!UICONTROL 目标分析] (A4T)集成 [!UICONTROL 自动分配] 允许您在中查看报表数据 [!DNL Adobe Analytics]，并且您可以优化中定义的自定义事件或量度 [!DNL Analytics].
+An [[!UICONTROL 自动分配] 活动](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html){target=_blank} 在 [!DNL Adobe Target] 在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配访客流量。 此 [!UICONTROL 目标分析] (A4T)集成 [!UICONTROL 自动分配] 允许您在中查看报表数据 [!DNL Adobe Analytics]，并且您可以优化中定义的自定义事件或量度 [!DNL Analytics].
 
 尽管中提供了丰富的分析功能， [!DNL Adobe Analytics] [!DNL Analysis Workspace]，对默认进行了一些修改 [!UICONTROL 目标分析] 可能需要面板才能正确解释 [!UICONTROL 自动分配] 活动。 由于中的细微差别，需要进行这些修改 [优化量度标准](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html#supported){target=_blank}.
 
@@ -40,7 +40,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 | 所需更改 | [!DNL Target]触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| 最大化量度值 [!DNL Analytics] 量度 | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li><li>转化率量度应重命名为“量度/访客”。</li></ul> | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li><li>转化率量度应重命名为“量度/访客”。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [总体指导](#guidance) 下。</li></ul> |
+| 最大化量度值 [!DNL Analytics] 量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 ![最大限度地实现收入的量度值](/help/integrations/assets/maximize-metric-value-revenue.png)
 
@@ -58,7 +58,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 | 所需更改 | 目标触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| 最大限度地提高 [!DNL Analytics] 量度 | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>全部 [!UICONTROL 提升] 指标应被删除。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li></ul> | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>全部 [!UICONTROL 提升] 指标应被删除。</li><li>创建一个区段以筛选具有正量度值的访客，这些访客查看了分析的活动。 请参阅 [创建区段](#segment) 下。</li><li>替换自动填充的 [!UICONTROL 转化率] 量度，因此是以下两个指标之间的分界线 [!UICONTROL 独特访客] 具有正的量度值和独特访客。 请参阅 [更新转化率量度](#update-conversion-metric) 下。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [总体指导](#guidance) 下。</li></ul> |
+| 最大限度地提高 [!DNL Analytics] 量度 | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>全部移除 [!UICONTROL 提升] 量度。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>全部移除 [!UICONTROL 提升] 量度。</li><li>创建一个区段以筛选具有正量度值的访客，这些访客查看了分析的活动。 请参阅 [创建区段](#segment) 下。</li><li>替换自动填充的 [!UICONTROL 转化率] 量度，因此是以下两个指标之间的分界线 [!UICONTROL 独特访客] 具有正的量度值和独特访客。 请参阅 [更新转化率量度](#update-conversion-metric) 下。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 ### 默认A4T面板报告 — 其他指南
 
@@ -101,7 +101,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 1. 单击&#x200B;**[!UICONTROL 保存]**。
 
-1. 将您新创建的“转化率”量度拖放到现有面板中。
+1. 将新创建的“转化率”指标拖放到现有面板中。
 1. 单击齿轮图标，然后取消选择 **[!UICONTROL 百分比]** 复选框，因为此值可能会导致混淆。
 
    正确配置报告应产生如下图所示的结果：
@@ -114,19 +114,19 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 | 所需更改 | 目标触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| [!DNL Analytics] 报告 [!DNL Target] 转化量度 | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li></ul> | <ul><li>[!UICONTROL 置信度] 指标应被删除。</li><li>[!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 应该删除。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [总体指导](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [总体指导](#guidance) 下。</li></ul> |
+| [!DNL Analytics] 报告 [!DNL Target] 转化量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 正确配置报告应产生如下图所示的结果：
 
 ![活动转化](/help/integrations/assets/optimized-table.png)
 
-## 总体指导 [!UICONTROL 目标分析] (A4T) {#guidance}
+## A4T总体指南 {#guidance}
 
-您可以导航到预建的 [!UICONTROL 目标分析] 面板中，单击报表屏幕中的链接 [!UICONTROL Adobe Target] (本指南后面部分将此项称为&quot;[!DNL Target] — 触发的报告”)。 或者，也可以在中构建A4T面板 [!DNL Analytics] （本节后面部分提供了详细信息）。
+您可以导航到预建的 [!UICONTROL 目标分析] 面板中，单击报表屏幕中的链接 [!UICONTROL Target] (本指南后面部分将此项称为&quot;[!DNL Target] — 触发的报告”)。 或者，也可以在中构建A4T面板 [!DNL Analytics] （本节后面部分提供了详细信息）。
 
-以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可用作总体指导：
+以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可作为A4T的整体指导：
 
-* 无论使用何种面板创建方法，都应从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为引用这些值 [!DNL Target] 报表。 此外，还可以在以下位置确定活动入选者： [!DNL Target] 报表。 有关活动入选者标识的详细信息，请参阅 [确定活动入选者](#winner) 部分。
+* 无论使用何种面板创建方法，都从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为引用这些值 [!DNL Target] 报表。 此外，还可以在以下位置确定活动入选者： [!DNL Target] 报表。 有关活动入选者标识的详细信息，请参阅 [确定活动入选者](#winner) 部分。
 >>
 * 为避免混淆，请取消选中“[!UICONTROL 百分比]”演示 [!UICONTROL 转化率] 量度。 请参阅 [隐藏百分比 [!UICONTROL 转化率] 列](#hide-percentage) 下。
 >>
@@ -144,7 +144,7 @@ An [!UICONTROL 自动分配] 中的活动 [!DNL Adobe Target] 在两个或更多
 
 1. 取消选择 **[!UICONTROL 百分比]** 复选框。
 
-   您的A4T面板现在不包含百分比作为转化率和匹配项 [!DNL Target]，如下所示：
+   您的A4T面板现在不包含百分比作为 [!UICONTROL 转化率] 和匹配 [!DNL Target]，如下所示：
 
    ![显示无百分比的“转化率”列](/help/integrations/assets/no-percentages.png)
 
