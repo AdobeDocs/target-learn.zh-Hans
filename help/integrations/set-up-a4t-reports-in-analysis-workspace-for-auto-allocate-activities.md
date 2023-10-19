@@ -8,9 +8,9 @@ feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-source-git-commit: b820a3f8a964d88027de5c27b45a76fcc878042d
+source-git-commit: 190a67832f378e15090115420bfaf8a4af4b9cb9
 workflow-type: tm+mt
-source-wordcount: '1552'
+source-wordcount: '1566'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ An [[!UICONTROL 自动分配] 活动](https://experienceleague.adobe.com/docs/ta
 
 | 所需更改 | [!DNL Target]触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| 最大化量度值 [!DNL Analytics] 量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
+| 最大化量度值 [!DNL Analytics] 量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）]. 保留 [!UICONTROL 提升(Med)].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）] 保留 [!UICONTROL 提升(Med)].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>重命名 [!UICONTROL 转化] 将量度评为“量度/访客”。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 ![最大限度地实现收入的量度值](/help/integrations/assets/maximize-metric-value-revenue.png)
 
@@ -58,7 +58,7 @@ An [[!UICONTROL 自动分配] 活动](https://experienceleague.adobe.com/docs/ta
 
 | 所需更改 | 目标触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| 最大限度地提高 [!DNL Analytics] 量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>全部移除 [!UICONTROL 提升] 量度。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>全部移除 [!UICONTROL 提升] 量度。</li><li>创建一个区段以筛选具有正量度值的访客，这些访客查看了分析的活动。 请参阅 [创建区段](#segment) 下。</li><li>替换自动填充的 [!UICONTROL 转化率] 量度，因此是以下两个指标之间的分界线 [!UICONTROL 独特访客] 具有正的量度值和独特访客。 请参阅 [更新转化率量度](#update-conversion-metric) 下。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
+| 最大限度地提高 [!DNL Analytics] 量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>删除所有三项 [!UICONTROL 提升] 量度。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>删除所有三项 [!UICONTROL 提升] 量度。</li><li>创建一个区段以筛选具有正量度值的访客，这些访客查看了分析的活动。 请参阅 [创建区段](#segment) 下。</li><li>替换自动填充的 [!UICONTROL 转化率] 量度，因此是以下两个指标之间的分界线 [!UICONTROL 独特访客] 具有正的量度值和独特访客。 请参阅 [更新转化率量度](#update-conversion-metric) 下。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 ### 默认A4T面板报告 — 其他指南
 
@@ -114,7 +114,7 @@ An [[!UICONTROL 自动分配] 活动](https://experienceleague.adobe.com/docs/ta
 
 | 所需更改 | 目标触发的报告 | A4T面板报告 |
 | --- | --- | --- |
-| [!DNL Analytics] 报告 [!DNL Target] 转化量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
+| [!DNL Analytics] 报告 [!DNL Target] 转化量度 | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）]. 保持提升(Med)。</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> | <ul><li>移除 [!UICONTROL 置信度] 量度。</li><li>移除 [!UICONTROL 提升（低）] 和 [!UICONTROL 提升（高）]. 保留 [!UICONTROL 提升(Med)].</li><li>取消选中百分比演示 [!UICONTROL 转化率] 列以避免混淆。 请参阅 [A4T总体指南](#guidance) 下。</li><li>确保日期和时间范围与您在中看到的值一致 [!DNL Target] 报告。 请参阅 [A4T总体指南](#guidance) 下。</li></ul> |
 
 正确配置报告应产生如下图所示的结果：
 
