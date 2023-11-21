@@ -1,6 +1,6 @@
 ---
-title: 如何使用Target跟踪进行故障诊断
-description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。了解如何在Experience Cloud中进行身份验证，以及如何使用功能强大的Target跟踪工具来检查您的活动和受众资格以及访客资料。
+title: 如何对Target跟踪进行故障排除
+description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。了解如何在Experience Cloud中进行身份验证，并使用功能强大的Target跟踪工具检查您的活动、受众资格以及访客资料。
 role: User
 level: Intermediate
 topic: Personalization, Performance
@@ -9,22 +9,15 @@ doc-type: feature video
 kt: null
 author: Daniel Wright
 exl-id: 5a38ac7f-a75a-43a8-8034-5735676b6be2
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: ae01d24a1313ecfcee9fb0fa865fa724405ac7ad
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 17%
+source-wordcount: '55'
+ht-degree: 30%
 
 ---
 
-# 使用Target跟踪进行故障诊断
+# Target跟踪疑难解答
 
 ## Mbox 跟踪
 
 >[!VIDEO](https://video.tv.adobe.com/v/23113/?quality=12)
-
-## 其他资源
-
-* [Adobe Experience Cloud Debugger（在Chrome应用商店中）](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* [Target故障诊断帮助文档](https://experienceleague.adobe.com/docs/target/using/troubleshoot/troubleshooting-target.html?lang=en)
-* [使用Experience Cloud Debugger视频对Target进行故障诊断](troubleshoot-with-the-experience-cloud-debugger.md)
-* [如何使用Experience Cloud Debugger视频](https://experienceleague.adobe.com/docs/debugger-learn/tutorials/experience-cloud-debugger/use-the-experience-cloud-debugger.html?lang=en)
