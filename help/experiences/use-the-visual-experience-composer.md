@@ -12,26 +12,26 @@ kt: null
 exl-id: 3c3985c8-f033-40a1-a39e-8c2f41208d17
 source-git-commit: 72f7cfcc95bbfbe1bb054f98246305f25ce5cc0f
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 38%
+source-wordcount: '141'
+ht-degree: 39%
 
 ---
 
-# 使用 [!UICONTROL 可视化体验编辑器] 在Adobe Target
+# 在Adobe Target中使用[!UICONTROL Visual Experience Composer]
 
 ## 描述
 
 在第一个视频中，您将学习如何：
 
-* 使用可视化体验编辑器(VEC)执行其关键功能 — 提供了一种直观的可视化方式，可更改Adobe Target活动中页面的布局和内容。
+* 使用可视化体验编辑器(VEC)来执行其关键功能，提供一种直观、可视的方式来更改Adobe Target活动中的页面布局和内容。
 
 在第二个视频中，您将学习如何：
 
-* 使用VEC的其他功能，包括如何创建重定向体验和多页面活动，以及如何使用移动设备视区。
+* 使用VEC的其他功能，包括如何创建重定向体验和多页面活动，以及如何使用移动视区。
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/17399/?quality=12)
 

@@ -1,6 +1,6 @@
 ---
-title: 如何将Target与Adobe Developer控制台集成
-description: 了解如何集成Adobe Target和Adobe Developer控制台。
+title: 如何将Target与Adobe Developer Console集成
+description: 了解如何集成Adobe Target和Adobe Developer Console。
 role: Developer
 level: Intermediate
 topic: Personalization, Integrations
@@ -16,13 +16,13 @@ ht-degree: 4%
 
 ---
 
-# 将Target与Adobe Developer控制台集成
+# 将Target与Adobe Developer Console集成
 
 ## 描述
 
 在本视频中，您将学习如何：
 
-* 集成Adobe Target和Adobe Developer控制台(以前称为Adobe I/O)
+* 集成Adobe Target和Adobe Developer Console(以前称为Adobe I/O)
 
 ## 目标受众
 
@@ -30,6 +30,6 @@ ht-degree: 4%
 
 ## 注释
 
-此视频演示了使用进行集成的概念 [Adobe Developer控制台](https://developer.adobe.com/developer-console/). 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问此 [配置Adobe身份验证指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"} 在 *Adobe Target开发人员指南*.
+此视频演示了使用[Adobe Developer Console](https://developer.adobe.com/developer-console/)进行集成的概念。 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问&#x200B;*Adobe Target开发人员指南*&#x200B;中的此[Adobe身份验证配置指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35150/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: 如何创建多变量测试
-description: 此视频可指导用户完成在Adobe Target中创建多变量测试(MVT)的关键工作流。 了解创建和解释MVT的步骤。
+description: 此视频向用户介绍在Adobe Target中创建多变量测试(MVT)的关键工作流程。 了解创建和解释MVT的步骤。
 role: User
 level: Beginner
 topic: Personalization
@@ -19,12 +19,12 @@ ht-degree: 1%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
 * 使用Adobe Target可视化体验编辑器(VEC)创建多变量测试(MVT)
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/17395/?quality=12)

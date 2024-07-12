@@ -1,6 +1,6 @@
 ---
 title: 如何使用活动定位
-description: Adobe Target提供了不同的杠杆，用于控制在活动开始时向不同受众显示的体验。 了解如何使用受众和流量分配来控制哪些人会看到内容。
+description: Adobe Target提供了各种控制工具，用于在活动上线时控制向不同受众显示的体验。 了解如何使用受众和流量分配控制哪些人可以看到哪些内容。
 role: User
 level: Intermediate
 topic: Personalization
@@ -19,7 +19,7 @@ ht-degree: 30%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
 * 为活动分配受众
 * 增加或减少流量
@@ -28,6 +28,6 @@ ht-degree: 30%
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/17385/?quality=12)

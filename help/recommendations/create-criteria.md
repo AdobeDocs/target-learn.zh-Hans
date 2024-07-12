@@ -10,8 +10,8 @@ kt: null
 exl-id: 14135335-9f51-4e5d-905f-3cd6760c54cd
 source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 14%
+source-wordcount: '54'
+ht-degree: 16%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 14%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
 * 创建标准
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/27694?quality=12)
 
@@ -35,5 +35,5 @@ ht-degree: 14%
 * [创建收藏集和排除项](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
 * [了解信息源](understanding-feeds.md)
-* [创建馈送](create-a-feed.md)
+* [创建信息源](create-a-feed.md)
 * [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

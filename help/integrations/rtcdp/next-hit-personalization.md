@@ -8,7 +8,8 @@ feature: Integrations,Segments,Web SDK,Destinations,Datastreams,Audiences,Experi
 level: Intermediate
 jira: KT-9629
 thumbnail: 340091.jpg
-source-git-commit: 6e868964fdf9f3575928e933e91805bf5ef71cb0
+exl-id: 4a3f0976-b286-499f-9f7d-9abf04c78ca6
+source-git-commit: ff0ca2f7f87ed15a8a13c5db9fb6f32e922c3d44
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -17,7 +18,6 @@ ht-degree: 1%
 
 # 使用Real-Time CDP和Adobe Target进行下一次点击个性化
 
-了解如何使用Real-time Customer Data Platform和Adobe Target在下一次点击时个性化 Real-Time CDP中的Adobe Target目标允许您在Adobe Target中使用Experience Platform区段来实现具有治理和隐私支持的相同页面和下一页个性化。 欲了解更多信息，请参见 [为同一页面和下一页面个性化文档配置个性化目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/configure-personalization-destinations.html)
+了解如何使用Real-time Customer Data Platform和Adobe Target在下一次点击时个性化 Real-Time CDP中的Adobe Target目标允许您在Adobe Target中使用Experience Platform区段来实现具有治理和隐私支持的相同页面和下一页个性化。 有关详细信息，请参阅[为同一页面和下一页面个性化配置个性化目标文档](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/configure-personalization-destinations.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
-

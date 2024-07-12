@@ -1,6 +1,6 @@
 ---
 title: 如何使用基于表单的体验编辑器
-description: 此视频向Adobe Target用户展示如何以及何时使用基于表单的体验编辑器。
+description: 本视频向Adobe Target用户说明如何使用以及何时使用基于表单的体验编辑器。
 role: User
 level: Beginner
 topic: Personalization
@@ -20,14 +20,14 @@ ht-degree: 10%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
 * 使用基于表单的编辑器创建活动
-* 说明何时使用基于表单的编辑器而不是可视化体验编辑器(VEC)
+* 解释何时使用基于表单的编辑器，而不是可视化体验编辑器(VEC)
 * 使用细化来定位位置
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/17390/?quality=12)

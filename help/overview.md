@@ -1,6 +1,6 @@
 ---
 title: 了解如何使用Adobe Target
-description: 了解如何使用 [!DNL Adobe Target] 此教程和视频集合涵盖了它的所有组件。
+description: 了解如何将 [!DNL Adobe Target] 与涵盖其所有组件的此教程和视频集合一起使用。
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 feature: Overview
@@ -8,20 +8,20 @@ topic: Personalization
 exl-id: 02204a7f-a897-4a0d-872a-8d8113e4378d
 source-git-commit: 20bd1eb17ef6e287f7b76e14f727456e12d6f115
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 29%
+source-wordcount: '186'
+ht-degree: 10%
 
 ---
 
-# Adobe Target 教程
+# Adobe Target教程
 
-[!DNL Adobe Target] 是 [!DNL Adobe Experience Cloud] 解决方案，提供定制和个性化客户体验所需的一切。 [!DNL Target] 帮助您最大限度地提高您的网站和移动站点、应用程序、社交媒体和其他数字渠道的收入。通过这些视频和教程，您可以了解的许多组件， [!DNL Adobe Target].
+[!DNL Adobe Target]是[!DNL Adobe Experience Cloud]解决方案，它提供定制和个性化客户体验所需的一切。 [!DNL Target]帮助您最大限度地提高您的网站和移动站点、应用程序、社交媒体和其他数字渠道的收入。 使用这些视频和教程了解[!DNL Adobe Target]的许多组件。
 
 >[!NOTE]
 >
 >除本指南外，还提供了以下 [!DNL Adobe Target] 指南：
 >
->* *[Adobe Target 从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=zh-Hans){target=_blank}*
+>* *[Adobe Target从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=zh-Hans){target=_blank}*
 >
 >* *[Adobe Target 开发人员指南](https://experienceleague.adobe.com/docs/target-dev/developer/overview.html?lang=zh-Hans){target=_blank}*
 
@@ -46,7 +46,7 @@ ht-degree: 29%
     </a>
     </div>
     <p>
-    <em>了解如何将您的at.js实施迁移到Adobe Experience Platform Web SDK。</em>
+    <em>了解如何将at.js实施迁移到Adobe Experience Platform Web SDK。</em>
     <p>
   </td>
   <td>
@@ -68,11 +68,11 @@ ht-degree: 29%
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
-    <strong>在 SPA 中实施 at.js 2.0</strong>
+    <strong>在SPA中实施at.js 2.0</strong>
     </a>
     </div>
     <p>
-    <em> 了解如何在单页应用程序(SPA)中实施Adobe Target的at.js 2.0（及更高版本）。</em>
+    <em>了解如何在单页应用程序(SPA)中实施Adobe Target的at.js 2.0（及更高版本）。</em>
     <p>
   </td>
 </tr>

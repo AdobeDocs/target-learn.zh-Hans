@@ -10,8 +10,8 @@ kt: null
 exl-id: d09f01aa-4b24-4f5c-93ef-03bc0d28d85c
 source-git-commit: 342e02562b5296871638c1120114214df6115809
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 12%
+source-wordcount: '65'
+ht-degree: 10%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 12%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
 * 在Adobe Target Recommendations中创建数据馈送
 
 ## 目标受众
 
-* 业务从业者
+* 商业从业者
 
 >[!VIDEO](https://video.tv.adobe.com/v/27696?quality=12)
 

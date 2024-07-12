@@ -1,6 +1,6 @@
 ---
 title: 如何设置帐户首选项
-description: 此视频介绍Adobe Target帐户首选项。 请观看此视频，查看不同设置对Adobe Target有何影响的示例。
+description: 此视频介绍了Adobe Target帐户首选项。 观看本视频，了解不同设置对Adobe Target有何影响。
 role: Admin
 level: Beginner
 topic: Administration
@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ## 描述
 
-在此视频中，您将学习如何：
+在本视频中，您将学习如何：
 
-* 介绍Adobe Target中的不同帐户设置
+* 描述Adobe Target中的各种帐户设置
 
 ## 目标受众
 

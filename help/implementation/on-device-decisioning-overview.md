@@ -1,6 +1,6 @@
 ---
 title: 什么是设备上决策
-description: Adobe Target设备上决策支持近乎零的延迟内容交付。 请观看此视频，以了解有关设备上决策以及如何启用决策的信息。
+description: Adobe Target设备上决策支持几乎无延迟的内容交付。 观看本视频，了解设备上决策以及如何启用它。
 role: Architect
 level: Beginner
 topic: Architecture, Development
@@ -11,32 +11,32 @@ kt: 6691
 exl-id: 3b24efd3-a5b3-41a6-92f4-15433ddb2a26
 source-git-commit: f86096ee7fac47854220e805859b54d8c0be3cd7
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 3%
+source-wordcount: '174'
+ht-degree: 2%
 
 ---
 
-# 设备内决策概述
+# 设备上决策概述
 
 ## 描述
 
-Adobe Target设备上决策支持近乎零的延迟内容交付。 此7分钟视频：
+Adobe Target设备上决策支持几乎无延迟的内容交付。 这个7分钟的视频：
 
-* 介绍设备上决策，包括与Target实施其他方法的比较情况
+* 介绍设备上决策，包括与Target实施的其他方法之间的比较
 * 演示如何在Target中启用设备上决策
 * 检查已配置JSON内容的基于表单的编辑器活动示例
-* 显示示例Node.JS SDK代码，其中包含设备决策所需的密钥配置
+* 显示了Node.JS SDK代码示例，其中包含设备上决策所需的关键配置
 * 在浏览器中演示结果
 
 ## 目标
 
-在本视频结束时，您将能够：
+在此视频结束时，您将能够：
 
-* 描述设备上的决策及其好处
+* 描述设备上决策及其优势
 * 在Target中启用设备上决策
-* 创建基于表单的编辑器活动，以便与设备决策结合使用
-* 通过访问 [Adobe Target SDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)
-* 了解最终用户对使用设备决策交付的内容将体验哪些内容
+* 创建用于设备上决策的基于表单的编辑器活动
+* 通过访问[Adobe Target SDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)，了解有关设备上决策所需的SDK配置的更多信息
+* 了解最终用户对使用设备上决策交付的内容会有什么体验
 
 ## 目标受众
 
@@ -44,4 +44,4 @@ Adobe Target设备上决策支持近乎零的延迟内容交付。 此7分钟视
 
 >[!VIDEO](https://video.tv.adobe.com/v/329032/?quality=12)
 
-有关更多信息，请参阅 [设备内决策概述](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html){target=_blank} 在 *Adobe Target开发人员指南*.
+有关详细信息，请参阅&#x200B;*Adobe Target开发人员指南*&#x200B;中的[设备上决策概述](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html){target=_blank}。

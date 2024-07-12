@@ -27,7 +27,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+   + 使用Launch在网站中实施[](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)
@@ -35,20 +35,20 @@ ht-degree: 6%
    + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
    + [设计Target实施](../dev101/2-5-design-target-implementation.md)
    + [设计Target实施的后续步骤](../dev101/2-6-next-steps-design-target-implementation.md)
-   + [经用户同意使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
+   + [根据用户同意使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
    + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
    + [Adobe Target的实施模式](../implementation/implementation-patterns-for-adobe-target.md)
 + 集成{#integrations}
    + [将Target与Analytics集成](../dev101/3-2-target-analytics.md)
-   + [使用Analytics作为Target数据源(A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
+   + [使用Analytics as a Data Source for Target (A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
    + [在Analysis Workspace中为自动分配活动设置A4T报表](../integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.md)
    + [在Analysis Workspace中为自动定位活动设置A4T报表](../integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.md)
    + [将Target与Audience Manager集成](../dev101/3-3-target-dmp.md)
    + [将Target与Experience Cloud受众集成](../dev101/3-4-target-exc-audiences.md)
    + [将Target与Campaign集成](../dev101/3-6-target-campaign.md)
-   + [将Target与Adobe Developer控制台集成](../dev101/3-7-target-io.md)
-   + 将Target与Real-Time CDP集成{#rtcdp}
+   + [将Target与Adobe Developer Console集成](../dev101/3-7-target-io.md)
+   + 将Target与Real-Time CDP{#rtcdp}集成
       + [使用Adobe Target进行下一次点击个性化](../integrations/rtcdp/next-hit-personalization.md)
       + [配置Adobe Target目标](../integrations/rtcdp/configure-the-target-destination.md)
       + [激活区段和配置文件属性](../integrations/rtcdp/activate-segments-and-profile-attributes.md)
@@ -56,13 +56,13 @@ ht-degree: 6%
       + [在Target中使用Real-Time CDP配置文件属性](../integrations/rtcdp/use-rtcdp-profile-attributes-in-target.md)
    + [将Target与Scene7集成](../dev101/3-8-target-scene7.md)
    + [将Target与Adobe Experience Manager集成](../dev101/3-5-target-aem.md)
-   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
    + [数据输入：使用数据提供程序集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
    + [数据输入：实施数据提供程序以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
    + [数据输出：使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
 + 活动{#activities}
    + [了解活动类型](../activities/understanding-the-types-of-activities.md)
-   + [使用人工智能和自动化功能迎接个性化的挑战](../activities/use-the-artificial-intelligence-and-automation-capabilities-to-meet-the-challenges-of-personalization.md)
+   + [使用人工智能和自动化功能应对Personalization的挑战](../activities/use-the-artificial-intelligence-and-automation-capabilities-to-meet-the-challenges-of-personalization.md)
    + [创建A/B测试](../activities/create-ab-tests.md)
    + [创建体验定位活动](../activities/create-experience-targeting-activities.md)
    + [创建多变量测试](../activities/create-multivariate-tests.md)
@@ -78,9 +78,9 @@ ht-degree: 6%
    + [使用可视化体验编辑器](../experiences/use-the-visual-experience-composer.md)
    + [使用单页应用程序的可视化体验编辑器(SPA VEC)](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)
    + [使用基于表单的体验编辑器](../experiences/use-the-form-based-experience-composer.md)
-   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 报表{#reports}
-   + [使用个性化分析报表](../reports/use-the-personalization-insights-reports.md)
+   + [使用Personalization分析报表](../reports/use-the-personalization-insights-reports.md)
 + 推荐{#recommendations}
    + [创建“推荐”活动](../recommendations/create-a-recommendations-activity.md)
    + [使用Recommendations选件](../recommendations/use-recommendations-offers.md)
@@ -96,4 +96,4 @@ ht-degree: 6%
    + [活动错误疑难解答](../dev101/4-2-troubleshoot-activity-errors.md)
    + [A4T集成错误故障诊断](../dev101/4-3-troubleshoot-integration-errors.md)
 + 移动设备{#mobile}
-   + [通过适用于Android的AdobeMobile Services SDK v4实施Adobe Target](../mobile-v4/overview.md)
+   + [使用适用于Android的AdobeMobile Services SDK v4实施Adobe Target](../mobile-v4/overview.md)
