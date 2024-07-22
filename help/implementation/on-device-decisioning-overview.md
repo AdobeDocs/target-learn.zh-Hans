@@ -9,10 +9,10 @@ doc-type: feature video
 team: Evangelism
 kt: 6691
 exl-id: 3b24efd3-a5b3-41a6-92f4-15433ddb2a26
-source-git-commit: f86096ee7fac47854220e805859b54d8c0be3cd7
+source-git-commit: 134db9531c4a279f9d1f27eeb6fcc03bd798660c
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Adobe Target设备上决策支持几乎无延迟的内容交付。 这个7分钟
 * 描述设备上决策及其优势
 * 在Target中启用设备上决策
 * 创建用于设备上决策的基于表单的编辑器活动
-* 通过访问[Adobe Target SDK文档](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)，了解有关设备上决策所需的SDK配置的更多信息
+* 通过访问[Adobe Target SDK文档](https://experienceleague.adobe.com/en/docs/target-dev/developer/server-side/on-device-decisioning/overview)，了解有关设备上决策所需的SDK配置的更多信息
 * 了解最终用户对使用设备上决策交付的内容会有什么体验
 
 ## 目标受众
