@@ -16,8 +16,8 @@ type: Tutorial
 auto-video-transcripts: true
 source-git-commit: 17d2bc2929eed3c029705c3842c902141c639f02
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 96%
+source-wordcount: '109'
+ht-degree: 99%
 
 ---
 

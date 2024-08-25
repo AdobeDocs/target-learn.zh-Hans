@@ -1,7 +1,7 @@
 ---
 title: 如何在 [!DNL Analysis Workspace] 中为 [!DNL Auto-Target] 活动设置A4T报告
 description: 如何在运行[!UICONTROL Auto-Target]活动时配置 [!DNL Analysis Workspace] 中的A4T报告以获取预期结果？
-badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html#premium newtab=true" tooltip="请参阅Target Premium中包含的内容。"
+badgePremium: label="Premium" type="Positive" url="https://experienceleague.adobe.com/docs/target/using/introduction/intro.html#premium newtab=true" tooltip="查看Target Premium中包含的内容。"
 role: User
 level: Intermediate
 topic: Personalization, Integrations
