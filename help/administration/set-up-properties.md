@@ -9,10 +9,10 @@ doc-type: feature video
 kt: null
 badge: premium
 exl-id: bf732d87-9d4a-4c6e-a299-61df4307f48a
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: 53596f912f08019c992b53b9cb695173802d16b6
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
@@ -27,5 +27,12 @@ ht-degree: 7%
 ## 目标受众
 
 * 管理员
+
+## 要求
+
+用户必须具有以下权限才能创建属性：
+
+* 产品管理员（不要与产品配置文件管理员混淆）
+* 系统管理员
 
 >[!VIDEO](https://video.tv.adobe.com/v/18990/?quality=12)
