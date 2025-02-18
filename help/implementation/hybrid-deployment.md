@@ -1,6 +1,6 @@
 ---
 title: 混合部署选项
-description: 观看此视频，了解Adobe Target用于个性化的独特混合部署模型 — 混合客户端和服务器端实施。
+description: 了解Adobe Target用于个性化混合客户端和服务器端实施的独特混合部署模型。
 role: Developer, Architect
 level: Beginner
 topic: Personalization, Architecture, Development
@@ -9,16 +9,16 @@ doc-type: feature video
 kt: 6165
 team: Evangelism
 exl-id: e669d773-494f-4eb7-82da-6b3f23508d9f
-source-git-commit: f7d130040c74cb2dd79edadf7090bc8a4501557e
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 3%
 
 ---
 
 # Adobe Target混合部署
 
-Adobe Target提供了独特的混合部署模型以进行个性化 — 将客户端和服务器端实施混合在一起。 此混合模型允许非技术用户使用WYSIWYG Visual Experience Composer创作实验或个性化活动，并让服务器端执行、交付和渲染，从而实现高性能交付。
+Adobe Target提供了独特的混合部署模型，用于混合客户端和服务器端实施的个性化。 此混合模型允许非技术用户使用WYSIWYG可视化体验编辑器创作实验或个性化活动，并让服务器端执行、交付和渲染，从而实现高性能交付。
 
 ## 目标
 

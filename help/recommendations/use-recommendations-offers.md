@@ -1,6 +1,6 @@
 ---
-title: 如何在A/B测试和体验定位活动中使用Recommendations选件
-description: 了解如何在Adobe Target的A/B测试和体验定位活动中使用Recommendations选件。
+title: 如何在A/B测试和体验定位活动中使用推荐选件
+description: 了解如何在Adobe Target的A/B测试和体验定位活动中使用推荐选件。
 role: User
 level: Intermediate
 topic: Personalization
@@ -8,16 +8,16 @@ feature: Recommendations, Auto-Target, Auto-Allocate
 doc-type: feature video
 kt: 3451
 exl-id: 16908f07-cda4-4a34-9e11-42b419e3917b
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
 
 ---
 
-# 在A/B测试和体验定位活动中使用Recommendations选件
+# 在A/B测试和体验定位活动中使用推荐选件
 
-Recommendations选件可与A/B测试和体验定位活动结合使用。 此功能提供了丰富的功能，使您能够：
+Recommendations选件可与A/B测试和体验定位活动一起使用。 此功能提供了丰富的功能，使您能够：
 
 * 在同一活动中混合使用推荐和非推荐内容
 * 可轻松尝试在页面上放置推荐，包括多个推荐的顺序
@@ -28,5 +28,5 @@ Recommendations选件可与A/B测试和体验定位活动结合使用。 此功�
 
 ## 其他资源
 
-* [Recommendations作为选件文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=en)
-* [创建Recommendations活动视频](create-a-recommendations-activity.md)
+* [选件形式的推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=en)
+* [创建“推荐”活动视频](create-a-recommendations-activity.md)

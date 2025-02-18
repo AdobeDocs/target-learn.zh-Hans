@@ -1,6 +1,6 @@
 ---
 title: 如何管理和实施参数
-description: 此视频向Adobe Target架构师和开发人员展示如何区分请求参数和配置文件参数、使用JavaScript和标签管理系统配置和触发请求，以及了解移动设备、电子邮件定位和API的实施要求。
+description: 了解如何使用JavaScript和标签管理系统区分请求参数和配置文件参数、配置和触发请求。 了解移动、电子邮件定位和API的实施要求。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5382
 thumbnail: 35142.jpg
 exl-id: 49929748-c67f-44e1-9853-b499d8da6b7d
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
-# Target参数简介
-
-## 描述
+# [!DNL Target]参数简介
 
 在本视频中，您将学习如何：
 

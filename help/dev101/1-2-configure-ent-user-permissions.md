@@ -1,6 +1,6 @@
 ---
 title: 如何配置企业用户权限
-description: 此视频向管理员和架构师展示如何区分管理员用户级别权限、配置Target权限以及创建工作区和管理访问权限。
+description: 了解如何区分管理员用户级别权限、配置Adobe Target权限以及创建工作区和管理访问权限。
 role: Admin, Developer, Architect
 level: Intermediate
 topic: Personalization, Administration
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5064
 thumbnail: 33754.jpg
 exl-id: ce159244-c541-4d7a-880d-cff7bf6f9fe9
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 4%
+source-wordcount: '60'
+ht-degree: 3%
 
 ---
 
 # 配置企业用户权限
-
-## 描述
 
 在本视频中，您将学习如何：
 

@@ -1,6 +1,6 @@
 ---
 title: 如何设置属性
-description: 本视频向管理员展示如何在Adobe Target中创建资产。
+description: 了解如何在Adobe Target中创建资产。
 role: Admin
 level: Beginner
 topic: Administration
@@ -9,16 +9,14 @@ doc-type: feature video
 kt: null
 badge: premium
 exl-id: bf732d87-9d4a-4c6e-a299-61df4307f48a
-source-git-commit: 35f64f388eb0bfb2809bdacd07d1398405196b99
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
 
 # 在[!DNL Adobe Target]中设置属性
-
-## 描述
 
 在本视频中，您将学习如何：
 

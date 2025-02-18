@@ -1,5 +1,5 @@
 ---
-title: Recommendations中的信息源是什么？
+title: 推荐中的信息源是什么？
 description: 了解什么是Adobe Target Recommendations信息源及其使用方式
 role: User
 level: Intermediate
@@ -8,16 +8,16 @@ feature: Recommendations
 doc-type: feature video
 kt: null
 exl-id: f9de86e7-1967-4ab7-a600-00e86220f209
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 10%
+source-wordcount: '70'
+ht-degree: 14%
 
 ---
 
-# 了解Recommendations中的信息源
+# 了解“推荐”中的信息源
 
-## 描述
+## 您将了解的内容
 
 在本视频中，您将学习如何：
 
@@ -36,4 +36,4 @@ ht-degree: 10%
 * [创建自定义设计](create-custom-designs.md)
 * [创建收藏集和排除项](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
-* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)
+* [推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

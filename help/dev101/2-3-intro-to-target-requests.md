@@ -1,6 +1,6 @@
 ---
 title: Target请求如何工作？
-description: 此视频介绍Target Cookie和Target配置文件的到期系数。 了解如何确定Target请求的数量和类型，区分同步部署和异步部署，以及解释闪烁管理。
+description: 了解如何确定Adobe Target请求的数量和类型、区分同步部署和异步部署，以及解释闪烁管理。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5381
 thumbnail: 35141.jpg
 exl-id: b5182e70-551c-43e4-bca3-a9889740cecc
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
-# Target请求简介
-
-## 描述
+# [!DNL Target]请求简介
 
 在本视频中，您将学习如何：
 

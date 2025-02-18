@@ -1,6 +1,6 @@
 ---
 title: 如何管理Target
-description: 此视频向Adobe Target管理员展示如何设置帐户首选项、创建属性以及创建主机和环境。 了解如何说明Target UI实施配置设置。
+description: 了解如何设置帐户首选项、创建属性以及创建主机和环境。 了解如何说明Target UI实施配置设置。
 role: Admin, Developer, Architect
 level: Intermediate
 topic: Personalization, Administration
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5062
 thumbnail: 33751.jpg
 exl-id: ab9e6c12-1941-49fc-9516-184f1005dc11
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 4%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 # 管理设置简介
-
-## 描述
 
 在本视频中，您将学习如何：
 

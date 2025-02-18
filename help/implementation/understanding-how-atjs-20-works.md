@@ -1,6 +1,6 @@
 ---
 title: at.js 2.0如何工作？
-description: at.js 2.0增强了Adobe Target对单页应用程序(SPA)的支持，并与其他Experience Cloud解决方案集成。 此视频和随附的图表说明了如何将所有内容组合在一起。
+description: 了解at.js 2.0如何增强Adobe Target对单页应用程序(SPA)的支持并与其他Experience Cloud解决方案集成。
 role: Developer
 level: Intermediate
 topic: SPA, Architecture, Development
@@ -9,9 +9,9 @@ doc-type: technical video
 kt: null
 author: Daniel Wright
 exl-id: 7f037665-88a7-469c-8df5-c82cb0f65382
-source-git-commit: 80208b3ecbc0d627d2afe72f882e91c9800d2726
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 ![at.js 2.0在页面加载时的行为](assets/pageload.png)
 
-1. 调用返回Experience CloudID (ECID)。 如果用户通过了身份验证，则另一调用会同步客户ID。
+1. 调用返回Experience Cloud ID (ECID)。 如果用户通过了身份验证，则另一调用会同步客户ID。
 
 1. `at.js`库同步加载并隐藏文档正文（`at.js`也可以使用页面上实施的可选预隐藏代码片段异步加载）。
 
 1. 将会发出页面加载请求，其中包括已配置的所有参数，如ECID、SDID和客户ID。
 
-1. 配置文件脚本执行并馈送到[!UICONTROL Profile Store]。 存储区向[!UICONTROL Audience Library]请求符合条件的受众(例如从[!DNL Analytics]、Audience Manager等共享的受众)。 [!UICONTROL Customer Attributes]在批处理过程中发送到[!UICONTROL Profile Store]。
+1. 配置文件脚本执行并馈送到[!UICONTROL Profile Store]。 存储区从[!UICONTROL Audience Library]请求符合条件的受众(例如从[!DNL Analytics]、Audience Manager等共享的受众)。 [!UICONTROL Customer Attributes]在批处理过程中发送到[!UICONTROL Profile Store]。
 1. 根据URL、请求参数和配置文件数据，[!DNL Target]可决定哪些活动和体验可返回给当前页面和未来视图的访客
 
 1. 目标内容会发送回页面，其中可能包含其他个性化的配置文件值。
@@ -59,4 +59,4 @@ ht-degree: 0%
 ## 其他资源
 
 * [在单页应用程序中实施at.js 2.0](implement-atjs-20-in-a-single-page-application.md)
-* [使用Adobe Target的可视化单页应用程序体验编辑器(SPA VEC)](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)
+* [使用Adobe Target的可视化体验编辑器处理单页应用程序(SPA VEC)](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)

@@ -1,6 +1,6 @@
 ---
 title: 除了基础知识之外，设计Target实施的后续步骤是什么
-description: 此视频向Adobe Target开发人员和架构师展示如何使用标签管理库实施Target，说明配置文件脚本与用户模型的相关性，并区分请求参数和配置文件参数的使用和应用。
+description: 了解如何使用标签管理库实施Target。 了解配置文件脚本与用户模型的相关性，以及如何区分请求参数和配置文件参数的使用和应用。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development, Architecture
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5384
 thumbnail: 35144.jpg
 exl-id: c9c907dd-4574-40cb-b5b8-93f4ab6ff609
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# 设计Target实施的后续步骤
-
-## 描述
+# 设计[!DNL Target]实现的后续步骤
 
 在本视频中，您将学习如何：
 

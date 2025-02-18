@@ -1,6 +1,6 @@
 ---
 title: 如何将Target与AEM集成
-description: 此视频向开发人员展示如何将Adobe Target与AEM集成（3种方法）。 开发人员将了解如何应用该流程从AEM导入体验片段，并了解Target和AEM集成要求。
+description: 了解如何将Adobe Target与AEM集成（3种方法）。 了解如何应用流程从AEM导入体验片段。 熟悉Adobe Target和AEM集成要求。
 role: Developer
 level: Intermediate
 topic: Personalization, Integrations
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5387
 thumbnail: 35147.jpg
 exl-id: e7792ff4-7289-485e-af46-c89431a7a122
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 2%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
-# 将Target与Adobe Experience Manager (AEM)集成
-
-## 描述
+# 将[!DNL Target]与Adobe Experience Manager (AEM)集成
 
 在本视频中，您将学习如何：
 

@@ -8,16 +8,14 @@ feature: Administration & Configuration
 doc-type: feature video
 kt: null
 exl-id: 42ba0e3e-f6db-49d5-a1e9-89181805a123
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 3%
+source-wordcount: '50'
+ht-degree: 2%
 
 ---
 
 # 在Adobe Target中设置帐户首选项
-
-## 描述
 
 在本视频中，您将学习如何：
 

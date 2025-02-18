@@ -1,6 +1,6 @@
 ---
 title: 如何使用单页应用程序的可视化体验编辑器(SPA VEC)
-description: 此视频向营销人员介绍适用于单页应用程序的Adobe Target可视化体验编辑器(SPA VEC)。 观看本视频，了解如何使用SPA VEC创建活动。
+description: 了解Adobe Target单页应用程序可视化体验编辑器(SPA VEC)。 了解如何使用SPA VEC创建活动。
 role: User
 level: Beginner
 topic: SPA, Personalization
@@ -9,21 +9,19 @@ doc-type: feature video
 kt: null
 author: Daniel Wright
 exl-id: 3e32d869-a94a-4253-93d7-58b615921067
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
 
 # 在Adobe Target中使用[!UICONTROL Visual Experience Composer]进行单页应用程序(SPA VEC)
 
-借助SPA VEC，营销人员能够以DIY（自己动手）方式创建测试并对SPA中的内容进行个性化，而无需持续依赖开发。 VEC可用于在使用常用框架（如React和Experience Targeting）构建的应用程序中创建A/BAngular和体验定位(XT)活动。 观看以下视频，了解如何使用SPA VEC创建活动。
-
-## 概述
+SPA VEC使营销人员能够以DIY（自己动手）方式创建测试并对SPA中的内容进行个性化，而无需持续依赖开发。
 
 * SPA VEC可用于创建A/B和自动分配测试和体验定位(XT)活动
-* SPA VEC不支持自动定位、Automated Personalization或Recommendations活动
+* SPA VEC不支持自动定位、Automated Personalization或“推荐”活动
 * SPA VEC支持A4T、[!UICONTROL Experience Cloud Audiences]和[!UICONTROL Customer Attributes]集成
 * 单页应用程序支持所有VEC操作，包括自定义代码
 * VEC操作可应用于单个视图或页面加载事件

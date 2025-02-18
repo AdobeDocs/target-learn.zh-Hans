@@ -1,8 +1,7 @@
 ---
 title: 如何实施Target
-description: 该视频向 Adobe Target 开发人员和架构师介绍 Target 实施。观看本视频以了解不同的 Target 实施技术并采用 Target 实施的最佳实践。
-landing-page-description: 观看本视频以了解不同的 Target 实施技术并采用 Target 实施的最佳实践。
-short-description: 观看本视频以了解不同的 Target 实施技术并采用 Target 实施的最佳实践。
+description: 了解不同的Adobe Target实施技术并采用Target实施的最佳实践。
+landing-page-description: 了解不同的Adobe Target实施技术并采用Target实施的最佳实践。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development
@@ -11,16 +10,14 @@ doc-type: technical video
 kt: 5379
 thumbnail: 35139.jpg
 exl-id: ce615020-6775-486a-b0e0-f4298adbae39
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 57%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
 # Adobe Target实施简介
-
-## 描述
 
 在本视频中，您将学习如何：
 

@@ -1,6 +1,6 @@
 ---
 title: 如何排查活动错误
-description: 此视频向Adobe Target开发人员展示如何优化活动、解决受众和活动资格问题、调试Target体验和活动内容加载问题，以及解决冲突、主机和属性问题。
+description: 了解如何优化活动、解决受众和活动资格问题、调试Target体验和活动内容加载问题，以及解决冲突、主机和属性问题。
 role: Developer
 level: Intermediate
 topic: Performance
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5394
 thumbnail: 35154.jpg
 exl-id: 146c91b7-f235-4daf-9129-bb7cb884b538
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 2%
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
 # 活动错误疑难解答
-
-## 描述
 
 在本视频中，您将学习如何：
 

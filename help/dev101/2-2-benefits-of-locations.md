@@ -1,6 +1,6 @@
 ---
 title: 使用位置有哪些好处
-description: 此视频介绍在Adobe Target实施中使用位置的好处。 观看本视频，了解如何为给定场景选择最佳实施类型。
+description: 了解如何为给定方案选择最佳的Adobe Target实施类型。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5380
 thumbnail: 35140.jpg
 exl-id: 5b20a321-058c-4ef6-8c2e-3ac28cba6cde
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 使用位置的好处
-
-## 描述
 
 在本视频中，您将学习如何：
 

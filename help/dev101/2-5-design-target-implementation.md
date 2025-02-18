@@ -1,6 +1,6 @@
 ---
 title: 如何设计Target实施
-description: 此视频向Adobe Target开发人员和架构师介绍标准站点（多页面）环境和单页应用程序(SPA)环境中的实施差异。 了解如何应用此过程来实施基于人员的活动(mbox3rdPartyID)、识别系统架构/设计文档中的相关信息，以及分析报告策略以了解实施影响。
+description: 了解如何应用此过程来实施基于人员的活动(mbox3rdPartyID)、识别系统架构/设计文档中的相关信息，以及分析报告策略以了解实施影响。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development, Architecture
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5383
 thumbnail: 35143.jpg
 exl-id: 8a568f5d-3cc4-4b73-b490-0023043b3f81
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
 
-# 设计Target实施
-
-## 描述
+# 设计[!DNL Target]实施
 
 在本视频中，您将学习如何：
 

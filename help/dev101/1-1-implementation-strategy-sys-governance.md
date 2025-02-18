@@ -1,6 +1,6 @@
 ---
 title: 如何对待实施战略和系统治理
-description: 该视频向管理员和架构师介绍关于管理和实施 Adobe Target 的关键概念。观看本视频以了解如何识别和应用治理最佳实践并列出 Target 实施要求。
+description: 了解如何识别和应用治理最佳实践并列出Target实施要求。
 landing-page-description: 观看本视频以了解如何识别和应用治理最佳实践并列出 Target 实施要求。
 short-description: 观看本视频以了解如何识别和应用治理最佳实践并列出 Target 实施要求。
 role: Admin, Developer, Architect
@@ -11,16 +11,14 @@ doc-type: technical video
 kt: 5063
 thumbnail: 33753.jpg
 exl-id: 750fc1a2-ed15-45e8-9ad3-32049ca36ba8
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 61%
+source-wordcount: '98'
+ht-degree: 38%
 
 ---
 
 # 实施战略和系统治理
-
-## 描述
 
 在本视频中，您将学习如何：
 

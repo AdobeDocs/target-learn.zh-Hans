@@ -1,6 +1,6 @@
 ---
 title: 如何在活动中使用量度
-description: 如何衡量Adobe Target活动是否成功？ 在本视频中，了解不同类型的目标量度以及如何使用它们衡量活动的性能。
+description: 了解不同类型的目标量度以及如何使用它们衡量活动的性能。
 role: User
 level: Intermediate
 topic: Personalization
@@ -8,16 +8,14 @@ feature: Activities
 doc-type: feature video
 kt: null
 exl-id: 02752f2c-2f61-44b8-a6a5-f36d576e4806
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '65'
 ht-degree: 6%
 
 ---
 
 # 在活动中使用量度
-
-## 描述
 
 在本视频中，您将学习如何：
 

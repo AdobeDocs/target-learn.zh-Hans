@@ -1,6 +1,6 @@
 ---
 title: 如何使用配置文件比较构建受众
-description: 此视频向Adobe Target用户展示如何在构建受众时，使用配置文件比较功能来相互比较两个数字配置文件值。
+description: 了解如何在构建受众时使用配置文件比较来比较两个数字配置文件值。
 role: User
 level: Experienced
 topic: Personalization
@@ -9,10 +9,10 @@ doc-type: feature video
 kt: null
 author: Daniel Wright
 exl-id: 66764a66-ba47-4ab4-8a36-137a7cca525b
-source-git-commit: 80208b3ecbc0d627d2afe72f882e91c9800d2726
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 2%
+source-wordcount: '132'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Adobe Target中的[!UICONTROL Profile Comparison]功能允许您在构建受众时比较两个数字配置文件值。 例如，如果您将自定义生成的倾向分数传递到[!DNL Target]，并想要根据倾向分数最高的产品对内容进行个性化设置，则此功能非常有用。
 
-## 描述
+## 您将了解的内容
 
 在本视频中，您将学习如何：
 

@@ -1,6 +1,6 @@
 ---
 title: 如何排查集成错误
-description: 在此视频中，开发人员了解A4T集成问题。
+description: 了解A4T集成问题。
 role: Developer
 level: Intermediate
 topic: Performance
@@ -9,16 +9,14 @@ doc-type: technical video
 kt: 5395
 thumbnail: 35155.jpg
 exl-id: eb00bb01-4d03-4153-b866-e6e3e8d979ae
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '34'
+ht-degree: 2%
 
 ---
 
 # 集成错误疑难解答
-
-## 描述
 
 在本视频中，您将学习如何：
 
