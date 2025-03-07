@@ -1,7 +1,7 @@
 ---
 title: 如何实施Target
-description: 了解不同的Adobe Target实施技术并采用Target实施的最佳实践。
-landing-page-description: 了解不同的Adobe Target实施技术并采用Target实施的最佳实践。
+description: 了解不同的 Adobe Target 实施技术并采用 Target 实施的最佳实践。
+landing-page-description: 了解不同的 Adobe Target 实施技术并采用 Target 实施的最佳实践。
 role: Developer, Architect
 level: Intermediate
 topic: Personalization, Development
@@ -13,7 +13,7 @@ exl-id: ce615020-6775-486a-b0e0-f4298adbae39
 source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 2%
+ht-degree: 38%
 
 ---
 
