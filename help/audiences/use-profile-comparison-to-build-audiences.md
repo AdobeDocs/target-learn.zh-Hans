@@ -31,7 +31,7 @@ Adobe Target中的[!UICONTROL Profile Comparison]功能允许您在构建受众�
 
 * 商业从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/23218/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328065/?quality=12&captions=chi_hans)
 
 ## 其他资源
 

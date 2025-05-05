@@ -20,4 +20,4 @@ ht-degree: 5%
 
 了解如何从Adobe Real-time Customer Data Platform向Adobe Target激活区段和配置文件属性，以在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。 有关详细信息，请参阅[将受众数据激活到配置文件请求目标文档](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-profile-request-destinations.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447365/?learn=on&captions=chi_hans)

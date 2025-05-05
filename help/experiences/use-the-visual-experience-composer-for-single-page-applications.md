@@ -32,7 +32,7 @@ SPA VEC使营销人员能够以DIY（自己动手）方式创建测试并对SPA�
 
 * 商业从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/26249?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34758?quality=12&captions=chi_hans)
 
 
 ## 其他资源
