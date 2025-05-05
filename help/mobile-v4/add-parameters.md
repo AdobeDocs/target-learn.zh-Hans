@@ -57,7 +57,7 @@ Adobe Target属性在[!DNL Target]界面中定义，用于建立个性化应用�
 
 将其添加为预回迁请求中每个位置的参数，如下所示：
 ![添加at_property参数](assets/params_at_property.jpg)
-以下是`targetPrefetchContent()`函数的更新代码（请确保更新&#x200B;_[!UICONTROL your at_property value goes here]_占位符文本！）：
+以下是`targetPrefetchContent()`函数的更新代码（请确保更新&#x200B;_[!UICONTROL your at_property value goes here]_&#x200B;占位符文本！）：
 
 ```java
 public void targetPrefetchContent() {
@@ -89,7 +89,7 @@ public void targetPrefetchContent() {
 
 ### 关于参数的说明
 
-对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档[。
+对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求[&#128279;](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档。
 
 另请注意，可以将不同的位置参数添加到预回迁请求中的每个位置。 例如，您可以创建另一个名为param2的映射，在其中放置一个新参数，然后在一个位置设置param2，并在另一个位置设置param1。 示例如下：
 

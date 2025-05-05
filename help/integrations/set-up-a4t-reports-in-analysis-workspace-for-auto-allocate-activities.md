@@ -127,9 +127,9 @@ ht-degree: 0%
 以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可作为A4T的整体指导：
 
 * 无论使用何种面板创建方法，都从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为在[!DNL Target]报表中引用这些值。 此外，可以在[!DNL Target]报表中确定活动入选者。 有关活动入选者标识的详细信息，请参阅下面的[标识活动入选者](#winner)部分。
->>
-* 为避免混淆，请取消选中[!UICONTROL Conversion Rate]量度的“[!UICONTROL Percent]”表示形式。 请参阅下面的[!UICONTROL Conversion Rate]列](#hide-percentage)中的[隐藏百分比。
->>
+&#x200B;>>
+* 为避免混淆，请取消选中[!UICONTROL Conversion Rate]量度的“[!UICONTROL Percent]”表示形式。 请参阅下面的[!UICONTROL Conversion Rate]列[&#128279;](#hide-percentage)中的隐藏百分比。
+&#x200B;>>
 * 如果要构建A4T面板，请确保日期和时间范围与[!DNL Target]报表的日期和时间范围相匹配。 请参阅下面的[在下面的A4T面板中对齐日期和时间](#aligning-date-and-time)。
 
 ### 从[!UICONTROL Conversion Rate]列中隐藏百分比 {#hide-percentage}
@@ -162,7 +162,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-“尚未有入选者”和“入选者”徽章在[!DNL Analysis Workspace]的A4T面板中不可用。 此外，应忽略[!UICONTROL Auto-Allocate]活动的[!DNL Target]报表中显示的入选者“星级”徽章。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配和自动定位活动&#x200B;*对* A4T支持的[自动分配](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#aa){target=_blank}。
+>“尚未有入选者”和“入选者”徽章在[!DNL Analysis Workspace]的A4T面板中不可用。 此外，应忽略[!UICONTROL Auto-Allocate]活动的[!DNL Target]报表中显示的入选者“星级”徽章。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配和自动定位活动&#x200B;*对* A4T支持的[自动分配](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#aa){target=_blank}。
 
 ### 在[!DNL Analysis Workspace]中为[!UICONTROL Auto-Allocate]面板创建A4T
 

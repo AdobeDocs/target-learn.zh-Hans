@@ -12,7 +12,7 @@ ht-degree: 6%
 # Adobe Target 教程 {#tutorials}
 
 + [Adobe TargetTutorials概述](../overview.md)
-+ 管理{#administration}。
++ 管理。{#administration}
    + 战略与思想领导力{#strategy}
       + [个性化测试和路线图创建快速入门](../strategy/create-personalization-roadmap-testing-plan.md)
       + [实施战略和系统治理](../dev101/1-1-implementation-strategy-sys-governance.md)
@@ -27,7 +27,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + 使用Launch在网站中实施[](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)
@@ -48,7 +48,7 @@ ht-degree: 6%
    + [将Target与Experience Cloud受众集成](../dev101/3-4-target-exc-audiences.md)
    + [将Target与Campaign集成](../dev101/3-6-target-campaign.md)
    + [将Target与Adobe Developer Console集成](../dev101/3-7-target-io.md)
-   + 将Target与Real-Time CDP{#rtcdp}集成
+   + 将Target与Real-Time CDP集成{#rtcdp}
       + [使用Adobe Target进行下一次点击个性化](../integrations/rtcdp/next-hit-personalization.md)
       + [配置Adobe Target目标](../integrations/rtcdp/configure-the-target-destination.md)
       + [激活区段和配置文件属性](../integrations/rtcdp/activate-segments-and-profile-attributes.md)
