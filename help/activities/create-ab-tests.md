@@ -29,4 +29,4 @@ ht-degree: 6%
 
 ## 其他资源
 
-有关分步说明，请参阅&#x200B;*Adobe Target商业从业者指南*&#x200B;中的[创建A/B测试](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target=_blank}。
+有关分步说明，请参阅&#x200B;*Adobe Target商业从业者指南*&#x200B;中的[创建A/B测试](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=zh-Hans){target=_blank}。

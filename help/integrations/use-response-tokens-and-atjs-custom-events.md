@@ -34,5 +34,5 @@ ht-degree: 3%
 ## 其他资源
 
 * [将Experience Cloud Debugger与Adobe Target结合使用](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
-* [响应令牌文档](https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html?lang=en)
+* [响应令牌文档](https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html?lang=zh-Hans)
 * [在 Adobe Target 中使用数据提供程序](use-data-providers-to-integrate-third-party-data.md)

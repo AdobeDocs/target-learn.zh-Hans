@@ -34,10 +34,10 @@ ht-degree: 27%
 ## 其他资源
 
 * [下载Experience Personalization行动手册](https://guided.adobe.com/?promoid=K42KVXHD&amp;mv=other&amp;search=personalization+playbook#recommended/solutions/target)
-* [体验定位文档](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html?lang=en)
+* [体验定位文档](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html?lang=zh-Hans)
 
 ## 此视频中使用的其他功能
 
-* [报表的受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=en)
-* [创建受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=en)
-* [使用可视化体验编辑器文档构建体验](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=en)
+* [报表的受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=zh-Hans)
+* [创建受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=zh-Hans)
+* [使用可视化体验编辑器文档构建体验](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=zh-Hans)

@@ -28,4 +28,4 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35149/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=en)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=zh-Hans)。

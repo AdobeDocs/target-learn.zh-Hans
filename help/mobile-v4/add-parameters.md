@@ -150,7 +150,7 @@ public void targetLoadRequest(final ArrayList<Recommandation> recommandations) {
 
 >[!NOTE]
 >
->Analytics for Target (A4T)：可将Adobe Analytics配置为[!DNL Target]的报表源。 这样即可在Adobe Analytics中查看Target SDK收集的所有量度/维度。 有关详细信息，请参阅[A4T概述](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)。
+>Analytics for Target (A4T)：可将Adobe Analytics配置为[!DNL Target]的报表源。 这样即可在Adobe Analytics中查看Target SDK收集的所有量度/维度。 有关详细信息，请参阅[A4T概述](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=zh-Hans)。
 
 做得不错！现在，参数已准备就绪，我们可以使用这些参数在Adobe Target中创建受众和选件。
 

@@ -26,6 +26,6 @@ ht-degree: 82%
 
 * [Target跟踪视频疑难解答](troubleshoot-with-target-traces.md)
 * [Chrome Store 中的 Adobe Experience Cloud Debugger](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* [添加调试器扩展视频](https://experienceleague.adobe.com/docs/debugger-learn/tutorials/experience-cloud-debugger/add-the-extension.html?lang=en)
-* [Target故障诊断帮助文档](https://experienceleague.adobe.com/docs/target/using/troubleshoot/troubleshooting-target.html?lang=en)
-* [“如何使用 Experience Cloud Debugger”视频](https://experienceleague.adobe.com/docs/debugger-learn/tutorials/experience-cloud-debugger/use-the-experience-cloud-debugger.html?lang=en)
+* [添加调试器扩展视频](https://experienceleague.adobe.com/docs/debugger-learn/tutorials/experience-cloud-debugger/add-the-extension.html?lang=zh-Hans)
+* [Target故障诊断帮助文档](https://experienceleague.adobe.com/docs/target/using/troubleshoot/troubleshooting-target.html?lang=zh-Hans)
+* [“如何使用 Experience Cloud Debugger”视频](https://experienceleague.adobe.com/docs/debugger-learn/tutorials/experience-cloud-debugger/use-the-experience-cloud-debugger.html?lang=zh-Hans)
