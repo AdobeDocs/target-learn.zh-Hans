@@ -23,7 +23,7 @@ ht-degree: 2%
 
 完成此教程后，您将能够：
 
-* 验证[AdobeMobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=en)安装程序
+* 验证[AdobeMobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=zh-Hans)安装程序
 * 实施以下类型的[!DNL Target]请求：
    * 预取[!DNL Target]内容
    * 在单个请求中批处理多个[!DNL Target]位置(mbox)

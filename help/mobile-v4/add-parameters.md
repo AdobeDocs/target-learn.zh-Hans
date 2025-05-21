@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 添加生命周期参数
 
-让我们启用[Adobe移动生命周期量度](https://experienceleague.adobe.com/docs/mobile-services/android/metrics.html?lang=en)。 这会将参数添加到位置请求，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据来构建受众。
+让我们启用[Adobe移动生命周期量度](https://experienceleague.adobe.com/docs/mobile-services/android/metrics.html?lang=zh-Hans)。 这会将参数添加到位置请求，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据来构建受众。
 
 要启用生命周期量度，请再次打开HomeActivity控制器并将`Config.collectLifecycleData(this);`添加到onResume()函数：
 
@@ -89,7 +89,7 @@ public void targetPrefetchContent() {
 
 ### 关于参数的说明
 
-对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求[&#128279;](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档。
+对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求[&#128279;](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=zh-Hans)的详细信息，请参阅文档。
 
 另请注意，可以将不同的位置参数添加到预回迁请求中的每个位置。 例如，您可以创建另一个名为param2的映射，在其中放置一个新参数，然后在一个位置设置param2，并在另一个位置设置param1。 示例如下：
 
@@ -146,7 +146,7 @@ public void targetLoadRequest(final ArrayList<Recommandation> recommandations) {
 
 >[!NOTE]
 >
->订单确认请求和参数：虽然未在此演示项目中使用，但订单详细信息通常是在实际实施中捕获的，因此[!DNL Target]可以将订单详细信息用作量度/维度。 请参阅文档，了解如何[实施订单确认请求和参数](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-target-methods.html?lang=en)的说明。
+>订单确认请求和参数：虽然未在此演示项目中使用，但订单详细信息通常是在实际实施中捕获的，因此[!DNL Target]可以将订单详细信息用作量度/维度。 请参阅文档，了解如何[实施订单确认请求和参数](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-target-methods.html?lang=zh-Hans)的说明。
 
 >[!NOTE]
 >
