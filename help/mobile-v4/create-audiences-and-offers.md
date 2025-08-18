@@ -52,12 +52,12 @@ ht-degree: 1%
 Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件定位到这些特定组。 对于前两个位置，我们将使用“新用户”受众：
 
 1. 在顶部导航中单击&#x200B;**[!UICONTROL Audiences]**。
-1. 单击&#x200B;**[!UICONTROL Create Audience]**按钮。
+1. 单击&#x200B;**[!UICONTROL Create Audience]**&#x200B;按钮。
    ![创建新用户受众](assets/audience_new_mobile_app_users_1.jpg)
 
 1. 输入&#x200B;**[!UICONTROL New Mobile App Users]**&#x200B;作为受众名称。
 1. 选择&#x200B;**[!UICONTROL Add Rule]**。
-1. 选择&#x200B;**[!UICONTROL Custom]**规则。
+1. 选择&#x200B;**[!UICONTROL Custom]**&#x200B;规则。
    ![创建新用户受众](assets/audience_new_mobile_app_users_2.jpg)
 
 1. 选择&#x200B;**[!UICONTROL a.Launches]**。

@@ -127,9 +127,9 @@ ht-degree: 0%
 以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可作为A4T的整体指导：
 
 * 无论使用何种面板创建方法，都从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为在[!DNL Target]报表中引用这些值。 此外，可以在[!DNL Target]报表中确定活动入选者。 有关活动入选者标识的详细信息，请参阅下面的[标识活动入选者](#winner)部分。
->>
+&#x200B;>>
 * 为避免混淆，请取消选中[!UICONTROL Percent]量度的“[!UICONTROL Conversion Rate]”表示形式。 请参阅下面的[列[!UICONTROL Conversion Rate]中的](#hide-percentage)隐藏百分比。
->>
+&#x200B;>>
 * 如果要构建A4T面板，请确保日期和时间范围与[!DNL Target]报表的日期和时间范围相匹配。 请参阅下面的[在下面的A4T面板中对齐日期和时间](#aligning-date-and-time)。
 
 ### 从[!UICONTROL Conversion Rate]列中隐藏百分比 {#hide-percentage}

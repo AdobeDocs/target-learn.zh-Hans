@@ -27,7 +27,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + 使用Launch在网站中实施[](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)

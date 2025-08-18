@@ -57,7 +57,7 @@ Adobe Target属性在[!DNL Target]界面中定义，用于建立个性化应用�
 
 将其添加为预回迁请求中每个位置的参数，如下所示：
 ![添加at_property参数](assets/params_at_property.jpg)
-以下是`targetPrefetchContent()`函数的更新代码（请确保更新&#x200B;_[!UICONTROL your at_property value goes here]_占位符文本！）：
+以下是`targetPrefetchContent()`函数的更新代码（请确保更新&#x200B;_[!UICONTROL your at_property value goes here]_&#x200B;占位符文本！）：
 
 ```java
 public void targetPrefetchContent() {
