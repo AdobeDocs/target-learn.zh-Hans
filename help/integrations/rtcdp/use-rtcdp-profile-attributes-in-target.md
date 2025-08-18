@@ -21,7 +21,7 @@ ht-degree: 0%
 
 了解如何在Adobe Target中使用Adobe Real-Time Customer Data Platform配置文件属性在您的网站和移动应用程序上提供个性化体验。 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/integrating-with-rtcdp.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451903/?learn=on&captions=chi_hans)
 
 >[!CAUTION]
 >

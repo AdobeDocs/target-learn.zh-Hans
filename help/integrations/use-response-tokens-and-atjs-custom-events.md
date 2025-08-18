@@ -20,7 +20,7 @@ ht-degree: 3%
 
 响应令牌和`at.js`自定义事件允许您将配置文件信息从[!DNL Target]共享到第三方系统。 [!DNL Target]访客配置文件中的任何对象，包括自定义配置文件属性、地理信息、活动详细信息和内置配置文件，都可以添加到[!DNL Target]响应中，在该响应中，您可以使用自定义JavaScript与第三方集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/23253/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33361/?quality=12&captions=chi_hans)
 
 ## 如何使用响应令牌和at.js自定义事件
 

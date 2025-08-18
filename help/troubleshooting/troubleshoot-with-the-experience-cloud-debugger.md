@@ -20,7 +20,7 @@ ht-degree: 82%
 
 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。您可以快速查看库配置、检查请求以确保正确传递自定义参数、打开控制台日志记录以及禁用所有 Target 请求。在 Experience Cloud 中进行身份验证后，您可以使用功能强大的 Mbox 跟踪工具来检查您的活动和受众资格以及访客配置文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33302/?quality=12&captions=chi_hans)
 
 ## 其他资源
 
