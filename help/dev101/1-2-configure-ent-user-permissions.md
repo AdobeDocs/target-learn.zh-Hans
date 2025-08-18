@@ -30,6 +30,6 @@ ht-degree: 3%
 * 开发人员
 * 架构师
 
->[!VIDEO](https://video.tv.adobe.com/v/3421780/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33754/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/administer/administrating-target.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/administer/administrating-target.html?lang=en)。

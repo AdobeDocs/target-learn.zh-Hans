@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 开发人员
 
->[!VIDEO](https://video.tv.adobe.com/v/3421741/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35151/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html?lang=en)。

@@ -1,6 +1,6 @@
 ---
 title: 如何在Adobe Target中使用Real-Time CDP配置文件属性？
-description: 了解如何在Adobe Target中使用Real-time Customer Data Platform配置文件属性在您的网站和移动应用程序上提供个性化体验。
+description: 了解如何在Adobe Target中使用Real-Time Customer Data Platform配置文件属性在您的网站和移动应用程序上提供个性化体验。
 feature-set: Experience Platform, Target
 feature: Destinations, Profiles, Integrations
 solution: Experience Platform, Target
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # 在Adobe Target中使用Real-Time CDP配置文件属性
 
-了解如何在Adobe Target中使用Adobe Real-time Customer Data Platform配置文件属性在您的网站和移动应用程序上提供个性化体验。 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/integrating-with-rtcdp.html?lang=zh-Hans)。
+了解如何在Adobe Target中使用Adobe Real-Time Customer Data Platform配置文件属性在您的网站和移动应用程序上提供个性化体验。 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/integrating-with-rtcdp.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451903/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
 
 >[!CAUTION]
 >
->Platform配置文件属性可以在Recommendations设计中使用来输出属性值，但不能在Velocity逻辑或操作中使用。
+>Platform配置文件属性可在“推荐”设计中使用以输出属性值，但无法在Velocity逻辑或操作中使用。

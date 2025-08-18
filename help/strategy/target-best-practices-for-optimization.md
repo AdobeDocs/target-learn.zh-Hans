@@ -1,6 +1,6 @@
 ---
 title: 优化的最佳实践
-description: 了解Adobe的六个优化要素及其应用方式。
+description: 了解Adobe优化的六个要素及其应用方式。
 solution: Target
 role: Leader, Architect, Developer, Admin
 feature: Overview
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 使用Adobe Target进行优化的最佳实践
 
-了解Adobe的六个优化要素及其应用方式。
+了解Adobe优化的六个要素及其应用方式。
 
 在建立强大的数字实力方面，您的团队将面临许多挑战。 您不仅有责任吸引成百上千的客户，而且除此之外，您的客户还会显示各种独特的行为和偏好，这些行为和偏好会随着时间的推移而不断变化。您不仅有责任跟上这些变化，而且有责任预测这些变化，高效、准确地执行您的策略。 这是一场与竞争对手进行的永恒内容马拉松比赛，需要不断迭代和同类最佳技术。
 
@@ -65,7 +65,7 @@ _图1 — 优化迭代周期_
 * **报表受众：**&#x200B;用于分析的访客子集说明列表。
 * **体验概念：**&#x200B;模型、线框示例和描述。
 
-**常规注释：**&#x200B;可以测试网页中任何可以提升业务价值或提供对访客行为有价值洞察的元素。 测试活动的一些常见类型包括：
+**常规说明：**&#x200B;可以测试网页中任何可提升商业价值或为访客行为提供宝贵insight的元素。 测试活动的一些常见类型包括：
 
 * 标题文本
 * 内容文本
@@ -104,7 +104,7 @@ _图1 — 优化迭代周期_
 
 当专注于优化时，最常见的测试活动包括：
 
-* **A/B测试：**&#x200B;实时测试两个或更多页面或页面元素相互之间的相对位置，以定量了解客户偏好。
+* **A/B测试：**&#x200B;实时测试两个或更多页面或页面元素相互之间的对照，以获得量化的insight客户偏好。
 * **多变量测试：**&#x200B;比较页面上各元素之间的选件组合，以查看哪个组合效果最佳。 此外，多变量测试将确定页面的哪个元素最有利于提高转化。
 
 当重点关注Personalization时，您可能会看到与优化中相同的测试活动，但这些活动面向更具体的受众。 例如，在A/B测试中，您可能会添加体验中的页面和受众，以进一步推动您的Personalization。
@@ -116,8 +116,8 @@ Personalization还包括体验定位测试活动类型，该活动类型根据�
 
 ## 个性化前的优化
 
-鉴于上述原因，Adobe建议您在进行个性化之前进行优化，并将Personalization从大致提升到精细程度。 要使Personalization活动从粗到细变得成熟，您将开始使用一对多（广泛）个性化样式（使用A/B测试），然后转为一对一（粒度）个性化样式（使用自动个性化活动）。
+鉴于上述原因，Adobe建议您在进行个性化之前先进行优化，并将Personalization从大致提升到精细程度。 要使Personalization活动从粗到细变得成熟，您将开始使用一对多（广泛）个性化样式（使用A/B测试），然后转为一对一（粒度）个性化样式（使用自动个性化活动）。
 
 有关详细信息，请收听[与业务顾问Katie Cozby一起举办的了解和优化您的Adobe Target实施的网络研讨会](https://adobecustomersuccess.adobeconnect.com/pkfafpzd9yarmp4/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心了解有关战略和思想领导力的更多信息。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解有关战略和思想领导力的更多信息。

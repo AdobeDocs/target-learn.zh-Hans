@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 实施数据提供程序的基本组件
 
->[!VIDEO](https://video.tv.adobe.com/v/33359/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22348/?quality=12)
 
 简要概述`dataProvider`的基本组件以及如何按正确顺序获取代码。\
 您可以在此处找到视频中使用的代码的工作示例：
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 与第三方API集成
 
->[!VIDEO](https://video.tv.adobe.com/v/33360?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22345/)
 
 更实际的示例，即集成天气API。\
 您可以在此处找到视频中使用的代码的工作示例：
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 与多个提供商集成
 
->[!VIDEO](https://video.tv.adobe.com/v/36824?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22346/)
 
 如何将来自多个提供商的数据合并到您的全局[!DNL Target]请求中。\
 您可以在此处找到视频中使用的代码的工作示例：
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 最大程度降低页面加载影响
 
->[!VIDEO](https://video.tv.adobe.com/v/36825?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22347/)
 
 通过将数据存储到会话存储对象中，最大程度地减小对页面加载时间的影响。 或者，您可以使用前缀`profile.`将这些值作为配置文件参数进行传递，并且只需在会话的第一个[!DNL Target]请求中传递它们。 但是，每个请求只能传递50个配置文件参数。
 

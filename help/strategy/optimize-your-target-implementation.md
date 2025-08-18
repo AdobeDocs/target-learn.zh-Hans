@@ -16,7 +16,7 @@ ht-degree: 0%
 
 如果您是组织的新手，并且希望熟悉测试和优化实践中的现有内容，本文可帮助您入门。 我们首先会概述Adobe Target的实施和结构。 您将学习如何了解和审核组织的设置。 最后，我们将讨论常见的故障排除技巧以及有关为团队创建知识存储库的提示。
 
-Adobe Target是一款允许对不同访客测试和定位独特内容的工具。 有关可用功能的概述，[请访问此指南](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=zh-Hans)。
+Adobe Target是一款允许对不同访客测试和定位独特内容的工具。 有关可用功能的概述，[请访问此指南](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)。
 
 ## Target实施和结构
 
@@ -40,7 +40,7 @@ Adobe Target是一种工具，它允许测试和定位面向不同访客的唯�
 
 * 在多个元素中显示多个选件的方法。
 * 根据特定目标测试生成的独特体验的方法。
-* 深入了解哪些元素对访客交互的负面或正面影响最大。
+* insight以了解哪些元素对访客交互的负面或正面影响最大。
 
 **体验测试**（经验丰富的定位）根据一组营销人员定义的规则和条件向特定受众提供内容。 此方法提供了一种根据一组定义的分配规则将特定内容定位到特定受众的方法。
 
@@ -54,11 +54,11 @@ Target的工作原理
 1. 根据用户活动的规则显示内容。
 1. Adobe Target会捕获活动配置中定义的特定指标，以衡量测试体验的影响。
 
-Target构建在“全局Mbox”之上，可提供影响页面上任何内容的功能。 此功能在页面加载时部署为at.js文件的硬编码链接，或者使用标签管理器(如AdobeLaunch)交付。
+Target构建在“全局Mbox”之上，可提供影响页面上任何内容的功能。 此功能在页面加载时部署为at.js文件的硬编码链接，或者使用标签管理器(如Adobe Launch)交付。
 
 ## 了解您当前的实施
 
-为了解您当前的实施，Adobe建议您查看Target用户界面实施，以及标签管理器和页面加载实施。
+要了解您当前的实施，Adobe建议您查看Target用户界面实施以及标签管理器和页面加载实施。
 
 **查看您的[!DNL Target]用户界面：**
 
@@ -102,9 +102,9 @@ Target构建在“全局Mbox”之上，可提供影响页面上任何内容的�
 
 ## [!DNL Target]审核活动
 
-要避免手动遍历每个页面来审核[!DNL Target]Adobe，请使用Auditor帮助了解实施的当前技术状态。 AdobeAuditor由ObservePoint提供支持，可以设置为在手动级别运行，以确定您网站上的高级别实施问题。
+要避免手动审核每个页面来审核[!DNL Target]活动，请使用Adobe Auditor帮助了解实施的当前技术状态。 Adobe Auditor由ObservePoint提供支持，可以设置为以手动级别运行，以确定您网站上的高级别实施问题。
 
-AdobeAuditor提供：
+Adobe Auditor提供：
 
 * 高站点运行状况
 * 实施问题的快速调用
@@ -166,4 +166,4 @@ Adobe建议每月对以下对象执行手动审核：
 
 有关详细信息，请与高级顾问Wilder Freed一起回顾我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心了解有关战略和思想领导力的更多信息。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解有关战略和思想领导力的更多信息。

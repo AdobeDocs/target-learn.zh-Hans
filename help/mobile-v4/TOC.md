@@ -1,5 +1,5 @@
 ---
-user-guide-title: 带有适用于Android的AdobeMobile Services SDK v4的Adobe Target
+user-guide-title: Adobe Target与Adobe Mobile Services SDK v4 for Android
 user-guide-url: /content/help/en/target-learn/mobile-sdk-v4-android/overview.html
 source-git-commit: 79f64f63731d2e16118396c5e42c17f62fbd5304
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 5%
 ---
 
 
-# 带有适用于Android的AdobeMobile Services SDK v4的Adobe Target {#mobile-sdk-v4-android}
+# Adobe Target与Adobe Mobile Services SDK v4 for Android {#mobile-sdk-v4-android}
 
 + [概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=zh-Hans)
 + [下载并更新示例应用程序](download-and-update-the-sample-app.md)

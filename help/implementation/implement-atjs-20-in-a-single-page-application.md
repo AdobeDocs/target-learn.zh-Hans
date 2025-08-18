@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe Target的`at.js` 2.0提供了丰富的功能集，使您的企业能够在下一代客户端技术上实现个性化。 此版本着重于升级`at.js`，以便与单页应用程序(SPA)进行良性的交互。
 
->[!VIDEO](https://video.tv.adobe.com/v/34754?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26248?quality=12)
 
 ## 如何在SPA中实施at.js 2.0
 

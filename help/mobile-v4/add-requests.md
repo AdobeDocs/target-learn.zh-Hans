@@ -1,6 +1,6 @@
 ---
 title: 添加Adobe Target请求
-description: AdobeMobile Services SDK (v4)提供了Adobe Target方法和功能，让您能够为不同用户提供不同的体验，从而将您的应用程序个性化。
+description: Adobe Mobile Services SDK (v4)提供了Adobe Target方法和功能，让您能够为不同用户使用不同的体验来个性化您的应用程序。
 role: Developer
 level: Intermediate
 topic: Mobile, Personalization
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 添加Adobe Target请求
 
-AdobeMobile Services SDK (v4)提供了Adobe Target方法和功能，让您能够为不同用户提供不同的体验，从而将您的应用程序个性化。 通常，应用程序会向Adobe Target发出一个或多个请求，以检索个性化内容并衡量该内容的影响。
+Adobe Mobile Services SDK (v4)提供了Adobe Target方法和功能，可让您为不同用户使用不同的体验来个性化您的应用程序。 通常，应用程序会向Adobe Target发出一个或多个请求，以检索个性化内容并衡量该内容的影响。
 
 在本课程中，您将通过实施[!DNL Target]请求来准备We.Travel应用程序以进行个性化。
 
@@ -52,7 +52,7 @@ AdobeMobile Services SDK (v4)提供了Adobe Target方法和功能，让您能够
 
 我们将在We.Travel中实施的第一个请求是批预取请求，主屏幕上具有两个[!DNL Target]位置。 在稍后的课程中，我们将为这些显示消息的位置配置选件，以帮助引导新用户完成预订过程。
 
-预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=zh-Hans)。
+预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)。
 
 ### 添加批次预回迁请求
 
@@ -116,7 +116,7 @@ public static final String wetravel_engage_search = "wetravel_engage_search";
 
 | 代码 | 描述 |
 |--- |--- |
-| `targetPrefetchContent()` | 用户定义的函数（不是SDK的一部分），它使用[!DNL Target]方法检索和缓存两个[!DNL Target]位置。 |
+| `targetPrefetchContent()` | 用户定义的函数(不是SDK的一部分)，它使用[!DNL Target]方法检索和缓存两个[!DNL Target]位置。 |
 | `prefetchContent()` | 发送预取请求的[!DNL Target] SDK方法 |
 | `Constant.wetravel_engage_home` | 预获取的[!DNL Target]位置名称将在主屏幕上显示其选件内容 |
 | `Constant.wetravel_engage_search` | 预获取的[!DNL Target]位置名称将在搜索结果屏幕上显示其选件内容。 由于这是预取中的第二个位置，因此该预取请求称为“预取批处理请求”。 |
@@ -124,7 +124,7 @@ public static final String wetravel_engage_search = "wetravel_engage_search";
 
 ### 关于异步与同步
 
-使用我们刚刚实施的代码，预取请求将作为同步、阻止调用在主屏幕呈现之前发出。 在将新代码粘贴到HomeActivity控制器中时，我们将`setUp()`函数的执行从`onResume()`函数移动到Target请求之后。 当您想要在应用程序首次打开时个性化内容时，这可能会很有用，因为它可以确保在第一个屏幕呈现之前来自Target服务器的个性化内容已返回（或超时）。 要允许异步加载请求（在后台），只需在`onCreate()`函数中调用`setUp()`即可。
+使用我们刚刚实施的代码，预取请求将作为同步、阻止调用在主屏幕呈现之前发出。 在将新代码粘贴到HomeActivity控制器中时，我们将`setUp()`函数的执行从`onResume()`函数移动到Target请求之后。 当您想要在应用程序首次打开时个性化内容时，这可能会很有用，因为它可以确保在第一个屏幕呈现之前来自Target服务器的个性化内容已返回（或超时）。 要允许异步加载请求（在后台），只需在`setUp()`函数中调用`onCreate()`即可。
 
 ### 验证批处理预取请求
 
@@ -188,7 +188,7 @@ public static final String wetravel_engage_search = "wetravel_engage_search";
     }
 ```
 
-现在为SearchBusActivity中的wetravel_engage_search位置添加`engageMessage()`调用和方法。 请注意，`engageMessage()`调用是在调用`setUpSearch()`之前在`onResume()`方法中设置的，因此它在设置屏幕之前运行：
+现在为SearchBusActivity中的wetravel_engage_search位置添加`engageMessage()`调用和方法。 请注意，`engageMessage()`调用是在调用`onResume()`之前在`setUpSearch()`方法中设置的，因此它在设置屏幕之前运行：
 
 ![添加第二个加载请求](assets/wetravel_engage_search_loadRequest.jpg)
 
@@ -284,7 +284,7 @@ import com.adobe.mobile.TargetPrefetchObject;
 
 | 代码 | 描述 |
 |--- |--- |
-| `targetLoadRequest()` | 用户定义的函数（不是SDK的一部分），用于触发`Target.loadRequest()`，以加载和显示wetravel_context_dest位置 |
+| `targetLoadRequest()` | 用户定义的函数(不是SDK的一部分)，用于触发`Target.loadRequest()`，以加载并显示wetravel_context_dest位置 |
 | `Target.loadRequest()` | 向Target服务器发出请求的SDK方法 |
 | Constant.wetravel_context_dest | 在[!DNL Target]界面中构建活动时分配给请求的位置名称，我们稍后将使用该名称 |
 | `filterRecommendationBasedOnOffer()` | 应用程序中一个用户定义的函数，它从Target响应中获取位置的选件，并根据选件内容决定应用程序应如何更改 |
@@ -294,7 +294,7 @@ import com.adobe.mobile.TargetPrefetchObject;
 
 1. 我们通过注释掉代码行，中断了应用程序之前显示三个默认促销活动的行为
 1. 我们指示应用程序执行一个新函数，我们随意将其命名为targetLoadRequest
-1. 我们定义了`targetLoadRequest`函数以使用Target.loadRequest方法向Target发出请求，并在收到[!DNL Target]优惠响应时立即执行`filterRecommendationBasedOnOffer()`函数
+1. 我们定义了`targetLoadRequest`函数以使用Target.loadRequest方法向Target发出请求，并在收到`filterRecommendationBasedOnOffer()`优惠响应时立即执行[!DNL Target]函数
 1. `filterRecommendationBasedOnOffer()`函数将解释响应并决定应将哪些促销活动应用于屏幕
 
 在移动设备应用程序中使用[!DNL Target]时，这是一种非常常见的使用模式。  两者都非常强大，因为您可以对移动设备应用程序的几乎任何方面进行个性化。 它还需要应用程序代码与我们稍后将在[!DNL Target]界面中定义的选件之间进行协调。 由于这种协调，某些个性化用例可能要求您在应用商店中更新应用程序才能启动活动。

@@ -20,4 +20,4 @@ ht-degree: 12%
 
 了解如何在[!DNL Target]中创建和保存自定义受众以在您的活动中使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411152/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/344302/?quality=12&learn=on)

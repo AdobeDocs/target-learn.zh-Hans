@@ -21,8 +21,8 @@ ht-degree: 2%
 
 Automated Personalization和自动定位活动可使用先进的机器学习技术，根据每位访客的个人客户配置文件和具有相似配置文件的先前访客的行为，向每位访客提供量身定制的体验。 Personalization分析报表提供了有关这些模型如何进行决策的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/328064/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25601/?quality=12)
 
 ## 其他信息
 
-* 帮助文档中的[Personalization Insights](https://experienceleague.adobe.com/docs/target/using/reports/insights/personalization-insights-reports.html?lang=zh-Hans)
+* 帮助文档中的[Personalization Insights](https://experienceleague.adobe.com/docs/target/using/reports/insights/personalization-insights-reports.html?lang=en)

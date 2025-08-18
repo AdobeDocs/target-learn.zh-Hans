@@ -28,6 +28,6 @@ ht-degree: 3%
 
 ## 注释
 
-此视频演示了使用[Adobe Developer Console](https://developer.adobe.com/developer-console/)进行集成的概念。 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问&#x200B;*Adobe Target开发人员指南*&#x200B;中的此[Adobe身份验证配置指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"}。
+此视频演示了使用[Adobe Developer Console](https://developer.adobe.com/developer-console/)进行集成的概念。 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问此[Adobe Target开发人员指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"}中有关配置Adobe身份验证的&#x200B;*指南*。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35150/?quality=12)

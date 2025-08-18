@@ -1,6 +1,6 @@
 ---
-title: 带有适用于Android的AdobeMobile Services SDK v4的Adobe Target
-description: 对于已经在使用AdobeMobile Services SDK v4，并且希望开始使用Android提供个性化应用程序体验的Android开发人员而言，具有适用于Adobe的Adobe Target Mobile Services SDK v4的Adobe Target是一个完美起点。
+title: Adobe Target与Adobe Mobile Services SDK v4 for Android
+description: Adobe Target对于已经在使用Adobe Mobile Services SDK v4且希望开始使用Android提供个性化应用程序体验的Android开发人员而言，带Adobe Mobile Services SDK v4的Adobe Target是一个完美起点。
 role: Developer
 level: Intermediate
 topic: Mobile, Personalization
@@ -15,15 +15,15 @@ ht-degree: 2%
 
 ---
 
-# 带有适用于Android的AdobeMobile Services SDK v4的Adobe Target — 概述
+# Adobe Target与Adobe Mobile Services SDK v4 for Android — 概述
 
-对于已经在使用AdobeMobile Services SDK v4且希望开始使用Adobe Target进行个性化的Android应用程序体验的Android开发人员而言，_具有适用于Adobe Target的AdobeMobile Services SDK v4的是最佳起点。_
+对于已经在使用Adobe Mobile Services SDK v4且希望开始使用Android提供个性化应用程序体验的Android开发人员而言，_Adobe Target与Adobe Mobile Services SDK v4 for Adobe Target_&#x200B;是最佳起点。
 
 我们为您提供了Android演示应用程序来完成课程。 完成本教程后，您应该可以在自己的Android应用程序中开始实施[!DNL Target]！
 
 完成此教程后，您将能够：
 
-* 验证[AdobeMobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=zh-Hans)安装程序
+* 验证[Adobe Mobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=en)安装程序
 * 实施以下类型的[!DNL Target]请求：
    * 预取[!DNL Target]内容
    * 在单个请求中批处理多个[!DNL Target]位置(mbox)
@@ -40,12 +40,12 @@ ht-degree: 2%
 
 在这些课程中，假定您：
 
-* 拥有Adobe Target界面的AdobeID和审批者级别访问权限（请参阅下面的验证步骤）
+* 拥有Adobe ID和审批者级别的Adobe Target界面访问权限（请参阅下面的验证步骤）
 * 了解您的Adobe Target客户端代码，以便能够向自己的帐户发出请求。 客户端代码显示在上的Adobe Target界面中。   “设置”>“实施”>“编辑at.js设置”屏幕
 * 有权访问并熟悉[Mobile Services用户界面](https://mobilemarketing.adobe.com/)
 * 拥有用于Android移动应用程序开发的IDE。 本教程在各个步骤和屏幕截图中都介绍了[Android Studio](https://developer.android.com/studio/install)
 
-如果您没有访问Experience Cloud解决方案所需的权限，请联系您的Experience Cloud管理员。
+如果您没有访问Experience Cloud解决方案所需的权限，请联系Experience Cloud管理员。
 
 此外，我们还假定您熟悉Java中的Android开发。 您无需成为Java专家即可完成课程，但如果您能够轻松阅读和理解代码，将可从这些课程中学到更多知识。
 
@@ -56,9 +56,9 @@ ht-degree: 2%
 1. 登录[Adobe Experience Cloud](https://experience.adobe.com/)
 1. 在Experience Cloud主屏幕中，单击[!DNL Target]：
    ![Experience Cloud主屏幕](assets/aec_homeScreen_clickTarget.png)
-1. 您应该转到Adobe Target中的“活动”列表，如下图所示，并且您应该看到用户具有审批者级别的访问权限。 如果您无法访问[!DNL Target]或无法验证审批者级别的访问权限，请联系您公司的某个Experience Cloud管理员，请求此访问权限，并在获得授权后继续学习本教程：
+1. 您应该转到Adobe Target中的“活动”列表，如下图所示，并且您应该看到用户具有审批者级别的访问权限。 如果您无法访问[!DNL Target]或无法验证审批者级别的访问权限，请联系贵公司的Experience Cloud管理员，请求此访问权限，并在获得授权后继续学习本教程：
 
-   ![Adobe的UI](assets/targetUI_approver.png)
+   ![Adobe UI](assets/targetUI_approver.png)
 
 ## 关于课程
 

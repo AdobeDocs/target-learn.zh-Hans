@@ -1,6 +1,6 @@
 ---
-title: 如何将AdobeReal-time CDP中的区段和配置文件属性激活到Adobe Target？
-description: 了解如何从Adobe Real-time Customer Data Platform向Adobe Target激活区段和配置文件属性，以在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。
+title: 如何将Adobe Real-time CDP中的区段和配置文件属性激活到Adobe Target？
+description: 了解如何从Adobe Real-Time Customer Data Platform向Adobe Target激活区段和配置文件属性，以在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。
 feature-set: Experience Platform, Target
 feature: Destinations, Profiles, Integrations
 role: User
@@ -16,8 +16,8 @@ ht-degree: 5%
 
 ---
 
-# 激活区段和配置文件属性
+# 激活区段和轮廓属性
 
-了解如何从Adobe Real-time Customer Data Platform向Adobe Target激活区段和配置文件属性，以在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。 有关详细信息，请参阅[将受众数据激活到配置文件请求目标文档](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-profile-request-destinations.html?lang=zh-Hans)。
+了解如何从Adobe Real-Time Customer Data Platform向Adobe Target激活区段和配置文件属性，以在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。 有关详细信息，请参阅[将受众数据激活到配置文件请求目标文档](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-profile-request-destinations.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447365/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)

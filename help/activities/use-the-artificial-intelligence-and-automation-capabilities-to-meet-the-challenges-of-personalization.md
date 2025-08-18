@@ -20,4 +20,4 @@ ht-degree: 1%
 
 此视频涵盖个性化的重要性、做好个性化所面临的挑战、这些挑战的解决方案(Adobe Target中的四个AI/自动化产品)以及提供个性化体验的关键构建块。 它是杰米·布莱顿2018年Adobe Summit报告的一个编辑版本。
 
->[!VIDEO](https://video.tv.adobe.com/v/30328/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25440/?quality=12)

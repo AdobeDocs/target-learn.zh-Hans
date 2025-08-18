@@ -37,11 +37,11 @@ ht-degree: 10%
 <table style="margin-top: 0 !important">
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html">
       <img alt="将Target从at.js迁移到Platform Web SDK" src="./assets/thumb_websdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/migrate-target-to-websdk/introduction.html">
     <strong>将Target从at.js迁移到Platform Web SDK</strong>
     </a>
     </div>
@@ -50,11 +50,11 @@ ht-degree: 10%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=zh-Hans"> 
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html"> 
       <img alt="使用Adobe Experience Platform标记实施Target" src="./assets/add-adobe-target.jpg"/>
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html">
     <strong>使用Adobe Experience Platform标记实施Target</strong>
     </a>
     </div>
@@ -63,11 +63,11 @@ ht-degree: 10%
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
       <img alt="在单页应用程序(SPA)中实施Adobe Target的at.js 2.0" src="./assets/26248.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html">
     <strong>在SPA中实施at.js 2.0</strong>
     </a>
     </div>

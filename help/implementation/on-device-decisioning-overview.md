@@ -33,7 +33,7 @@ Adobe Target设备上决策支持几乎无延迟的内容交付。 这个7分钟
 * 描述设备上决策及其优势
 * 在Target中启用设备上决策
 * 创建用于设备上决策的基于表单的编辑器活动
-* 通过访问[SDK SDK文档](https://experienceleague.adobe.com/zh-hans/docs/target-dev/developer/server-side/on-device-decisioning/overview)，了解有关设备上决策所需的Adobe Target配置的更多信息
+* 通过访问[SDK SDK文档](https://experienceleague.adobe.com/en/docs/target-dev/developer/server-side/on-device-decisioning/overview)，了解有关设备上决策所需的Adobe Target配置的更多信息
 * 了解最终用户对使用设备上决策交付的内容会有什么体验
 
 ## 目标受众
@@ -42,4 +42,4 @@ Adobe Target设备上决策支持几乎无延迟的内容交付。 这个7分钟
 
 >[!VIDEO](https://video.tv.adobe.com/v/329032/?quality=12)
 
-有关详细信息，请参阅&#x200B;*Adobe Target开发人员指南*&#x200B;中的[设备上决策概述](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html?lang=zh-Hans){target=_blank}。
+有关详细信息，请参阅[Adobe Target开发人员指南](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/on-device-decisioning/overview.html){target=_blank}中的&#x200B;*设备上决策概述*。

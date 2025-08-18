@@ -30,4 +30,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35147/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/experiences/offers/aem-experience-fragments.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/experiences/offers/aem-experience-fragments.html?lang=en)。

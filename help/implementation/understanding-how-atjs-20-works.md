@@ -41,8 +41,8 @@ ht-degree: 0%
 
    单页应用程序的未来视图的目标内容将缓存在浏览器中，因此当视图触发时，可以立即应用它而无需额外的服务器调用。 （有关`triggerView()`行为，请参阅下图）。
 
-1. 从页面向[!UICONTROL Data Collection]服务器发送的[!DNL Analytics]数据
-1. [!DNL Target]数据通过SDID匹配到Analytics数据，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Target]中通过A4T报表查看[!DNL Analytics]数据。
+1. 从页面向[!DNL Analytics]服务器发送的[!UICONTROL Data Collection]数据
+1. [!DNL Target]数据通过SDID匹配到Analytics数据，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Analytics]中通过A4T报表查看[!DNL Target]数据。
 
 使用triggerView()函数时的![at.js 2.0行为](assets/triggerview.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 1. 通知请求将发送到[!DNL Target] [!UICONTROL Profile Store]以计算活动中的访客和递增量度
 1. [!DNL Analytics]数据从SPA发送到[!UICONTROL Data Collection]服务器
 
-1. [!DNL Target]数据从[!DNL Target]后端发送到[!UICONTROL Data Collection]服务器。 [!DNL Target]数据通过SDID与[!DNL Analytics]数据匹配，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Target]中通过A4T报表查看[!DNL Analytics]数据。
+1. [!DNL Target]数据从[!DNL Target]后端发送到[!UICONTROL Data Collection]服务器。 [!DNL Target]数据通过SDID与[!DNL Analytics]数据匹配，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Analytics]中通过A4T报表查看[!DNL Target]数据。
 
 ## 其他资源
 

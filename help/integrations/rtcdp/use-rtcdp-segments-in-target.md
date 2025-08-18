@@ -1,6 +1,6 @@
 ---
 title: 如何在Adobe Target中使用Real-Time CDP区段？
-description: 了解如何在Adobe Target中使用Real-time Customer Data Platform区段在您的网站和移动应用程序上提供个性化体验。
+description: 了解如何在Adobe Target中使用Real-Time Customer Data Platform区段在您的网站和移动应用程序上提供个性化体验。
 feature-set: Experience Platform, Target
 feature: Destinations, Segments, Audiences, Integrations
 solution: Experience Platform, Target
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 在Target中使用Real-Time CDP区段
 
-了解如何在Adobe Target中使用Real-time Customer Data Platform区段在您的网站和移动应用程序上提供个性化体验。 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/integrating-with-rtcdp.html?lang=zh-Hans)。
+了解如何在Adobe Target中使用Real-Time Customer Data Platform区段在您的网站和移动应用程序上提供个性化体验。 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/target/using/integrate/integrating-with-rtcdp.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446837/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)

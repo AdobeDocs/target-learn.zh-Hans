@@ -28,7 +28,7 @@ ht-degree: 1%
 
 更具体地说，在本课程中，我们将创建完成教程开始时定义的个性化用例所需的受众和选件。 我们希望使用“主页”和“搜索”屏幕来帮助应用程序用户预订行程，我们希望使用“感谢”屏幕根据用户的目的地显示一些相关促销活动。 下表显示了我们在本课程中将为每个位置构建的内容：
 
-| 位置 | 受众 | 优惠 |
+| 位置 | 受众 | 产品建议 |
 | --- | --- | --- |
 | wetravel_engage_home | 新的移动设备应用程序用户 | “选择您的起源和目的地以搜索可用的巴士路线” |
 | wetravel_engage_search | 新的移动设备应用程序用户 | “使用筛选器缩小搜索结果的范围” |
@@ -52,12 +52,12 @@ ht-degree: 1%
 Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件定位到这些特定组。 对于前两个位置，我们将使用“新用户”受众：
 
 1. 在顶部导航中单击&#x200B;**[!UICONTROL Audiences]**。
-1. 单击&#x200B;**[!UICONTROL Create Audience]**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL Create Audience]**按钮。
    ![创建新用户受众](assets/audience_new_mobile_app_users_1.jpg)
 
 1. 输入&#x200B;**[!UICONTROL New Mobile App Users]**&#x200B;作为受众名称。
 1. 选择&#x200B;**[!UICONTROL Add Rule]**。
-1. 选择&#x200B;**[!UICONTROL Custom]**&#x200B;规则。
+1. 选择&#x200B;**[!UICONTROL Custom]**规则。
    ![创建新用户受众](assets/audience_new_mobile_app_users_2.jpg)
 
 1. 选择&#x200B;**[!UICONTROL a.Launches]**。
@@ -78,7 +78,7 @@ Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件
 
 >[!NOTE]
 >
->在[!DNL Target] Mobile SDK中收集的所有生命周期量度和维度均以“a”（例如a.Launches）为前缀，并且可在下拉菜单的“自定义”选项中使用，可用于构建受众。
+>在[!DNL Target]移动设备SDK中收集的所有生命周期量度和维度都以“a”（例如a.Launches）为前缀，可在下拉菜单的“自定义”选项中使用，并且可用于构建受众。
 
 ### 为预订圣地亚哥之旅的用户创建受众
 

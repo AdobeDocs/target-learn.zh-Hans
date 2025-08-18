@@ -35,7 +35,7 @@ ht-degree: 1%
 
 以下是我们将构建的活动摘要：
 
-| 受众 | 位置 | 选件 |
+| 受众 | 位置 | 产品建议 |
 |---|---|---|
 | 新的移动设备应用程序用户 | wetravel_engage_home， wetravel_engage_search | 主页：吸引新用户，搜索：吸引新用户 |
 | 返回的移动设备应用程序用户 | wetravel_engage_home， wetravel_engage_search | 主页：旧用户，default_content |
@@ -126,7 +126,7 @@ ht-degree: 1%
 
 以下是我们将构建的第二个活动的摘要：
 
-| 受众 | 位置 | 选件 |
+| 受众 | 位置 | 产品建议 |
 | --- | --- | --- |
 | 目标：圣地亚哥 | wetravel_context_dest | 圣迭戈促销活动 |
 | 目标：洛杉矶 | wetravel_context_dest | 洛杉矶促销活动 |
@@ -193,7 +193,7 @@ ht-degree: 1%
 
 ## 结论
 
-恭喜！此部分结束了适用于Android的Adobe Target SDK 4.x教程的主要部分。 您现在拥有在Android应用程序中实施个性化的技能！ 您可以参考此文档和演示应用程序，作为未来项目的参考。
+恭喜！该部分介绍了适用于Android的Adobe Target SDK 4.x教程的主要部分。 您现在拥有在Android应用程序中实施个性化的技能！ 您可以参考此文档和演示应用程序，作为未来项目的参考。
 
 下一步：功能标记是另一个可以在Android中使用Adobe Target实施的功能。 要了解功能标记，请查看下一课程。
 

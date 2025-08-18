@@ -11,8 +11,8 @@ ht-degree: 6%
 
 # Adobe Target 教程 {#tutorials}
 
-+ [Adobe TargetTutorials概述](../overview.md)
-+ 管理。{#administration}
++ [Adobe Target教程概述](../overview.md)
++ 管理{#administration}
    + 战略与思想领导力{#strategy}
       + [个性化测试和路线图创建快速入门](../strategy/create-personalization-roadmap-testing-plan.md)
       + [实施战略和系统治理](../dev101/1-1-implementation-strategy-sys-governance.md)
@@ -27,7 +27,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hans)
+   + 使用Launch在网站中实施[](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)
@@ -35,7 +35,7 @@ ht-degree: 6%
    + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
    + [设计Target实施](../dev101/2-5-design-target-implementation.md)
    + [设计Target实施的后续步骤](../dev101/2-6-next-steps-design-target-implementation.md)
-   + [根据用户同意使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=zh-Hans)
+   + [在用户同意的基础上使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
    + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
    + [Adobe Target的实施模式](../implementation/implementation-patterns-for-adobe-target.md)
@@ -51,7 +51,7 @@ ht-degree: 6%
    + 将Target与Real-Time CDP集成{#rtcdp}
       + [使用Adobe Target进行下一次点击个性化](../integrations/rtcdp/next-hit-personalization.md)
       + [配置Adobe Target目标](../integrations/rtcdp/configure-the-target-destination.md)
-      + [激活区段和配置文件属性](../integrations/rtcdp/activate-segments-and-profile-attributes.md)
+      + [激活区段和轮廓属性](../integrations/rtcdp/activate-segments-and-profile-attributes.md)
       + [在Target中使用Real-Time CDP区段](../integrations/rtcdp/use-rtcdp-segments-in-target.md)
       + [在Target中使用Real-Time CDP配置文件属性](../integrations/rtcdp/use-rtcdp-profile-attributes-in-target.md)
    + [将Target与Scene7集成](../dev101/3-8-target-scene7.md)
@@ -83,17 +83,17 @@ ht-degree: 6%
    + [使用Personalization分析报表](../reports/use-the-personalization-insights-reports.md)
 + 推荐{#recommendations}
    + [创建“推荐”活动](../recommendations/create-a-recommendations-activity.md)
-   + [使用Recommendations选件](../recommendations/use-recommendations-offers.md)
+   + [使用推荐选件](../recommendations/use-recommendations-offers.md)
    + [了解信息源](../recommendations/understanding-feeds.md)
    + [创建信息源](../recommendations/create-a-feed.md)
    + [创建标准](../recommendations/create-criteria.md)
    + [创建自定义设计](../recommendations/create-custom-designs.md)
    + [创建收藏集和排除项](../recommendations/create-collections-and-exclusions.md)
-+ 疑难解答{#troubleshooting}
-   + [Experience Cloud Debugger故障诊断](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
++ 故障排除{#troubleshooting}
+   + [Experience Cloud Debugger疑难解答](../troubleshooting/troubleshoot-with-the-experience-cloud-debugger.md)
    + [Target跟踪疑难解答](../troubleshooting/troubleshoot-with-target-traces.md)
    + [Mbox错误疑难解答](../dev101/4-1-troubleshoot-mbox-errors.md)
    + [活动错误疑难解答](../dev101/4-2-troubleshoot-activity-errors.md)
    + [A4T集成错误故障诊断](../dev101/4-3-troubleshoot-integration-errors.md)
 + 移动设备{#mobile}
-   + [使用适用于Android的AdobeMobile Services SDK v4实施Adobe Target](../mobile-v4/overview.md)
+   + [使用适用于Android的Adobe Mobile Services SDK v4实施Adobe Target](../mobile-v4/overview.md)

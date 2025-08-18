@@ -29,7 +29,7 @@ ht-degree: 12%
 
 * 商业从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/33958?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27688?quality=12)
 
 ## 其他资源
 
@@ -39,4 +39,4 @@ ht-degree: 12%
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
 * [创建收藏集和排除项](create-collections-and-exclusions.md)
-* [推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=zh-Hans)
+* [推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)
