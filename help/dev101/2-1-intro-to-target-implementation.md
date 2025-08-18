@@ -32,5 +32,5 @@ ht-degree: 38%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35139/?quality=12)
 
-有关详细信息，请参阅[中的](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html){target=_blank}客户端实现[或](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/server-side-overview.html){target=_blank}服务器端实现&#x200B;*[!UICONTROL Adobe Target Developer Guide]*。
+有关详细信息，请参阅[中的](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=zh-Hans){target=_blank}客户端实现[或](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/server-side-overview.html?lang=zh-Hans){target=_blank}服务器端实现&#x200B;*[!UICONTROL Adobe Target Developer Guide]*。
 

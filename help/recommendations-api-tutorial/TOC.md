@@ -12,9 +12,9 @@ ht-degree: 0%
 # 使用Adobe Target推荐API{#recommendations-api-tutorial}
 
 + [推荐API概述](recs-api-overview.md)
-+ [使用API管理您的目录](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html){target="_blank"}
-+ [管理自定义标准](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-custom-criteria.html){target="_blank"}
-+ [将投放API与推荐配合使用](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/fetch-recs-server-side-delivery-api.html){target="_blank"}
++ [使用API管理您的目录](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html?lang=zh-Hans){target="_blank"}
++ [管理自定义标准](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-custom-criteria.html?lang=zh-Hans){target="_blank"}
++ [将投放API与推荐配合使用](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/fetch-recs-server-side-delivery-api.html?lang=zh-Hans){target="_blank"}
 
 <!--+ [Debug API calls](6debug.md)
 + [Download the Calculated Recommendations CSV](7download-calc-recs-csv.md)-->

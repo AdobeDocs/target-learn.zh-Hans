@@ -38,7 +38,7 @@ We.Travel示例应用程序是使用Adobe Mobile Services SDK v4预先实施的�
 
 ## 验证并更新[!DNL Target]的Mobile Services SDK设置
 
-根据文档[，Adobe Mobile Services SDK已在We.Travel应用程序](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=en)中预安装。 现在将更新安装以指向您自己的[!DNL Target]帐户。
+根据文档[，Adobe Mobile Services SDK已在We.Travel应用程序](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=zh-Hans)中预安装。 现在将更新安装以指向您自己的[!DNL Target]帐户。
 
 首先，在Mobile Services用户界面中创建一个新应用程序：
 

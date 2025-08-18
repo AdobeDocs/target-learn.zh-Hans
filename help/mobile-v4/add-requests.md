@@ -52,7 +52,7 @@ Adobe Mobile Services SDK (v4)提供了Adobe Target方法和功能，可让您�
 
 我们将在We.Travel中实施的第一个请求是批预取请求，主屏幕上具有两个[!DNL Target]位置。 在稍后的课程中，我们将为这些显示消息的位置配置选件，以帮助引导新用户完成预订过程。
 
-预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)。
+预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=zh-Hans)。
 
 ### 添加批次预回迁请求
 

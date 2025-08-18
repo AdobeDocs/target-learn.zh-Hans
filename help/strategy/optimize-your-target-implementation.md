@@ -16,7 +16,7 @@ ht-degree: 0%
 
 如果您是组织的新手，并且希望熟悉测试和优化实践中的现有内容，本文可帮助您入门。 我们首先会概述Adobe Target的实施和结构。 您将学习如何了解和审核组织的设置。 最后，我们将讨论常见的故障排除技巧以及有关为团队创建知识存储库的提示。
 
-Adobe Target是一款允许对不同访客测试和定位独特内容的工具。 有关可用功能的概述，[请访问此指南](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)。
+Adobe Target是一款允许对不同访客测试和定位独特内容的工具。 有关可用功能的概述，[请访问此指南](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=zh-Hans)。
 
 ## Target实施和结构
 
@@ -166,4 +166,4 @@ Adobe建议每月对以下对象执行手动审核：
 
 有关详细信息，请与高级顾问Wilder Freed一起回顾我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解有关战略和思想领导力的更多信息。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心了解有关战略和思想领导力的更多信息。
