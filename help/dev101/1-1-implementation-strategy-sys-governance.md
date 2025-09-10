@@ -1,7 +1,7 @@
 ---
 title: 如何对待实施战略和系统治理
-description: 了解如何识别和应用治理最佳实践并列出 Target 实施要求。
-landing-page-description: 观看本视频以了解如何识别和应用治理最佳实践并列出 Target 实施要求。
+description: 了解如何识别和应用监管最佳实践并列出 Target 实施要求。
+landing-page-description: 观看本视频以了解如何识别和应用监管最佳实践并列出 Target 实施要求。
 short-description: 观看本视频以了解如何识别和应用治理最佳实践并列出 Target 实施要求。
 role: Admin, Developer, Architect
 level: Intermediate
@@ -34,4 +34,4 @@ ht-degree: 53%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33753/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/administer/administrating-target.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/administer/administrating-target.html?lang=en)。
