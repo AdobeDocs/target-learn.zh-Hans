@@ -1,7 +1,9 @@
 ---
 user-guide-title: Adobe Target 教程
 user-guide-url: /content/help/en/target-learn/tutorials/overview.html
-source-git-commit: 1b14e7987309bc4104fa842558861eeedb0ddb44
+landing-page-breadcrumb-title: Adobe Target
+landing-page-name: target
+source-git-commit: a416f01d695b7f2b1686c93e3c777b8ae005ca09
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 6%
@@ -27,7 +29,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hans)
+   + 使用Launch在网站中实施[](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)
@@ -35,7 +37,7 @@ ht-degree: 6%
    + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
    + [设计Target实施](../dev101/2-5-design-target-implementation.md)
    + [设计Target实施的后续步骤](../dev101/2-6-next-steps-design-target-implementation.md)
-   + [在用户同意的基础上使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=zh-Hans)
+   + [在用户同意的基础上使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
    + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
    + [Adobe Target的实施模式](../implementation/implementation-patterns-for-adobe-target.md)
