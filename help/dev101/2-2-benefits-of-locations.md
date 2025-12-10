@@ -1,7 +1,7 @@
 ---
 title: 使用位置有哪些好处
 description: 了解如何为给定方案选择最佳的Adobe Target实施类型。
-role: Developer, Architect
+role: Developer
 level: Intermediate
 topic: Personalization, Development
 feature: Implementation
@@ -9,7 +9,7 @@ doc-type: technical video
 kt: 5380
 thumbnail: 35140.jpg
 exl-id: 5b20a321-058c-4ef6-8c2e-3ac28cba6cde
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+source-git-commit: ac4fad8a7fb77852b1bd27b9b6d49e55f8aa975a
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 1%
@@ -30,4 +30,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35140/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/implement-target/implementing-target.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/implement-target/implementing-target.html?lang=en)。
