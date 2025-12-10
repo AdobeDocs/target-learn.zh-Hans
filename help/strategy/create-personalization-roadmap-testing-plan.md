@@ -90,4 +90,4 @@ Adobe建议您对每个用例按1-5之间的比例进行排名；1表示简单�
 
 我们建议您观看此视频，其中讨论了以下每个步骤：[https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解有关战略和思想领导力的更多信息。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心了解有关战略和思想领导力的更多信息。
