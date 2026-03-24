@@ -3,35 +3,37 @@ cloud: Experience Cloud
 product: target
 solution: Target
 solution-title: Target
-solution-hub-url: https://helpx.adobe.com/cn/support/target.html
+landing-page-name: target
+landing-page-breadcrumb-title: Target
+solution-hub-url: https://helpx.adobe.com/support/target.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/cn/target/get-started.html
+getting-started-url: https://helpx.adobe.com/target/get-started.html
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/target-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/target-learn.zh-Hans
+git-repo: https://github.com/AdobeDocs/target-learn.en
 index: true
 mini-toc-levels: 2
 feature-set: Target
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 17d2bc2929eed3c029705c3842c902141c639f02
+source-git-commit: 9d58452f04e280cc5f27b17a50cd5d6dc0141f47
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 99%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
 
-# 供内部使用的元数据
+# 元数据供内部使用
 
-metadata.md 文件包括存储库级元数据，这些元数据会传递给存储库中的用户指南 TOC.md 文件。如果要更改任意用户指南的 metadata.md 内容，请在任意 TOC.md 文件中执行此操作。
+metadata.md文件包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南TOC.md文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
 
-| 元数据 | 它的功能 |
+| 元数据 | 作用 |
 |--- |--- |
 | solution-title | 在文章标题中用作链接 |
-| solution-hub-url | 打开 Helpx 中心页面 |
-| solution-icon | 在解决方案标题旁边显示解决方案图标。尚未实施 |
-| getting-started-url | 指向 helpx 入门页面的链接 |
-| tutorials-url | 指向视频教程（helpx 教程或 KT 教程）的链接 |
-| mini-toc-levels | 确定右边栏中显示的标题级别数。默认为 2 |
-| git-repo | 指定供内部使用的主存储库的位置 |
+| solution-hub-url | 打开helpx中心页面 |
+| 解决方案图标 | 在解决方案标题旁边显示解决方案图标。 尚未实施 |
+| getting-started-url | 指向helpx快速入门页面的链接 |
+| tutorials-url | 指向视频教程的链接 — helpx教程或KT教程 |
+| mini-toc-levels | 确定右边栏中显示的标题级别数。 默认值为2 |
+| git-repo | 指定主存储库的位置以供内部使用 |
