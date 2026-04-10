@@ -3,10 +3,10 @@ user-guide-title: Adobe Target 教程
 user-guide-url: /content/help/en/target-learn/tutorials/overview.html
 landing-page-breadcrumb-title: Adobe Target
 landing-page-name: target
-source-git-commit: a416f01d695b7f2b1686c93e3c777b8ae005ca09
+source-git-commit: 28a6f4bc24da40b4f8cb121227e53add17d391c7
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 6%
+source-wordcount: '489'
+ht-degree: 5%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 6%
 + 实施{#implementation}
    + [Target实施简介](../dev101/2-1-intro-to-target-implementation.md)
    + [将Target与Launch集成](../dev101/3-1-target-launch.md)
-   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hans)
+   + [使用Launch在网站中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
    + [使用位置的好处](../dev101/2-2-benefits-of-locations.md)
    + [Target请求简介](../dev101/2-3-intro-to-target-requests.md)
    + [Target参数简介](../dev101/2-4-intro-to-target-params.md)
@@ -37,10 +37,10 @@ ht-degree: 6%
    + [在单页应用程序(SPA)中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
    + [设计Target实施](../dev101/2-5-design-target-implementation.md)
    + [设计Target实施的后续步骤](../dev101/2-6-next-steps-design-target-implementation.md)
-   + [在用户同意的基础上使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=zh-Hans)
+   + [经用户同意使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
    + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
-   + [Adobe Target的实施模式](../implementation/implementation-patterns-for-adobe-target.md)
+   + Adobe Target的{hide-from-toc}[实现模式](../implementation/implementation-patterns-for-adobe-target.md)
 + 集成{#integrations}
    + [将Target与Analytics集成](../dev101/3-2-target-analytics.md)
    + [使用Analytics as a Data Source for Target (A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)
@@ -58,7 +58,7 @@ ht-degree: 6%
       + [在Target中使用Real-Time CDP配置文件属性](../integrations/rtcdp/use-rtcdp-profile-attributes-in-target.md)
    + [将Target与Scene7集成](../dev101/3-8-target-scene7.md)
    + [将Target与Adobe Experience Manager集成](../dev101/3-5-target-aem.md)
-   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
    + [数据输入：使用数据提供程序集成第三方数据](../integrations/use-data-providers-to-integrate-third-party-data.md)
    + [数据输入：实施数据提供程序以集成第三方数据](../integrations/implement-data-providers-to-integrate-third-party-data.md)
    + [数据输出：使用响应令牌和at.js自定义事件](../integrations/use-response-tokens-and-atjs-custom-events.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
    + [使用可视化体验编辑器](../experiences/use-the-visual-experience-composer.md)
    + [使用单页应用程序的可视化体验编辑器(SPA VEC)](../experiences/use-the-visual-experience-composer-for-single-page-applications.md)
    + [使用基于表单的体验编辑器](../experiences/use-the-form-based-experience-composer.md)
-   + [在Adobe Target中使用AEM体验片段](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
+   + [在Adobe Target中使用AEM Experience Fragments](https://helpx.adobe.com/experience-manager/kt/sites/using/experience-fragment-target-offer-feature-video-use.html)
 + 报表{#reports}
    + [使用Personalization分析报表](../reports/use-the-personalization-insights-reports.md)
 + 推荐{#recommendations}
