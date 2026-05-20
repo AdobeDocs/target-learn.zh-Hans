@@ -46,4 +46,4 @@ ht-degree: 43%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=en)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=zh-Hans)。

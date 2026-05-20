@@ -45,4 +45,4 @@ ht-degree: 13%
 * [了解信息源](understanding-feeds.md)
 * [创建信息源](create-a-feed.md)
 * [创建标准](create-criteria.md)
-* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=zh-Hans)
