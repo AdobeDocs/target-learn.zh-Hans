@@ -9,9 +9,23 @@ doc-type: technical video
 kt: null
 author: Daniel Wright
 exl-id: d6ce5367-a453-4e6c-8545-9fa676977f04
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/gJfFi9mC3iKY8pEdvE1Tuk7Mk2rUOdTKtv67vXQwkO8
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+  - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+subfeature_v2:
+  - id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 230
 ht-degree: 3%
 
 ---
@@ -20,7 +34,7 @@ ht-degree: 3%
 
 响应令牌和`at.js`自定义事件允许您将配置文件信息从[!DNL Target]共享到第三方系统。 [!DNL Target]访客配置文件中的任何对象，包括自定义配置文件属性、地理信息、活动详细信息和内置配置文件，都可以添加到[!DNL Target]响应中，在该响应中，您可以使用自定义JavaScript与第三方集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/33361/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33361/?captions=chi_hans&quality=12)
 
 ## 如何使用响应令牌和at.js自定义事件
 

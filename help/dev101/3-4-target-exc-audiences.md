@@ -9,9 +9,26 @@ doc-type: technical video
 kt: 5392
 thumbnail: 35152.jpg
 exl-id: 00e50e90-29cf-4dc5-8bfc-e938f1d596a4
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/aCYMaVa54IliR-GsbBIc7suxOneAdBAHb-RZWuRbitU
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+  - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: 96
 ht-degree: 1%
 
 ---
@@ -29,6 +46,6 @@ ht-degree: 1%
 
 * 开发人员
 
->[!VIDEO](https://video.tv.adobe.com/v/3421747/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3421747/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=zh-Hans)。

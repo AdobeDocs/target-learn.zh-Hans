@@ -8,16 +8,28 @@ feature: Experience Targeting, Activities, Visual Experience Composer (VEC)
 doc-type: feature video
 kt: null
 exl-id: 997d0902-ff30-4944-b08c-fe6d9f7bcc35
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/TU9cpty1z7lbHiUJB42fiARGfgUUf98H1VOIyWoXxsc
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 27%
+source-wordcount: 219
+ht-degree: 21%
 
 ---
 
 # 创建体验定位活动
 
-体验定位是迈入个性化世界的第一步，通常以 A/B 测试开始。营销人员运行 A/B 测试，并通过使用报表受众，发现不同的体验可与不同的受众产生共鸣。体验定位（或XT）允许营销人员轻松利用此发现并切换到将内容长期定位到这些不同的用户区段。
+体验定位是迈入个性化世界的第一步，通常以 A/B 测试开始。 营销人员运行 A/B 测试，并通过使用报表受众，发现不同的体验可与不同的受众产生共鸣。 体验定位（或XT）允许营销人员轻松利用此发现并切换到将内容长期定位到这些不同的用户区段。
 
 ## 您将了解的内容
 
@@ -29,15 +41,15 @@ ht-degree: 27%
 
 * 业务从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/38307?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/38307?captions=chi_hans&quality=12)
 
 ## 其他资源
 
-* [下载Experience Personalization行动手册](https://guided.adobe.com/?promoid=K42KVXHD&mv=other&search=personalization+playbook#recommended/solutions/target)
+* [下载《Experience Personalization行动手册》](https://guided.adobe.com/?promoid=K42KVXHD&mv=other&search=personalization+playbook#recommended/solutions/target)
 * [体验定位文档](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html?lang=zh-Hans)
 
 ## 此视频中使用的其他功能
 
-* [报表的受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=zh-Hans)
+* [报表受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=zh-Hans)
 * [创建受众文档](https://experienceleague.adobe.com/docs/target/using/audiences/managing-audience-filters.html?lang=zh-Hans)
 * [使用可视化体验编辑器文档构建体验](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=zh-Hans)

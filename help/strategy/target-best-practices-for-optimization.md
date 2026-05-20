@@ -6,9 +6,29 @@ role: Leader, Developer, Admin
 feature: Overview
 level: Beginner
 exl-id: dd29faea-bb67-4128-b261-fa407ba7158c
-source-git-commit: ac4fad8a7fb77852b1bd27b9b6d49e55f8aa975a
+TQID: https://experienceleague.adobe.com/4M13hg8c1kxAmsBaiSfyvV3XEXLxV5lHEy299YGBvII
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: 1254
 ht-degree: 0%
 
 ---
@@ -83,13 +103,13 @@ _图1 — 优化迭代周期_
 
     A。元素值
     
-    这是通过后退一步来询问您的网站上为什么存在某个元素以及内容是否有特定目的来实现的？ 如果您的网站刚刚完成重新设计，或者最近推出了新功能，则这些问题是一个很好的起点。 用于确定元素值的策略称为包含/排除测试。 包含/排除测试可以很好地读取显示元素的页面上的值。
+    这是通过后退一步来询问您的网站上为什么存在某个元素以及内容是否有特定目的来实现的？ 如果您的网站刚刚完成重新设计，或者最近推出了新功能，则这些问题是一个很好的起点。 用于确定元素值的策略称为包含/排除测试。 包含/排除测试在显示元素的页面上提供了很好的值读取。
     
     B。元素呈现
     
-    您可以在此考虑元素的整体外观和风格，以及它对整个页面呈现的影响。 用于呈现的策略是专注于做出有影响力的内容和元素页面更改。
+    您可以在此考虑元素的整体外观和风格，以及它对整个页面呈现的影响。 用于呈现的策略是专注于进行有影响力的内容和元素页面更改。
     
-    C。元素函数
+    C.元素函数
     
     我们在此询问，页面上的元素是否正在执行其应执行的操作？ 交互是否成功且按预期工作？ 互动是自然的，还是摩擦点？ 用于函数的策略是构建以易于使用的功能为重点的体验，而不会产生额外的成本影响。
 

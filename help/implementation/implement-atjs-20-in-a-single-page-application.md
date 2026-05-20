@@ -9,9 +9,23 @@ doc-type: technical video
 kt: null
 author: Daniel Wright
 exl-id: 955f0571-5791-4dbb-9931-e6d5c8bb42a7
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/eGA92lV-FAhNnjeKc-Vceh1DrDgWBUKqDkVHzzTQ5Nk
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+subfeature_v2:
+  - id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: 420
 ht-degree: 0%
 
 ---
@@ -20,7 +34,7 @@ ht-degree: 0%
 
 Adobe Target的`at.js` 2.0提供了丰富的功能集，使您的企业能够在下一代客户端技术上实现个性化。 此版本着重于升级`at.js`，以便与单页应用程序(SPA)进行良性的交互。
 
->[!VIDEO](https://video.tv.adobe.com/v/34754?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/34754?captions=chi_hans&quality=12)
 
 ## 如何在SPA中实施at.js 2.0
 
@@ -28,7 +42,7 @@ Adobe Target的`at.js` 2.0提供了丰富的功能集，使您的企业能够在
 * 每次在SPA中查看更改时实施`adobe.target.triggerView()`函数。 可以使用各种技术来做到这一点，例如侦听URL哈希更改，侦听SPA触发的自定义事件，或将`triggerView()`代码直接嵌入应用程序。 您应该选择最适合您的特定单页应用程序的选项。
 * 视图名称是`triggerView()`函数的第一个参数。 使用简单、清晰且唯一的名称，以便在Target的可视化体验编辑器中轻松选择它们。
 * 您可以在较小的视图更改中以及非SPA上下文中触发视图，例如向无限滚动页面中移一半。
-* `at.js` 2.0和`triggerView()`可以通过标签管理解决方案(如Adobe Experience Platform Launch)实现。
+* `at.js` 2.0和`triggerView()`可以通过标签管理解决方案（如Adobe Experience Platform Launch）实现。
 
 ## at.js 2.0限制
 
@@ -36,7 +50,7 @@ Adobe Target的`at.js` 2.0提供了丰富的功能集，使您的企业能够在
 
 * `at.js` 2.0不支持跨域跟踪
 * `at.js` 2.0不支持mboxOverride.browserIp和mboxSession URL参数
-* 旧版函数mboxCreate、mboxDefine、mboxUpdate在`at.js` 2.0中已弃用。将显示默认内容，并且不会发出任何网络请求。
+* 旧版函数mboxCreate、mboxDefine、mboxUpdate在`at.js` 2.0中已弃用。 将显示默认内容，并且不会发出任何网络请求。
 
 ## 视频中使用的库页脚代码
 
