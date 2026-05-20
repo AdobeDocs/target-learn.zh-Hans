@@ -9,9 +9,14 @@ doc-type: technical video
 kt: 5395
 thumbnail: 35155.jpg
 exl-id: eb00bb01-4d03-4153-b866-e6e3e8d979ae
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/kkOP7DBk6caURnFhZEG1di3A0I7nMa1PXXlCGYOUFJE
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: 46
 ht-degree: 2%
 
 ---
@@ -28,4 +33,4 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35155/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/troubleshoot-a4t/a4t-troubleshooting.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/troubleshoot-a4t/a4t-troubleshooting.html?lang=en)。

@@ -8,9 +8,14 @@ feature: Recommendations, Auto-Target, Auto-Allocate
 doc-type: feature video
 kt: 3451
 exl-id: 16908f07-cda4-4a34-9e11-42b419e3917b
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/c-SF78Ptm-DmbIMr2nQRoPHSSXGo2kExcSIytwdVo28
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: 138
 ht-degree: 1%
 
 ---
@@ -28,5 +33,5 @@ Recommendations选件可与A/B测试和体验定位活动一起使用。 此功�
 
 ## 其他资源
 
-* [选件形式的推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=zh-Hans)
+* [“推荐”作为选件文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=en)
 * [创建“推荐”活动视频](create-a-recommendations-activity.md)

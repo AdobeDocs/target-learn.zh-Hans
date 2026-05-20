@@ -8,9 +8,15 @@ feature: Administration & Configuration
 doc-type: feature video
 kt: null
 exl-id: 9f147770-4b78-4982-ad52-c219bb451cc1
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/dvzTHbyI6C73lc9ASuiGjwEpWB3Q1-SC1dG5eR5tP5U
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eeb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: 34
 ht-degree: 2%
 
 ---
@@ -25,4 +31,4 @@ ht-degree: 2%
 
 * 管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/3421729/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/19463/?quality=12)

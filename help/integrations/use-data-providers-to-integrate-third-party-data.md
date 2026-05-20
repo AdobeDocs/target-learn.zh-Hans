@@ -9,16 +9,22 @@ doc-type: feature video
 kt: null
 author: Daniel Wright
 exl-id: 1892136e-14e3-4e52-8b1f-aee806d2f83a
-source-git-commit: 80208b3ecbc0d627d2afe72f882e91c9800d2726
+TQID: https://experienceleague.adobe.com/XiUlJGHSFVxAMqdl6Y7hK9PoXOgiiUI43vrFeAj2Rpo
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eebid: c93393a4-e558-47e1-992e-c91ed4d480ceid: f7c7de77-382f-4f48-8b36-61a170f06d3d
+subfeature_v2: id: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: 195
 ht-degree: 16%
 
 ---
 
 # 使用数据提供程序将第三方数据集成到Adobe Target
 
-[!UICONTROL Data Providers]是一项功能，允许您轻松地将数据从第三方传递到Target。  第三方可以是气象服务、DMP，甚至是您自己的 Web 服务。然后，您可以使用这些数据来构建受众、定位内容并丰富访客配置文件。
+[!UICONTROL Data Providers]是一项功能，允许您轻松地将数据从第三方传递到Target。  第三方可以是气象服务、DMP，甚至是您自己的 Web 服务。 然后，您可以使用这些数据来构建受众、定位内容并丰富访客配置文件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22349/?quality=12)
 

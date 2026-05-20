@@ -9,10 +9,16 @@ doc-type: technical video
 kt: 5390
 thumbnail: 35150.jpg
 exl-id: db763906-33f6-4a3b-9db8-f90ec515d8ba
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/h-kjVX5Ujlqbzht1Bc7wPH7IGbZWX-RzzNDou6jU-dY
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: c93393a4-e558-47e1-992e-c91ed4d480ceid: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: 101
+ht-degree: 10%
 
 ---
 
@@ -20,7 +26,7 @@ ht-degree: 3%
 
 在本视频中，您将学习如何：
 
-* 集成Adobe Target和Adobe Developer Console(以前称为Adobe I/O)
+* 集成Adobe Target和Adobe Developer Console（以前称为Adobe I/O）
 
 ## 目标受众
 
@@ -28,6 +34,6 @@ ht-degree: 3%
 
 ## 注释
 
-此视频演示了使用[Adobe Developer Console](https://developer.adobe.com/developer-console/)进行集成的概念。 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问此[Adobe Target开发人员指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"}中有关配置Adobe身份验证的&#x200B;*指南*。
+此视频演示了使用[Adobe Developer Console](https://developer.adobe.com/developer-console/)进行集成的概念。 有关演示如何使用Adobe Developer Console与Adobe Target集成的实践步骤，请访问此&#x200B;*Adobe Target开发人员指南*&#x200B;中有关配置Adobe身份验证的[指南](https://experienceleague.adobe.com/docs/target-dev/developer/api/configure-authentication.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35150/?quality=12)

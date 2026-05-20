@@ -9,9 +9,14 @@ doc-type: technical video
 kt: 5393
 thumbnail: 35153.jpg
 exl-id: cf95e97c-3b91-43a5-97b1-b7e57133358e
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/GNp1lXC3QHAy6NqM6TZJ1ODxZu32pfCh-GLNq9I-5Vg
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: 85
 ht-degree: 1%
 
 ---
@@ -30,4 +35,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35153/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/troubleshoot/troubleshooting-target.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/troubleshoot/troubleshooting-target.html?lang=en)。

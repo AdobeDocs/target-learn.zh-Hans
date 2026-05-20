@@ -8,10 +8,15 @@ feature: Recommendations
 doc-type: feature video
 kt: null
 exl-id: 10448c36-44b8-4a2f-a3c5-9e0130593a17
-source-git-commit: fcd2273ba373dc2b3bc59a77f1925cdb7b2ed3ee
+TQID: https://experienceleague.adobe.com/SFqDoVt4GOUEQ-oS55c-CyBIHG-jIlHQuQudqFTd6ok
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 16%
+source-wordcount: 82
+ht-degree: 14%
 
 ---
 
@@ -28,7 +33,7 @@ ht-degree: 16%
 
 * 商业从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/35356?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27689?quality=12)
 
 ## 其他资源
 
@@ -37,4 +42,4 @@ ht-degree: 16%
 * [创建信息源](create-a-feed.md)
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
-* [推荐文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=zh-Hans)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)

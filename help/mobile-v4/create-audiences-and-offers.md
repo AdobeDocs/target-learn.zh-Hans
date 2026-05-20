@@ -8,9 +8,15 @@ feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 exl-id: 4b153e4f-a979-49a8-8c26-f7ac95162a2f
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+TQID: https://experienceleague.adobe.com/DoRg-ukzkWeNsIVbq-KSKES4ECa0SMX-9S1uqoe-K44
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eeb
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: null
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: 977
 ht-degree: 1%
 
 ---
@@ -52,12 +58,12 @@ ht-degree: 1%
 Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件定位到这些特定组。 对于前两个位置，我们将使用“新用户”受众：
 
 1. 在顶部导航中单击&#x200B;**[!UICONTROL Audiences]**。
-1. 单击&#x200B;**[!UICONTROL Create Audience]**&#x200B;按钮。
+1. 单击&#x200B;**[!UICONTROL Create Audience]**按钮。
    ![创建新用户受众](assets/audience_new_mobile_app_users_1.jpg)
 
 1. 输入&#x200B;**[!UICONTROL New Mobile App Users]**&#x200B;作为受众名称。
 1. 选择&#x200B;**[!UICONTROL Add Rule]**。
-1. 选择&#x200B;**[!UICONTROL Custom]**&#x200B;规则。
+1. 选择&#x200B;**[!UICONTROL Custom]**规则。
    ![创建新用户受众](assets/audience_new_mobile_app_users_2.jpg)
 
 1. 选择&#x200B;**[!UICONTROL a.Launches]**。
@@ -127,7 +133,7 @@ Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件
 现在，让我们为旧用户创建一个选件（第二个选件将是默认内容，将不显示任何内容）：
 
 1. 将选件命名为&#x200B;_主页：回头用户_。
-1. 请输入&#x200B;_欢迎回来！ 在结账时使用促销代码BACK30可获得10%的折扣。_&#x200B;作为HTML代码。
+1. 请输入&#x200B;_欢迎回来！ 在结账时使用促销代码BACK30可获得10%的折扣。_ 作为HTML代码。
 1. 保存新选件。
 
    ![创建主HTML选件](assets/offer_home_returning_users.jpg)
