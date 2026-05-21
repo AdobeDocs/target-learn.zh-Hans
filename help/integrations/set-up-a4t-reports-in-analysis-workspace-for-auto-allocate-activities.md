@@ -9,21 +9,13 @@ doc-type: tutorial
 kt: null
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
 TQID: https://experienceleague.adobe.com/5oQMgqqxw2VN-6cb29j4bwEP6VYmGRLXIp5AMJ3WWM4
-product_v2:
-  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
-feature_v2:
-  - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
-subfeature_v2:
-  - id: df62f171-ac37-440f-8f0f-f41a72ebdd34
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: null
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+subfeature_v2: id: df62f171-ac37-440f-8f0f-f41a72ebdd34
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
 source-wordcount: 1390
 ht-degree: 0%
@@ -32,9 +24,9 @@ ht-degree: 0%
 
 # 在[!DNL Analysis Workspace]中为[!DNL Auto-Allocate]活动设置A4T报表
 
-[!DNL Adobe Target]中的[[!UICONTROL Auto-Allocate]活动](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=zh-Hans){target=_blank}在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配访客流量。 [!UICONTROL Auto-Allocate]的[!UICONTROL Analytics for Target] (A4T)集成允许您在[!DNL Adobe Analytics]中查看报表数据，并且可以针对[!DNL Analytics]中定义的自定义事件或量度进行优化。
+[!DNL Adobe Target]中的[[!UICONTROL Auto-Allocate]活动](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html){target=_blank}在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配访客流量。 [!UICONTROL Auto-Allocate]的[!UICONTROL Analytics for Target] (A4T)集成允许您在[!DNL Adobe Analytics]中查看报表数据，并且可以针对[!DNL Analytics]中定义的自定义事件或量度进行优化。
 
-尽管[!DNL Adobe Analytics] [!DNL Analysis Workspace]中提供了丰富的分析功能，但可能需要对默认[!UICONTROL Analytics for Target]面板进行一些修改才能正确解释[!UICONTROL Auto-Allocate]活动。 由于[优化量度标准](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=zh-Hans#supported){target=_blank}中的细微差别，需要进行这些修改。
+尽管[!DNL Adobe Analytics] [!DNL Analysis Workspace]中提供了丰富的分析功能，但可能需要对默认[!UICONTROL Analytics for Target]面板进行一些修改才能正确解释[!UICONTROL Auto-Allocate]活动。 由于[优化量度标准](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html#supported){target=_blank}中的细微差别，需要进行这些修改。
 
 每种类型的优化量度都需要在A4T中使用不同的报表配置，如下所示：
 
@@ -142,9 +134,9 @@ ht-degree: 0%
 以下部分根据您选择的方法指定所需的配置。 但是，以下步骤可作为A4T的整体指导：
 
 * 无论使用何种面板创建方法，都从A4T面板中删除置信度量度（下文将详细介绍这两种方法）。 请改为在[!DNL Target]报表中引用这些值。 此外，可以在[!DNL Target]报表中确定活动入选者。 有关活动入选者标识的详细信息，请参阅下面的[标识活动入选者](#winner)部分。
-&#x200B;>>
-* 为避免混淆，请取消选中[!UICONTROL Conversion Rate]量度的“[!UICONTROL Percent]”表示形式。 请参阅下面的[!UICONTROL Conversion Rate]列[&#128279;](#hide-percentage)中的隐藏百分比。
-&#x200B;>>
+>>
+* 为避免混淆，请取消选中[!UICONTROL Conversion Rate]量度的“[!UICONTROL Percent]”表示形式。 请参阅下面的[!UICONTROL Conversion Rate]列](#hide-percentage)中的[隐藏百分比。
+>>
 * 如果要构建A4T面板，请确保日期和时间范围与[!DNL Target]报表的日期和时间范围相匹配。 请参阅下面的[在下面的A4T面板中对齐日期和时间](#aligning-date-and-time)。
 
 ### 从[!UICONTROL Conversion Rate]列中隐藏百分比 {#hide-percentage}
@@ -173,11 +165,11 @@ ht-degree: 0%
 
 ### 确定活动入选者 {#winner}
 
-当具有置信度值大于或等于95%的获胜转化率时，将选择[!DNL Auto-Allocate]个活动获胜者。 这些值应在[!DNL Target]报表中引用，因为置信度计算反映了[!DNL Target]建议用于[!UICONTROL Auto-Allocate]活动的更保守的方法。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配的[统计保证](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/determine-winner.html?lang=zh-Hans#section_7AF3B93E90BA4B80BC9FC4783B6A389C){target=_blank}。
+当具有置信度值大于或等于95%的获胜转化率时，将选择[!DNL Auto-Allocate]个活动获胜者。 这些值应在[!DNL Target]报表中引用，因为置信度计算反映了[!DNL Target]建议用于[!UICONTROL Auto-Allocate]活动的更保守的方法。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配的[统计保证](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/determine-winner.html#section_7AF3B93E90BA4B80BC9FC4783B6A389C){target=_blank}。
 
 >[!NOTE]
 >
->“尚未有入选者”和“入选者”徽章在[!DNL Analysis Workspace]的A4T面板中不可用。 此外，应忽略[!UICONTROL Auto-Allocate]活动的[!DNL Target]报表中显示的入选者“星级”徽章。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配和自动定位活动&#x200B;*的* A4T支持[自动分配](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=zh-Hans#aa){target=_blank}。
+>“尚未有入选者”和“入选者”徽章在[!DNL Analysis Workspace]的A4T面板中不可用。 此外，应忽略[!UICONTROL Auto-Allocate]活动的[!DNL Target]报表中显示的入选者“星级”徽章。 查看&#x200B;*[!UICONTROL Adobe Target Business Practitioner Guide]*&#x200B;中自动分配和自动定位活动&#x200B;*的* A4T支持[自动分配](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t-at-aa.html?lang=en#aa){target=_blank}。
 
 ### 在[!DNL Analysis Workspace]中为[!UICONTROL Auto-Allocate]面板创建A4T
 
