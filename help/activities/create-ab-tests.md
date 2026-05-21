@@ -39,7 +39,7 @@ ht-degree: 5%
 
 * 商业从业者
 
->[!VIDEO](https://video.tv.adobe.com/v/17391/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30338/?captions=chi_hans&quality=12)
 
 ## 其他资源
 

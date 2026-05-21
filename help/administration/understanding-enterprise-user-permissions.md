@@ -42,4 +42,4 @@ ht-degree: 6%
 
 * 管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/19042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3421735/?captions=chi_hans&quality=12)

@@ -46,6 +46,6 @@ ht-degree: 1%
 
 * 开发人员
 
->[!VIDEO](https://video.tv.adobe.com/v/35152/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3421747/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=zh-Hans)。
