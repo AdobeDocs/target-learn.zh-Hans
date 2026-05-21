@@ -45,4 +45,4 @@ ht-degree: 12%
 * [创建自定义设计](create-custom-designs.md)
 * [创建收藏集和排除项](create-collections-and-exclusions.md)
 * [创建“推荐”活动](create-a-recommendations-activity.md)
-* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=zh-Hans)

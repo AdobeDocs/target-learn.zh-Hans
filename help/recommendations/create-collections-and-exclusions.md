@@ -47,4 +47,4 @@ ht-degree: 14%
 * [创建信息源](create-a-feed.md)
 * [创建标准](create-criteria.md)
 * [创建自定义设计](create-custom-designs.md)
-* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en)
+* [Recommendations文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=zh-Hans)
