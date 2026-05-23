@@ -8,12 +8,12 @@ usetq: true
 solution-title: Target
 landing-page-name: target
 landing-page-breadcrumb-title: Target
-solution-hub-url: https://helpx.adobe.com/support/target.html
+solution-hub-url: https://helpx.adobe.com/cn/support/target.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/target/get-started.html
+getting-started-url: https://helpx.adobe.com/cn/target/get-started.html
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/target-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/target-learn.en
+git-repo: https://github.com/AdobeDocs/target-learn.zh-Hans
 index: true
 mini-toc-levels: 2
 feature-set: Target
