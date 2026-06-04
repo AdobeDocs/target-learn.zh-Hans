@@ -10,17 +10,11 @@ kt: 3815
 author: Judy Kim
 exl-id: 10f80056-fb71-4362-86bc-d161f596cb91
 TQID: https://experienceleague.adobe.com/NQpsNnhLA0MRP-pJQLS35ymJ2lnulZebvI-Yv4-xSxw
-product_v2:
-  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
-feature_v2:
-  - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2: id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
 source-wordcount: 385
@@ -30,12 +24,12 @@ ht-degree: 5%
 
 # Adobe Recommendations API概述
 
-与[!DNL Recommendations]相关的API包括[管理员API](https://experienceleague.adobe.com/docs/target/using/apis/api-overview.html?lang=zh-Hans)，它们允许您：
+与[!DNL Recommendations]相关的API包括[管理员API](https://experienceleague.adobe.com/docs/target/using/apis/api-overview.html?lang=en)，它们允许您：
 
 * 管理您的推荐产品或内容目录
 * 管理[!DNL Recommendations]算法和活动
 
-通过将[!DNL Target] [投放API](https://experienceleague.adobe.com/docs/target/using/apis/api-overview.html?lang=zh-Hans)与推荐一起使用，您还可以：
+通过将[!DNL Target] [投放API](https://experienceleague.adobe.com/docs/target/using/apis/api-overview.html?lang=en)与推荐一起使用，您还可以：
 
 * 检索JSON、HTML或XML对象中的推荐，以便这些推荐可在Web、移动设备、电子邮件、物联网(IOT)和其他渠道中显示。
 
@@ -64,4 +58,4 @@ ht-degree: 5%
 | Postman | 获取适用于您的操作系统的[Postman应用程序](https://www.postman.com/downloads/)。 Postman basic可在创建帐户时免费使用。 虽然总体而言使用Adobe Target API不需要使用，但Postman简化了API工作流程，并且Adobe Target提供了多个Postman收藏集以帮助执行其API并了解其操作方式。 本教程的其余部分假定您了解Postman的工作知识。 如需帮助，请参阅[Postman文档](https://learning.getpostman.com/)。 |
 | 引用 | 在本教程的其余部分中，我们假定您已熟悉以下资源：<UL><li>[Adobe I/O Github](https://github.com/adobeio)</li><li>[Target Adobe I/O文档](https://developers.adobetarget.com/api/#introduction)</li><li>[推荐API文档](https://developers.adobetarget.com/api/recommendations/)</li></ul> |
 
-[下一课程“管理您的推荐目录”>](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html?lang=zh-Hans){target="_blank"}
+[下一课程“管理您的推荐目录”>](https://experienceleague.adobe.com/docs/target-dev/developer/api/recommendations-api/manage-catalog.html){target="_blank"}
