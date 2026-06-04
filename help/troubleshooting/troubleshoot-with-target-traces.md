@@ -1,6 +1,6 @@
 ---
 title: 如何对Target跟踪进行故障排除
-description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。 了解如何在Experience Cloud中进行身份验证，并使用功能强大的Target跟踪工具检查您的活动、受众资格以及访客配置文件。
+description: 借助 Adobe Experience Cloud 调试器，您可以快速、轻松地了解 Target 实施。 了解如何在Experience Cloud中进行身份验证，并使用功能强大的Target跟踪工具检查您的活动、受众资格以及访客资料。
 role: User
 level: Intermediate
 topic: Personalization, Performance

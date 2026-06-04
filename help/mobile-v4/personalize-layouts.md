@@ -23,7 +23,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 993
+source-wordcount: 1074
 ht-degree: 1%
 
 ---
@@ -54,36 +54,36 @@ ht-degree: 1%
 
 在[!DNL Target]界面中，执行以下操作：
 
-1. 选择&#x200B;**[!UICONTROL Activities]** > **[!UICONTROL Create Activity]** > **[!UICONTROL Experience Targeting]**。
+1. 选择&#x200B;**[!UICONTROL 活动]** > **[!UICONTROL 创建活动]** > **[!UICONTROL 体验定位]**。
 
    ![创建活动](assets/activity_create_1.jpg)
 
-1. 单击 **[!UICONTROL Mobile App]**。
-1. 选择&#x200B;**[!UICONTROL Form composer]**。
+1. 单击&#x200B;**[!UICONTROL 移动应用]**。
+1. 选择&#x200B;**[!UICONTROL 表单编辑器]**。
 1. 选择您的工作区（在上一课程中使用的相同工作区）。
 1. 选择您的资产（与在前面的课程中使用的资产相同）。
-1. 单击 **[!UICONTROL Next]**。
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 
    ![创建活动](assets/activity_create_2.jpg)
 
-1. 将活动标题更改为&#x200B;**[!UICONTROL Engage Users]**。
-1. 选择&#x200B;**[!UICONTROL ellipsis]** > **[!UICONTROL Change Audience]**。
+1. 将活动标题更改为&#x200B;**[!UICONTROL 参与用户]**。
+1. 选择&#x200B;**[!UICONTROL 省略号]** > **[!UICONTROL 更改受众]**。
    ![新的移动应用用户更改受众](assets/activity_create_3.jpg)
-1. 将受众设置为&#x200B;**[!UICONTROL New Mobile App Users]**。
-1. 单击 **[!UICONTROL Done]**。
+1. 将受众设置为&#x200B;**[!UICONTROL 新的移动设备应用程序用户]**。
+1. 单击&#x200B;**[!UICONTROL 完成]**。
    ![新移动应用用户受众](assets/activity_create_4.jpg)
 
 1. 将位置更改为&#x200B;_wetravel_ engage_home_。
-1. 选择“默认内容”旁边的下拉箭头，然后选择&#x200B;**[!UICONTROL Change HTML Offer]**。
+1. 选择默认内容旁边的下拉箭头，然后选择&#x200B;**[!UICONTROL 更改HTML选件]**。
 
    ![新移动应用用户受众](assets/activity_create_5.jpg)
 
-1. 选择&#x200B;**[!UICONTROL Home: Engage New Users]**&#x200B;选件。
-1. 选择&#x200B;**[!UICONTROL Done]**。
+1. 选择&#x200B;**[!UICONTROL 主页：参与新用户]**&#x200B;选件。
+1. 选择&#x200B;**[!UICONTROL 完成]**。
 
    ![新移动应用用户受众](assets/activity_create_6.jpg)
 
-1. 选择&#x200B;**[!UICONTROL Add Location]**。
+1. 选择&#x200B;**[!UICONTROL 添加位置]**。
    ![新移动应用用户受众](assets/activity_create_7.jpg)
 
 1. 选择&#x200B;_wetravel_ engage_search_位置。
@@ -91,8 +91,8 @@ ht-degree: 1%
 
    ![新移动应用用户受众](assets/activity_create_8.jpg)
 
-1. 选择&#x200B;**[!UICONTROL Search: Engage New Users]**&#x200B;选件。
-1. 单击 **[!UICONTROL Done]**。
+1. 选择&#x200B;**[!UICONTROL 搜索：吸引新用户]**&#x200B;选件。
+1. 单击&#x200B;**[!UICONTROL 完成]**。
 
    ![新移动应用用户受众](assets/activity_create_9.jpg)
 
@@ -102,9 +102,9 @@ ht-degree: 1%
 
 现在，为返回的移动设备应用程序用户创建体验：
 
-1. 选择左侧的&#x200B;**[!UICONTROL Add Experience Targeting]**。
-1. 选择受众&#x200B;**[!UICONTROL Returning Mobile App Users]**。
-1. 选择&#x200B;**[!UICONTROL Done]**。
+1. 选择左侧的&#x200B;**[!UICONTROL 添加体验定位]**。
+1. 选择受众&#x200B;**[!UICONTROL 返回移动设备应用程序用户]**。
+1. 选择&#x200B;**[!UICONTROL 完成]**。
    ![返回移动应用用户受众](assets/activity_create_11.jpg)
 
 现在，使用我们之前用于配置新体验的相同流程。 旧版移动设备应用程序用户体验的配置应当如下所示：
@@ -113,22 +113,22 @@ ht-degree: 1%
 
 让我们继续设置中的下一个屏幕：
 
-1. 单击&#x200B;**[!UICONTROL Next]**&#x200B;进入&#x200B;**[!UICONTROL Targeting]**&#x200B;屏幕。
+1. 单击&#x200B;**[!UICONTROL 下一步]**&#x200B;以前往&#x200B;**[!UICONTROL 定位]**&#x200B;屏幕。
 1. 使用默认设置进行定位。 如果您有重叠受众的体验（例如&#x200B;_New York Users_&#x200B;和&#x200B;_First Time Users_），则可以在此屏幕上排列优先级顺序。
-1. 单击&#x200B;**[!UICONTROL Next]**&#x200B;前进到&#x200B;**[!UICONTROL Goals & Settings]**。
+1. 单击&#x200B;**[!UICONTROL 下一步]**&#x200B;前进到&#x200B;**[!UICONTROL 目标和设置]**。
 
    ![参与用户活动 — 定位默认值](assets/activity_engage_users_targeting.jpg)
 
 现在，让我们完成活动设置：
 
-1. 将&#x200B;**[!UICONTROL Primary Goal]**&#x200B;设置为&#x200B;**[!UICONTROL Conversion]**。
-1. 将操作设置为&#x200B;**[!UICONTROL Viewed an mbox]** > _wetravel_ context_dest_（由于此位置位于确认屏幕上，因此我们可以用它来测量转化）。
+1. 将&#x200B;**[!UICONTROL 主要目标]**&#x200B;设置为&#x200B;**[!UICONTROL 转化]**。
+1. 将操作设置为&#x200B;**[!UICONTROL 已查看mbox]** > _wetravel_ context_dest_（由于此位置位于确认屏幕上，因此我们可以用它来测量转化）。
 
    ![参与用户活动 — 目标](assets/activity_create_12.jpg)
 
 1. 将屏幕上的所有其他设置保留为默认值。
-1. 单击&#x200B;**[!UICONTROL Save & Close]**&#x200B;保存活动。
-1. 在下一个屏幕上激活&#x200B;**[!UICONTROL Activity]**。
+1. 单击&#x200B;**[!UICONTROL 保存并关闭]**&#x200B;以保存活动。
+1. 在下一个屏幕上激活&#x200B;**[!UICONTROL 活动]**。
 
 ![体验B受众](assets/activity_create_13.jpg)
 
@@ -155,9 +155,9 @@ ht-degree: 1%
 
 在“目标和设置”步骤中，我们会将主要目标更改为预订确认屏幕上的位置：
 
-1. 在&#x200B;**[!UICONTROL Reporting Settings]**&#x200B;下，将&#x200B;**[!UICONTROL Primary Goal]**&#x200B;设置为&#x200B;**[!UICONTROL Conversion]**。
-1. 将操作设置为&#x200B;**[!UICONTROL Viewed an mbox]** > _wetravel_ context_dest_（在此活动中，此量度基本上没有任何意义，因为此位置也是提供体验的位置）。
-1. 单击 **[!UICONTROL Save & Close]**。
+1. 在&#x200B;**[!UICONTROL 报表设置]**&#x200B;下，将&#x200B;**[!UICONTROL 主要目标]**&#x200B;设置为&#x200B;**[!UICONTROL 转化]**。
+1. 将操作设置为&#x200B;**[!UICONTROL 已查看mbox]** > _wetravel_ context_dest_（在此活动中，此量度基本上没有任何意义，因为此位置也是提供体验的位置）。
+1. 单击&#x200B;**[!UICONTROL 保存并关闭]**。
 
 ![上下文选件 — 体验](assets/activity_create_14.jpg)
 
@@ -171,7 +171,7 @@ ht-degree: 1%
 
 ![验证主选件](assets/layout_home_validate.jpg)
 
-如果未显示新的用户选件，请尝试擦除模拟器的数据。 这会在您下次启动时将应用程序启动次数重置为1。 此操作在&#x200B;**[!UICONTROL Tools]** > **[!UICONTROL AVD Manager]**&#x200B;下完成。 如果Logcat无法正常运行，则您可能需要重新启动Android Studio：
+如果未显示新的用户选件，请尝试擦除模拟器的数据。 这会在您下次启动时将应用程序启动次数重置为1。 此操作在&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL AVD管理器]**&#x200B;下完成。 如果Logcat无法正常运行，则您可能需要重新启动Android Studio：
 
 ![擦除模拟器](assets/layout_home_validate_avd_wipe.jpg)
 
@@ -181,7 +181,7 @@ ht-degree: 1%
 
 ## 验证搜索选件
 
-选择&#x200B;**[!UICONTROL San Jose]**&#x200B;作为您的&#x200B;**[!UICONTROL Departure]**，**[!UICONTROL San Diego]**&#x200B;作为您的&#x200B;**[!UICONTROL Destination]**，然后单击&#x200B;**[!UICONTROL Find Bus]**&#x200B;以搜索可用的总线。
+选择&#x200B;**[!UICONTROL San Jose]**&#x200B;作为您的&#x200B;**[!UICONTROL 出发]**，选择&#x200B;**[!UICONTROL San Diego]**&#x200B;作为您的&#x200B;**[!UICONTROL 目标]**，然后单击&#x200B;**[!UICONTROL 查找总线]**&#x200B;以搜索可用的总线。
 
 在结果屏幕上，您应该会看到&#x200B;_使用过滤器_&#x200B;消息。 如果您是具有5个或更多应用程序启动项的回访用户，则不会在此处显示消息，因为此位置设置了默认内容（为空）：
 
@@ -193,13 +193,13 @@ ht-degree: 1%
 
 * 在结果屏幕上选择总线。
 * 在结帐屏幕中选择一个名额。
-* 在付款屏幕上选择&#x200B;**[!UICONTROL Credit Card]**（将付款信息留空 — 不会进行实际预订）。
+* 在付款屏幕上选择&#x200B;**[!UICONTROL 信用卡]**（将付款信息留空 — 不会进行实际预订）。
 
 由于已选择San Diego作为目标，您应在确认屏幕上看到&#x200B;_DJ SAM_&#x200B;优惠横幅：
 
 ![验证上下文选件 — San Diego](assets/layout_context_san_diego.jpg)
 
-现在，选择&#x200B;**[!UICONTROL Done]**&#x200B;并尝试将洛杉矶作为目标进行其他预订。 确认屏幕应显示&#x200B;_Universal Studios_&#x200B;横幅：
+现在，选择&#x200B;**[!UICONTROL 完成]**，然后尝试将洛杉矶作为目标进行其他预订。 确认屏幕应显示&#x200B;_Universal Studios_&#x200B;横幅：
 
 ![验证上下文选件 — 洛杉矶](assets/layout_context_los_angeles.jpg)
 

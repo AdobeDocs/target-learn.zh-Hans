@@ -21,8 +21,8 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 735
-ht-degree: 0%
+source-wordcount: 755
+ht-degree: 1%
 
 ---
 
@@ -139,20 +139,20 @@ public void processFeatureFlags() {
 
    ![功能标记活动配置](assets/feature_flag_activity.jpg)
 
-1. 单击&#x200B;**[!UICONTROL Add Experience]**&#x200B;添加体验B。
+1. 单击&#x200B;**[!UICONTROL 添加体验]**&#x200B;以添加体验B。
 1. 离开“wetravel_feature_flag_recs”位置
-1. 保留内容的&#x200B;**[!UICONTROL Default Content]**
-1. 单击&#x200B;**[!UICONTROL Next]**&#x200B;进入[!UICONTROL Targeting]屏幕
+1. 保留内容的&#x200B;**[!UICONTROL 默认内容]**
+1. 单击&#x200B;**[!UICONTROL 下一步]**&#x200B;以前往[!UICONTROL 定位]屏幕
 
    ![功能标记活动配置](assets/feature_flag_activity_2.jpg)
 
-1. 在[!UICONTROL Targeting]屏幕上，验证[!UICONTROL Traffic Allocation]方法是否设置为默认设置（手动），以及每个体验是否具有默认的50%分配。 选择&#x200B;**[!UICONTROL Next]**&#x200B;以前进到&#x200B;**[!UICONTROL Goals & Settings]**。
+1. 在[!UICONTROL 定位]屏幕上，验证[!UICONTROL 流量分配]方法是否设置为默认设置（手动），以及每个体验是否具有默认的50%分配。 选择&#x200B;**[!UICONTROL 下一步]**&#x200B;前进到&#x200B;**[!UICONTROL 目标和设置]**。
 
    ![功能标记活动配置](assets/feature_flag_activity_3.jpg)
 
-1. 将&#x200B;**[!UICONTROL Primary Goal]**&#x200B;设置为&#x200B;**[!UICONTROL Conversion]**。
-1. 将操作设置为&#x200B;**[!UICONTROL Viewed an Mbox]**。 我们将使用“wetravel_context_dest”位置（由于此位置位于“确认”屏幕上，因此我们可以使用该位置来查看新功能是否会导致更多转化）。
-1. 单击 **[!UICONTROL Save & Close]**。
+1. 将&#x200B;**[!UICONTROL 主要目标]**&#x200B;设置为&#x200B;**[!UICONTROL 转化]**。
+1. 将操作设置为&#x200B;**[!UICONTROL 已查看Mbox]**。 我们将使用“wetravel_context_dest”位置（由于此位置位于“确认”屏幕上，因此我们可以使用该位置来查看新功能是否会导致更多转化）。
+1. 单击&#x200B;**[!UICONTROL 保存并关闭]**。
 
    ![功能标记活动配置](assets/feature_flag_activity_4.jpg)
 

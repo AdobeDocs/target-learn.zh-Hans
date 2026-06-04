@@ -24,18 +24,18 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 299
 ht-degree: 0%
 
 ---
 
-# 实施[!UICONTROL Data Providers]以将第三方数据集成到Adobe Target中
+# 实施[!UICONTROL 数据提供程序]以将第三方数据集成到Adobe Target
 
-有关如何使用Adobe Target的[!UICONTROL Data Providers]功能从第三方数据提供程序中检索数据并将其传递到Target请求的实施详细信息和示例。
+有关如何使用Adobe Target的[!UICONTROL 数据提供程序]功能从第三方数据提供程序检索数据，并将该数据传递到Target请求的实施详细信息和示例。
 
 >[!NOTE]
 >
->[!UICONTROL Data Providers]需要`at.js` 1.3或更高版本
+>[!UICONTROL 数据提供程序]需要`at.js` 1.3或更高版本
 
 ## 实施数据提供程序的基本组件
 

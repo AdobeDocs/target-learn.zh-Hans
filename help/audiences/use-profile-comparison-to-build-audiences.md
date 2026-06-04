@@ -20,14 +20,14 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: 161
 ht-degree: 7%
 
 ---
 
 # 在Adobe Target中使用“配置文件比较”构建受众
 
-Adobe Target中的[!UICONTROL Profile Comparison]功能允许您在构建受众时比较两个数字配置文件值。 例如，如果您将自定义生成的倾向分数传递到[!DNL Target]，并想要根据倾向分数最高的产品对内容进行个性化设置，则此功能非常有用。
+Adobe Target中的[!UICONTROL 配置文件比较]功能允许您在构建受众时比较两个数字配置文件值。 例如，如果您将自定义生成的倾向分数传递到[!DNL Target]，并想要根据倾向分数最高的产品对内容进行个性化设置，则此功能非常有用。
 
 ## 您将了解的内容
 

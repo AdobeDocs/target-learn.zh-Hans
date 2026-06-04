@@ -21,7 +21,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 977
+source-wordcount: 1004
 ht-degree: 1%
 
 ---
@@ -62,17 +62,17 @@ ht-degree: 1%
 
 Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件定位到这些特定组。 对于前两个位置，我们将使用“新用户”受众：
 
-1. 在顶部导航中单击&#x200B;**[!UICONTROL Audiences]**。
-1. 单击&#x200B;**[!UICONTROL Create Audience]**&#x200B;按钮。
+1. 在顶部导航中单击&#x200B;**[!UICONTROL 受众]**。
+1. 单击&#x200B;**[!UICONTROL 创建受众]**&#x200B;按钮。
    ![创建新用户受众](assets/audience_new_mobile_app_users_1.jpg)
 
-1. 输入&#x200B;**[!UICONTROL New Mobile App Users]**&#x200B;作为受众名称。
-1. 选择&#x200B;**[!UICONTROL Add Rule]**。
-1. 选择&#x200B;**[!UICONTROL Custom]**&#x200B;规则。
+1. 输入&#x200B;**[!UICONTROL 新的移动设备应用程序用户]**&#x200B;作为受众名称。
+1. 选择&#x200B;**[!UICONTROL 添加规则]**。
+1. 选择&#x200B;**[!UICONTROL 自定义]**&#x200B;规则。
    ![创建新用户受众](assets/audience_new_mobile_app_users_2.jpg)
 
 1. 选择&#x200B;**[!UICONTROL a.Launches]**。
-1. 选择&#x200B;**[!UICONTROL is less than]**。
+1. 选择&#x200B;**[!UICONTROL 小于]**。
 1. 输入&#x200B;**5**。
 1. 保存新受众。
    ![创建新用户受众](assets/audience_new_mobile_app_users_3.jpg)
@@ -82,7 +82,7 @@ Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件
 按照以上列出的相同步骤为旧用户创建受众。
 
 1. 将受众命名为&#x200B;_返回移动设备应用程序用户_。
-1. 使用&#x200B;**[!UICONTROL a.Launches is greater than or equal to 5]**&#x200B;作为自定义规则。
+1. 使用&#x200B;**[!UICONTROL a。启动次数大于或等于5]**&#x200B;作为自定义规则。
 1. 保存新受众。
 
    ![创建回访用户受众](assets/audience_returning_mobile_app_users.jpg)
@@ -121,9 +121,9 @@ Adobe Target Audiences用于标识特定的访客组。 之后，可以将选件
 
 首先，让我们为新用户的消息创建选件：
 
-1. 在顶部导航中单击&#x200B;**[!UICONTROL Offers]**。
-1. 单击 **[!UICONTROL Create]**。
-1. 选择&#x200B;**[!UICONTROL HTML Offer]**。
+1. 单击顶部导航中的&#x200B;**[!UICONTROL 选件]**。
+1. 单击&#x200B;**[!UICONTROL 创建]**。
+1. 选择&#x200B;**[!UICONTROL HTML选件]**。
 
    ![创建主页选件](assets/offer_home_1.jpg)
 

@@ -27,14 +27,14 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: 199
 ht-degree: 16%
 
 ---
 
 # 使用数据提供程序将第三方数据集成到Adobe Target
 
-[!UICONTROL Data Providers]是一项功能，允许您轻松地将数据从第三方传递到Target。  第三方可以是气象服务、DMP，甚至是您自己的 Web 服务。 然后，您可以使用这些数据来构建受众、定位内容并丰富访客配置文件。
+[!UICONTROL 数据提供程序]是一种功能，可让您轻松地将数据从第三方传递到Target。  第三方可以是气象服务、DMP，甚至是您自己的 Web 服务。 然后，您可以使用这些数据来构建受众、定位内容并丰富访客配置文件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22349/?quality=12)
 
@@ -47,7 +47,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->[!UICONTROL Data Providers]需要at.js 1.3或更高版本
+>[!UICONTROL 数据提供程序]需要at.js 1.3或更高版本
 
 ## 支持材料
 

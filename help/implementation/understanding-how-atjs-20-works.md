@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
-source-wordcount: 396
+source-wordcount: 412
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 1. 将会发出页面加载请求，其中包括已配置的所有参数，如ECID、SDID和客户ID。
 
-1. 配置文件脚本执行并馈送到[!UICONTROL Profile Store]。 存储区从[!UICONTROL Audience Library]请求符合条件的受众（例如从[!DNL Analytics]、Audience Manager等共享的受众）。 [!UICONTROL Customer Attributes]在批处理过程中发送到[!UICONTROL Profile Store]。
+1. 配置文件脚本执行并进入[!UICONTROL 配置文件存储区]。 存储区向[!UICONTROL 受众库]请求符合条件的受众（例如从[!DNL Analytics]、Audience Manager等共享的受众）。 [!UICONTROL 客户属性]在批处理过程中发送到[!UICONTROL 配置文件存储区]。
 1. 根据URL、请求参数和配置文件数据，[!DNL Target]可决定哪些活动和体验可返回给当前页面和未来视图的访客
 
 1. 目标内容会发送回页面，其中可能包含其他个性化的配置文件值。
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    单页应用程序的未来视图的目标内容将缓存在浏览器中，因此当视图触发时，可以立即应用它而无需额外的服务器调用。 （有关`triggerView()`行为，请参阅下图）。
 
-1. 从页面向[!UICONTROL Data Collection]服务器发送的[!DNL Analytics]数据
+1. 从页面向[!UICONTROL 数据收集]服务器发送的[!DNL Analytics]数据
 1. [!DNL Target]数据通过SDID匹配到Analytics数据，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Target]中通过A4T报表查看[!DNL Analytics]数据。
 
 使用triggerView()函数时的![at.js 2.0行为](assets/triggerview.png)
@@ -68,10 +68,10 @@ ht-degree: 0%
 
 1. 目标内容会在默认内容不发生闪烁的情况下尽快显示
 
-1. 通知请求将发送到[!DNL Target] [!UICONTROL Profile Store]以计算活动中的访客和递增量度
-1. [!DNL Analytics]数据从SPA发送到[!UICONTROL Data Collection]服务器
+1. 通知请求将发送到[!DNL Target] [!UICONTROL 配置文件存储区]以计算活动中的访客和递增量度
+1. [!DNL Analytics]数据从SPA发送到[!UICONTROL 数据收集]服务器
 
-1. [!DNL Target]数据从[!DNL Target]后端发送到[!UICONTROL Data Collection]服务器。 [!DNL Target]数据通过SDID与[!DNL Analytics]数据匹配，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Target]中通过A4T报表查看[!DNL Analytics]数据。
+1. [!DNL Target]数据从[!DNL Target]后端发送到[!UICONTROL 数据收集]服务器。 [!DNL Target]数据通过SDID与[!DNL Analytics]数据匹配，并且已处理到[!DNL Analytics]报表存储中。 然后，便可以在[!DNL Analytics]和[!DNL Target]中通过A4T报表查看[!DNL Analytics]数据。
 
 ## 其他资源
 
