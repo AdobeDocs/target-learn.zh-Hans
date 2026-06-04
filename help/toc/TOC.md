@@ -40,7 +40,7 @@ ht-degree: 5%
    + [经用户同意使用选择加入控制Experience Cloud解决方案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=en)
    + [了解Adobe Target混合部署](../implementation/hybrid-deployment.md)
    + [设备上决策概述](../implementation/on-device-decisioning-overview.md)
-   + Adobe Target的{hide-from-toc}[实现模式](../implementation/implementation-patterns-for-adobe-target.md)
+   + {hide-from-toc}[Adobe Target的实现模式](../implementation/implementation-patterns-for-adobe-target.md)
 + 集成{#integrations}
    + [将Target与Analytics集成](../dev101/3-2-target-analytics.md)
    + [使用Analytics as a Data Source for Target (A4T)](../integrations/use-analytics-as-a-data-source-a4t.md)

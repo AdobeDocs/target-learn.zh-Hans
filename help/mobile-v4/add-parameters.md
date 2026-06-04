@@ -9,11 +9,19 @@ doc-type: tutorial
 kt: 3040
 exl-id: 0250e55f-a233-4060-84e1-86d1f88a6106
 TQID: https://experienceleague.adobe.com/jX5KNFVLueF72JlxIo4OV0NRWRxpSAZ-tOMacI8FXL4
-product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
-feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eebid: c93393a4-e558-47e1-992e-c91ed4d480ce
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+feature_v2:
+  - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
 workflow-type: tm+mt
 source-wordcount: 823
@@ -95,7 +103,7 @@ public void targetPrefetchContent() {
 
 ### 关于参数的说明
 
-对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档[。
+对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求[&#128279;](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档。
 
 另请注意，可以将不同的位置参数添加到预回迁请求中的每个位置。 例如，您可以创建另一个名为param2的映射，在其中放置一个新参数，然后在一个位置设置param2，并在另一个位置设置param1。 示例如下：
 
