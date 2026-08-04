@@ -35,4 +35,4 @@ ht-degree: 9%
 
 了解如何使用Real-Time Customer Data Platform和Adobe Target在下一次点击时个性化 Real-Time CDP中的Adobe Target目标允许您使用Adobe Target中的Experience Platform区段来实现具有治理和隐私支持的相同页面和下一页个性化。 有关详细信息，请参阅[为同一页面和下一页面个性化配置个性化目标文档](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/configure-personalization-destinations.html?lang=zh-Hans)
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342975?captions=chi_hans&quality=12&learn=on)
