@@ -8,24 +8,32 @@ feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 exl-id: 034d13f2-63b1-44b0-b3dc-867efe37672f
-TQID: https://experienceleague.adobe.com/eK2T9lkJ4-ieiTGjqAymdgn8lrbfcaBBObbp61-jX0M
+TQID: 'https://experienceleague.adobe.com/eK2T9lkJ4-ieiTGjqAymdgn8lrbfcaBBObbp61-jX0M'
 product_v2:
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
 feature_v2:
   - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+    internal-label: Audiences
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+    internal-label: Implementation
+subfeature_v2:
+  - id: d051910f-2bda-47ea-a969-6ade9fcd71f1
+    internal-label: Implement mobile
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
+    internal-label: Personalization
+source-git-commit: d11449f8685d14c2bbd1e70f80711d4edab9d3a1
 workflow-type: tm+mt
-source-wordcount: 755
+source-wordcount: '756'
 ht-degree: 1%
-
 ---
-
 # 功能标记
 
 移动设备应用程序产品所有者需要能够灵活地在其应用程序中推出新功能，而无需投资发布多个应用程序。 他们可能还希望逐步向部分用户群推出功能，以测试有效性。 Adobe Target可用于试验UX功能，如颜色、复本、按钮、文本和图像，并将这些功能提供给特定受众。
@@ -125,7 +133,7 @@ public void processFeatureFlags() {
 
 ![创建功能标记JSON选件](assets/feature_flag_json_offer.jpg)
 
-让我们将其命名为“功能标记v1”，其值为{&quot;enable&quot;:1}
+我们使用值{&quot;enable&quot;：1}将其命名为“功能标记v1”
 
 ![feature_flag_v1 JSON选件](assets/feature_flag_json_name.jpg)
 

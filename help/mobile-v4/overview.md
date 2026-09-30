@@ -8,13 +8,30 @@ feature: Implement Mobile, Overview
 doc-type: tutorial
 kt: 3040
 exl-id: 20f8ed4f-a86d-4c5e-9296-71a93724caa3
-source-git-commit: 342e02562b5296871638c1120114214df6115809
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+feature_v2:
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+    internal-label: Implementation
+  - id: dfc8a233-f2b5-4811-bf63-b4262aebc5a5
+    internal-label: Administration and configuration
+subfeature_v2:
+  - id: d051910f-2bda-47ea-a969-6ade9fcd71f1
+    internal-label: Implement mobile
+  - id: fc9c2184-9102-403f-bd6c-0055021e4bea
+    internal-label: Overview
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d11449f8685d14c2bbd1e70f80711d4edab9d3a1
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 2%
-
 ---
-
 # Adobe Target与Adobe Mobile Services SDK v4 for Android — 概述
 
 对于已经在使用Adobe Mobile Services SDK v4且希望开始使用Android提供个性化应用程序体验的Android开发人员而言，_Adobe Target与Adobe Mobile Services SDK v4 for Adobe Target_&#x200B;是最佳起点。
@@ -23,14 +40,14 @@ ht-degree: 2%
 
 完成此教程后，您将能够：
 
-* 验证[Adobe Mobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=zh-Hans)安装程序
+* 验证[Adobe Mobile Services SDK](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html?lang=en)安装程序
 * 实施以下类型的[!DNL Target]请求：
-   * 预取[!DNL Target]内容
-   * 在单个请求中批处理多个[!DNL Target]位置(mbox)
-   * 阻止请求（在应用程序显示之前运行）
-   * 非阻塞请求（在后台运行）
-   * 实时（非缓存）
-   * Cache-busting重新获取
+  * 预取[!DNL Target]内容
+  * 在单个请求中批处理多个[!DNL Target]位置(mbox)
+  * 阻止请求（在应用程序显示之前运行）
+  * 非阻塞请求（在后台运行）
+  * 实时（非缓存）
+  * Cache-busting重新获取
 * 向增强个性化请求添加参数
 * 创建受众和选件
 * 个性化布局

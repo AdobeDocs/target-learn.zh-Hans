@@ -8,24 +8,32 @@ feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 exl-id: 88a5be3f-d61f-43e7-997a-574ef56122ed
-TQID: https://experienceleague.adobe.com/oQyrxuVXqyUR4v-BxX1cqqjvmGz58MeEme-fveXGG4o
+TQID: 'https://experienceleague.adobe.com/oQyrxuVXqyUR4v-BxX1cqqjvmGz58MeEme-fveXGG4o'
 product_v2:
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
 feature_v2:
   - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+    internal-label: Audiences
+  - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+    internal-label: Implementation
+subfeature_v2:
+  - id: d051910f-2bda-47ea-a969-6ade9fcd71f1
+    internal-label: Implement mobile
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
+    internal-label: Personalization
+source-git-commit: d11449f8685d14c2bbd1e70f80711d4edab9d3a1
 workflow-type: tm+mt
-source-wordcount: 1820
+source-wordcount: '1820'
 ht-degree: 0%
-
 ---
-
 # 添加Adobe Target请求
 
 Adobe Mobile Services SDK (v4)提供了Adobe Target方法和功能，可让您为不同用户使用不同的体验来个性化您的应用程序。 通常，应用程序会向Adobe Target发出一个或多个请求，以检索个性化内容并衡量该内容的影响。
@@ -63,7 +71,7 @@ Adobe Mobile Services SDK (v4)提供了Adobe Target方法和功能，可让您�
 
 我们将在We.Travel中实施的第一个请求是批预取请求，主屏幕上具有两个[!DNL Target]位置。 在稍后的课程中，我们将为这些显示消息的位置配置选件，以帮助引导新用户完成预订过程。
 
-预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=zh-Hans)。
+预取请求通过缓存Adobe Target服务器响应（选件）尽可能少地获取[!DNL Target]内容。 批量预取请求可检索和缓存多个选件，每个选件都与不同的位置关联。 所有预获取的位置都缓存在设备上，以供将来在用户会话中使用。 通过在主屏幕上预取多个位置，我们可以检索选件以供稍后访客在应用程序中导航时使用。 有关预取方法的更多详细信息，请参阅[预取文档](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)。
 
 ### 添加批次预回迁请求
 

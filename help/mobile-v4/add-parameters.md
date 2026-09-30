@@ -8,27 +8,36 @@ feature: Implement Mobile
 doc-type: tutorial
 kt: 3040
 exl-id: 0250e55f-a233-4060-84e1-86d1f88a6106
-TQID: https://experienceleague.adobe.com/jX5KNFVLueF72JlxIo4OV0NRWRxpSAZ-tOMacI8FXL4
+TQID: 'https://experienceleague.adobe.com/jX5KNFVLueF72JlxIo4OV0NRWRxpSAZ-tOMacI8FXL4'
 product_v2:
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
 feature_v2:
   - id: adee20bd-51f4-461d-b9db-d215f8756eeb
+    internal-label: Audiences
   - id: c93393a4-e558-47e1-992e-c91ed4d480ce
+    internal-label: Implementation
+subfeature_v2:
+  - id: d051910f-2bda-47ea-a969-6ade9fcd71f1
+    internal-label: Implement mobile
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
+    internal-label: Personalization
+source-git-commit: d11449f8685d14c2bbd1e70f80711d4edab9d3a1
 workflow-type: tm+mt
-source-wordcount: 823
+source-wordcount: '823'
 ht-degree: 0%
-
 ---
-
 # 向请求添加参数
 
 在本课程中，我们将将Adobe生命周期量度和自定义参数添加到上一课程中添加的[!DNL Target]请求。 在本教程的后面部分，这些量度和参数将用于创建个性化受众。
@@ -44,7 +53,7 @@ ht-degree: 0%
 
 ## 添加生命周期参数
 
-让我们启用[Adobe移动生命周期量度](https://experienceleague.adobe.com/docs/mobile-services/android/metrics.html?lang=zh-Hans)。 这会将参数添加到位置请求，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据来构建受众。
+让我们启用[Adobe移动生命周期量度](https://experienceleague.adobe.com/docs/mobile-services/android/metrics.html?lang=en)。 这会将参数添加到位置请求，这些请求包含有关用户设备和应用程序参与情况的丰富信息。 我们将在下一课程中使用生命周期请求提供的数据来构建受众。
 
 要启用生命周期量度，请再次打开HomeActivity控制器并将`Config.collectLifecycleData(this);`添加到onResume()函数：
 
@@ -103,7 +112,7 @@ public void targetPrefetchContent() {
 
 ### 关于参数的说明
 
-对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求[&#128279;](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=zh-Hans)的详细信息，请参阅文档。
+对于未来的项目，您可能需要实施其他参数。 `createTargetPrefetchObject()`方法允许三种类型的参数： `locationParams`、`orderParams`和`productParams`。 有关将这些参数添加到预获取请求](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html?lang=en)的详细信息，请参阅文档[。
 
 另请注意，可以将不同的位置参数添加到预回迁请求中的每个位置。 例如，您可以创建另一个名为param2的映射，在其中放置一个新参数，然后在一个位置设置param2，并在另一个位置设置param1。 示例如下：
 
@@ -160,11 +169,11 @@ public void targetLoadRequest(final ArrayList<Recommandation> recommandations) {
 
 >[!NOTE]
 >
->订单确认请求和参数：虽然未在此演示项目中使用，但订单详细信息通常是在实际实施中捕获的，因此[!DNL Target]可以将订单详细信息用作量度/维度。 请参阅文档，了解如何[实施订单确认请求和参数](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-target-methods.html?lang=zh-Hans)的说明。
+>订单确认请求和参数：虽然未在此演示项目中使用，但订单详细信息通常是在实际实施中捕获的，因此[!DNL Target]可以将订单详细信息用作量度/维度。 请参阅文档，了解如何[实施订单确认请求和参数](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-target-methods.html?lang=en)的说明。
 
 >[!NOTE]
 >
->Analytics for Target (A4T)：可将Adobe Analytics配置为[!DNL Target]的报表源。 这样即可在Adobe Analytics中查看Target SDK收集的所有量度/维度。 有关详细信息，请参阅[A4T概述](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=zh-Hans)。
+>Analytics for Target (A4T)：可将Adobe Analytics配置为[!DNL Target]的报表源。 这样即可在Adobe Analytics中查看Target SDK收集的所有量度/维度。 有关详细信息，请参阅[A4T概述](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)。
 
 做得不错！ 现在，参数已准备就绪，我们可以使用这些参数在Adobe Target中创建受众和选件。
 
