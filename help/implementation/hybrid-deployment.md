@@ -60,7 +60,7 @@ Adobe Target提供了独特的混合部署模型，用于混合客户端和服�
 * 开发人员
 * 架构师
 
->[!VIDEO](https://video.tv.adobe.com/v/41698/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329472/?captions=chi_hans&quality=12)
 
 ## 其他资源
 
