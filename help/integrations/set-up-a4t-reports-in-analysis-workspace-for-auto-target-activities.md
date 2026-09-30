@@ -88,7 +88,7 @@ ht-degree: 1%
 
 请注意，此替换将使A4T面板上的默认[!UICONTROL 提升度和置信度]计算失效。 为避免混淆，您可以从默认面板中删除这些量度，并保留以下报表：
 
-[!DNL Analysis Workspace]](assets/Figure2.png)中的![[!UICONTROL 按活动转化显示的体验]面板
+[!DNL Analysis Workspace]![&#128279;](assets/Figure2.png)中的[!UICONTROL 按活动转化显示的体验]面板
 
 *图2：[!DNL Auto-Target]活动的建议基线报告。 此报表已配置为将目标流量（由组合ML模型提供）与您的控制流量进行比较。*
 
@@ -100,13 +100,13 @@ ht-degree: 1%
 
 要进一步了解insight如何执行集成ML模型，您可以检查&#x200B;**[!UICONTROL 控制与目标]**&#x200B;维度的体验级别细分。 在[!DNL Analysis Workspace]中，将&#x200B;**[!UICONTROL Target体验]**&#x200B;维度拖动到您的报表中，然后分别细分每个控件和定向维度。
 
-[!DNL Analysis Workspace]](assets/Figure3.png)中的![[!UICONTROL 按活动转化显示的体验]面板
+[!DNL Analysis Workspace]![&#128279;](assets/Figure3.png)中的[!UICONTROL 按活动转化显示的体验]面板
 
 *图3：按Target体验划分目标维度*
 
 此处显示了生成报表的示例。
 
-[!DNL Analysis Workspace]](assets/Figure4.png)中的![[!UICONTROL 按活动转化显示的体验]面板
+[!DNL Analysis Workspace]![&#128279;](assets/Figure4.png)中的[!UICONTROL 按活动转化显示的体验]面板
 
 *图4：包含体验级别划分的标准[!UICONTROL 自动定位]报告。 请注意，您的目标量度可能不同，并且您的控制策略可能只有一个体验。*
 
@@ -151,7 +151,7 @@ ht-degree: 1%
 6. 单击齿轮图标，然后选择&#x200B;**[!UICONTROL 归因模型>实例]**，如下图所示。
 7. 单击&#x200B;**[!UICONTROL 保存]**。
 
-[!DNL Analysis Workspace]](assets/Figure5.png)中的![区段
+[!DNL Analysis Workspace]![&#128279;](assets/Figure5.png)中的区段
 
 *图5：使用如下图所示的区段过滤[!UICONTROL 自动定位]报告*&#x200B;的A4T中的[!UICONTROL 访问次数]量度
 
@@ -164,7 +164,7 @@ ht-degree: 1%
 
 最终面板如下所示：
 
-[!DNL Analysis Workspace]](assets/Figure6.png)中的![[!UICONTROL 按活动转化显示的体验]面板
+[!DNL Analysis Workspace]![&#128279;](assets/Figure6.png)中的[!UICONTROL 按活动转化显示的体验]面板
 
 *图6：报表面板，其中的“具有特定自动定位活动的点击”区段应用于[!UICONTROL 访问次数]量度。 此区段确保报告中仅包含用户实际与相关[!DNL Target]活动交互的访问。*
 
@@ -276,6 +276,6 @@ A4T集成允许[!UICONTROL 自动定位] ML模型使用[!DNL Adobe Analytics]用
 
 单击以展开图像。
 
-在Analysis Workspace的[!DNL Analysis Workspace]](assets/Figure10.png "A4T报表中![最终A4T报表"){width="600" zoomable="yes"}
+在Analysis Workspace的![[!DNL Analysis Workspace&rbrack;]](assets/Figure10.png "A4T报表中&lbrack;最终A4T报表"){width="600" zoomable="yes"}
 
 *图10： [!DNL Adobe Analytics] [!DNL Workspace]中的最终A4T [!UICONTROL 自动定位]报告，它合并了本教程前面部分所述对量度定义的所有调整。*
