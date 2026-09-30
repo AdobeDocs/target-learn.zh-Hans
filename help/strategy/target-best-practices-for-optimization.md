@@ -155,6 +155,6 @@ Personalization还包括体验定位测试活动类型，该活动类型根据�
 
 鉴于上述原因，Adobe建议您在进行个性化之前先进行优化，并将Personalization从大致提升到精细程度。 要使Personalization活动从粗到细变得成熟，您将开始使用一对多（广泛）个性化样式（使用A/B测试），然后转为一对一（粒度）个性化样式（使用自动个性化活动）。
 
-有关详细信息，请阅读个性化测试和路线图创建的[快速入门](https://experienceleague.adobe.com/en/perspectives/quickstart-for-personalization-testing-and-roadmap-creation)。
+有关详细信息，请阅读个性化测试和路线图创建的[快速入门](https://experienceleague.adobe.com/zh-hans/perspectives/quickstart-for-personalization-testing-and-roadmap-creation)。
 
-在[视角](https://experienceleague.adobe.com/en/perspectives)中心中了解有关战略和思想领导力的更多信息。
+在[视角](https://experienceleague.adobe.com/zh-hans/perspectives)中心中了解有关战略和思想领导力的更多信息。

@@ -70,4 +70,4 @@ SPA VEC使营销人员能够以DIY（自己动手）方式创建测试并对SPA�
 
 * [在单页应用程序中实施at.js 2.0](../implementation/implement-atjs-20-in-a-single-page-application.md)
 * [了解at.js 2.0的工作方式（架构图）](../implementation/understanding-how-atjs-20-works.md)
-* [单页应用程序(SPA)可视化体验编辑器文档](https://experienceleague.adobe.com/docs/target/using/experiences/spa-visual-experience-composer.html?lang=en)
+* [单页应用程序(SPA)可视化体验编辑器文档](https://experienceleague.adobe.com/docs/target/using/experiences/spa-visual-experience-composer.html?lang=zh-Hans)

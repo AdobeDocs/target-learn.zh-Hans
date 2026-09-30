@@ -49,5 +49,5 @@ Recommendations选件可与A/B测试和体验定位活动一起使用。 此功�
 
 ## 其他资源
 
-* [“推荐”作为选件文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=en)
+* [“推荐”作为选件文档](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-as-an-offer.html?lang=zh-Hans)
 * [创建“推荐”活动视频](create-a-recommendations-activity.md)

@@ -52,4 +52,4 @@ Automated Personalization和自动定位活动可使用先进的机器学习技�
 
 ## 其他信息
 
-* [Personalization在帮助文档中的分析](https://experienceleague.adobe.com/docs/target/using/reports/insights/personalization-insights-reports.html?lang=en)
+* [Personalization在帮助文档中的分析](https://experienceleague.adobe.com/docs/target/using/reports/insights/personalization-insights-reports.html?lang=zh-Hans)

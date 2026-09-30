@@ -64,5 +64,5 @@ Adobe Target提供了独特的混合部署模型，用于混合客户端和服�
 
 ## 其他资源
 
-* [设备上决策概述](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/implementation/on-device-decisioning-overview#implementation)
-* [Adobe Target SDK文档](https://experienceleague.adobe.com/en/docs/target-dev/developer/server-side/on-device-decisioning/overview)
+* [设备上决策概述](https://experienceleague.adobe.com/zh-hans/docs/target-learn/tutorials/implementation/on-device-decisioning-overview#implementation)
+* [Adobe Target SDK文档](https://experienceleague.adobe.com/zh-hans/docs/target-dev/developer/server-side/on-device-decisioning/overview)
