@@ -1,35 +1,47 @@
 ---
-title: 如何在 [!DNL Analysis Workspace] 中为[!UICONTROL 自动分配]活动设置A4T报表
-description: 运行[!UICONTROL 自动分配]活动时，如何在 [!DNL Adobe] [!DNL Analysis Workspace]中配置[!UICONTROL Analytics for Target] (A4T)报表。
+title: 如何在[!DNL Analysis Workspace]中为[!UICONTROL 自动分配]活动设置A4T报表
+description: 运行[!UICONTROL 自动分配]活动时，如何在[!DNL Adobe] [!DNL Analysis Workspace]中配置[!UICONTROL Analytics for Target] (A4T)报告。
 role: User
 level: Intermediate
 topic: Personalization, Integrations
 feature: Analytics for Target (A4T), Auto-Target, Integrations
 doc-type: tutorial
-kt: null
+kt:
 exl-id: 7d53adce-cc05-4754-9369-9cc1763a9450
-TQID: https://experienceleague.adobe.com/5oQMgqqxw2VN-6cb29j4bwEP6VYmGRLXIp5AMJ3WWM4
+TQID: 'https://experienceleague.adobe.com/5oQMgqqxw2VN-6cb29j4bwEP6VYmGRLXIp5AMJ3WWM4'
 product_v2:
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
 feature_v2:
   - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+    internal-label: Integrations
+  - id: 891742a5-242d-5099-966a-ca76c17cd2d2
+    internal-label: Analytics for Target (A4T)
+  - id: f69bc5f1-ebdb-4306-a281-f2e77daf734c
+    internal-label: Activities and tests
 subfeature_v2:
   - id: df62f171-ac37-440f-8f0f-f41a72ebdd34
+    internal-label: Analytics integration
+  - id: db15a02f-03cd-46fe-a53e-02064cdeadfa
+    internal-label: Auto target
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0b4abf2d4ead4d58a8db6e8970857b7b50dbe5c
+    internal-label: Personalization
+source-git-commit: d11449f8685d14c2bbd1e70f80711d4edab9d3a1
 workflow-type: tm+mt
-source-wordcount: 1546
+source-wordcount: '1549'
 ht-degree: 0%
-
 ---
-
 # 在[!DNL Analysis Workspace]中为[!DNL Auto-Allocate]活动设置A4T报表
 
 [!DNL Adobe Target]中的[[!UICONTROL 自动分配]活动](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html?lang=zh-Hans){target=_blank}在两个或更多体验中标识一个入选者，并在测试继续运行和学习期间，自动为入选者重新分配访客流量。 针对[!UICONTROL 自动分配]的[!UICONTROL Analytics for Target] (A4T)集成允许您查看[!DNL Adobe Analytics]中的报表数据，并且可以优化[!DNL Analytics]中定义的自定义事件或量度。
@@ -40,8 +52,8 @@ ht-degree: 0%
 
 * 使用[!DNL Analytics]指标
 
-   * [!UICONTROL 最大化每位访客的量度值]
-   * [!UICONTROL 最大化的独特访客转化率]
+  * [!UICONTROL 最大化每位访客的量度值]
+  * [!UICONTROL 最大化的独特访客转化率]
 
 * 使用[!DNL Target]定义的转化量度
 
@@ -169,7 +181,7 @@ ht-degree: 0%
 
    A4T面板中的![日期范围](/help/integrations/assets/date-range.png)
 
-1. 在[!DNL Analytics]中，将时间范围设置为12:00am - 11:59pm。
+1. 在[!DNL Analytics]中，将时间范围设置为凌晨12:00到晚上11:59。
 
 ### 确定活动入选者 {#winner}
 
