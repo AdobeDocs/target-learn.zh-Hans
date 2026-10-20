@@ -17,4 +17,4 @@ ht-degree: 0%
 
 此视频演示如何使用Adobe Target的“查看次数最多”配置文件属性功能来提供特定于区段的本地化推荐，而不是提供放之四海而皆准的人气列表。 通过设置简单的配置文件脚本并选择配置文件属性热门程度算法，企业可以根据用户国家/地区、订阅层或人口统计等属性动态定制“查看次数最多”的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503624/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503632/?captions=chi_hans&learn=on&enablevpops)
