@@ -57,6 +57,6 @@ ht-degree: 0%
 * 开发人员
 * 架构师
 
->[!VIDEO](https://video.tv.adobe.com/v/35143/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507978/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/implement-target/implementing-target.html?lang=zh-Hans)。

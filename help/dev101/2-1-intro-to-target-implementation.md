@@ -50,7 +50,7 @@ ht-degree: 39%
 * 开发人员
 * 架构师
 
->[!VIDEO](https://video.tv.adobe.com/v/35139/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507969/?captions=chi_hans&quality=12)
 
 有关详细信息，请参阅&#x200B;*[!UICONTROL Adobe Target开发人员指南]*&#x200B;中的[客户端实现](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=zh-Hans){target=_blank}或[服务器端实现](https://experienceleague.adobe.com/docs/target-dev/developer/server-side/server-side-overview.html?lang=zh-Hans){target=_blank}。
 
