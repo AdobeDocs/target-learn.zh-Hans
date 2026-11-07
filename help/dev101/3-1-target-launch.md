@@ -48,7 +48,7 @@ ht-degree: 6%
 
 * 开发人员
 
->[!VIDEO](https://video.tv.adobe.com/v/35145/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507705/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[标记教程](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hans)。
 
