@@ -48,6 +48,6 @@ ht-degree: 2%
 
 * 开发人员
 
->[!VIDEO](https://video.tv.adobe.com/v/35149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3508014/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=zh-Hans)。
